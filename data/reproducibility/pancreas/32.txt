@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE81547	alpha	spearman	0.229126888238823	35.4471945699953

@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE81547	delta	MI	0.0119447944996594	3.20378850370197

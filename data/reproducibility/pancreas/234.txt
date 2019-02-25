@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE84133_human	delta	canberra	0.307337389561966	18.8870673660056

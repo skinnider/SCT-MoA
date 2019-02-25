@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE81547	alpha	manhattan	0.494483240957006	43.5425353847497

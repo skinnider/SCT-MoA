@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	E-MTAB-5061	alpha	rho_p	0.0546291936501499	103.62241673561

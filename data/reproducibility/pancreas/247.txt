@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE84133_human	alpha	euclidean	0.575841838839803	34.790341370433

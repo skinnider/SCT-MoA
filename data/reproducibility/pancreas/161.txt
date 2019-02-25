@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	E-MTAB-5061	beta	cosine	0.503066531489001	58.0672386989955

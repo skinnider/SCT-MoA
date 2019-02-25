@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81547	GSE81608	alpha	manhattan	0.603532652160924	47.5347200170341

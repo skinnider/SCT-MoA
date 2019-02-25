@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE81608	alpha	jaccard	0.69205930261363	68.5869821390245

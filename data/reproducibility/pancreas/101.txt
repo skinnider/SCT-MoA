@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	E-MTAB-5061	beta	bicor	0.0510631422528966	17.3936352781625

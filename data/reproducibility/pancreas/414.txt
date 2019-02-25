@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE84133_human	delta	phi_s	-0.0396488106489046	-7.11057474897102

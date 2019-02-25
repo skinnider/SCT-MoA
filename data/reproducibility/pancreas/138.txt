@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81547	GSE81608	beta	binomial	0.114491212023262	26.4859994484723

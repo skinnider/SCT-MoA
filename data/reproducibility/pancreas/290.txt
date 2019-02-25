@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81608	GSE84133_human	beta	manhattan	0.535572424270508	27.5402166316594

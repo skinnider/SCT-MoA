@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE81608	beta	pearson	0.0241091125588427	24.7828178785754

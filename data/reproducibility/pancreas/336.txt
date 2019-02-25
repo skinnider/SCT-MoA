@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE81608	alpha	hamming	0.408794724444045	469.177372053817

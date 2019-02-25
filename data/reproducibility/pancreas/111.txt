@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	E-MTAB-5061	delta	bicor	0.0985283553593807	26.9245590587247

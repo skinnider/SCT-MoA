@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE84133_human	delta	spearman	0.0550922538126111	12.19326807909

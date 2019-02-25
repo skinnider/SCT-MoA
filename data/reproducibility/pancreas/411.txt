@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	E-MTAB-5061	delta	phi_s	0.0256315642508981	80.3725394498169

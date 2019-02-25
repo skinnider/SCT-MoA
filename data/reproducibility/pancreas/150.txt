@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81608	GSE84133_human	delta	binomial	0.0589915951324888	14.8072439169549

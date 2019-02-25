@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81547	GSE84133_human	delta	kendall	0.0611249250748691	10.0862074767102

@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81608	GSE84133_human	delta	bicor	0.0386232882670885	10.8787996639956

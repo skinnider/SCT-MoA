@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81608	GSE84133_human	delta	rho_p	0.0110096981792006	7.9491388123164

@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	E-MTAB-5061	alpha	spearman	-0.0739739520020484	-11.9748928869054

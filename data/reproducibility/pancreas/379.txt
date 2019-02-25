@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81547	GSE84133_human	beta	dice	0.545008461912818	34.1643778418729

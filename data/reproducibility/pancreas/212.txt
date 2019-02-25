@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE81547	alpha	canberra	0.418039570845354	34.76603017424

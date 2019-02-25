@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE81547	delta	manhattan	0.619538618133368	51.0100378681109

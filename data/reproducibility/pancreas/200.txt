@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81608	GSE84133_human	beta	jaccard	0.4708482379733	24.3624954006768

@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE81608	alpha	canberra	0.518400582609388	70.7036076451955

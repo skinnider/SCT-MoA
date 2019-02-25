@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE81547	alpha	euclidean	0.629211136069042	51.735622514541

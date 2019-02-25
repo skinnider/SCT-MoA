@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE84133_human	alpha	euclidean	0.662940359903193	45.1366603957039

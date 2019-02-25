@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81547	GSE81608	alpha	cosine	0.554174147289921	51.3414379817984

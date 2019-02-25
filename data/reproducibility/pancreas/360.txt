@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81608	GSE84133_human	delta	hamming	-0.0837310105243291	-8.91252518199953

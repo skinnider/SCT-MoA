@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81547	GSE81608	alpha	bicor	0.0590278160749647	28.9965253878205

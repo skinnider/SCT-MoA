@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE81608	delta	kendall	0.0143364003213933	8.89562002534829

@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81547	GSE84133_human	beta	hamming	0.281882252072644	86.8297245362317

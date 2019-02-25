@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE81608	alpha	pearson	0.0595380068585226	131.539390381982

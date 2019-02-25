@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81547	GSE84133_human	beta	cosine	0.475191810668023	32.4589628235767

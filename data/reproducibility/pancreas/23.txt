@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE81608	delta	pearson	0.0134527386034643	8.52289075181421

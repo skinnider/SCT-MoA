@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE84133_human	alpha	zi_kendall	0.129651702269557	18.8105304021208

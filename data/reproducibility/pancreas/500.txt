@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81608	GSE84133_human	beta	MI	-0.00415540090939258	-0.427015927409377

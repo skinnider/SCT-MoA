@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE81547	delta	rho_p	0.0503538257341848	167.94486808433

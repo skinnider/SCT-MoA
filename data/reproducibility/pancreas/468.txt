@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE81547	GSE81608	beta	zi_kendall	0.359424280689084	50.5601745523211

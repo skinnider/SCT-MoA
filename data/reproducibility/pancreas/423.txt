@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE81608	alpha	rho_p	0.109969624141506	459.434324278284

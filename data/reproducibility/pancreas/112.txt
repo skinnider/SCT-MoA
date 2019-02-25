@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+GSE85241	GSE81547	delta	bicor	0.0823852472899744	23.6521678492802

@@ -1,0 +1,2 @@
+id1	id2	cell_type	coefficient	statistic	z_score
+E-MTAB-5061	GSE81608	beta	weighted_rank	0.0457287977494708	14.6355375480314
