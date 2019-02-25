@@ -1,0 +1,21 @@
+# OS X
+.DS_Store
+
+# Eclipse
+.settings
+.project
+.classpath
+/build/
+/bin/
+/target/
+
+# Rstudio
+.R* 
+
+# Python
+*.pyc
+.idea
+
+## GitHub won't accept (>100 MB)
+data/networks/STRING/10090.protein.links.detailed.v10.5.txt.gz
+data/geo/raw/E-MTAB-5061/pancreas_refseq_rpkm_3514sc.txt.gz
