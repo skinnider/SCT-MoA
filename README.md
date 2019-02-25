@@ -33,4 +33,3 @@ To analyze the reproducibility of coexpression networks inferred with each measu
 ### Disease gene analysis
 
 We analyzed disease gene prediction for CNS-related disorders and cell type-specific coexpression of genes associated with cerebrovascular disease; both lists of disease genes were obtained from [Phenopedia](https://phgkb.cdc.gov/PHGKB/startPagePhenoPedia.action), and preprocessed using the scripts `R/disease/preprocess-phenopedia.R` and `R/disease/create-mesh-map.R`. We subsequently used the same framework as in the functional coherence analysis (reimplemented in `R/disease/analyze-auroc-disease.R`) to analyze disease gene coexpression in each case, visualizing the results with the script `R/disease/plot-auroc-disease.R`. 
-## SCT-MoA
