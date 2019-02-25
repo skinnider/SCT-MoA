@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	HIPPIE	20000	531	125.31	126	10.7587831161993	4.21428571428571	37.7077960972335
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	HIPPIE	50000	821	292.26	292	14.8722641996517	2.81164383561644	35.5520849348804
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	HIPPIE	1e+05	1230	563	562.5	21.0406052837619	2.18666666666667	31.7006089418329
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	Reactome	20000	767	73.89	74	8.90113487259922	10.3648648648649	77.8675988983868
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	Reactome	50000	1122	219.45	219	13.8508468909291	5.12328767123288	65.1620804927878
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	Reactome	1e+05	1625	469.11	468	19.0998942299679	3.47222222222222	60.5181361782832
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	STRING	20000	380	46.5	46	6.91725992344403	8.26086956521739	48.2127321643212
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	STRING	50000	534	107.75	108	9.30990023707249	4.94444444444444	45.7845937277234
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	STRING	1e+05	721	194.25	194	13.5731277891206	3.71649484536082	38.8082988817221
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	OmniPath	20000	505	33.76	34	5.63201526627867	14.8529411764706	83.6716481969642
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	OmniPath	50000	546	62.85	62	7.19058728161653	8.80645161290323	67.1920082571311
+Non-glutamatergic_neuroblasts-expression.csv.gz	spearman	OmniPath	1e+05	605	105.32	106	9.33969480175337	5.70754716981132	53.5006775495698

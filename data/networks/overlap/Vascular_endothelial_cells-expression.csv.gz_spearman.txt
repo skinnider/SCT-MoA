@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	spearman	HIPPIE	20000	534	126.89	126	10.5657106918675	4.23809523809524	38.5312462050808
+Vascular_endothelial_cells-expression.csv.gz	spearman	HIPPIE	50000	771	289.7	288.5	15.4190620579682	2.67244367417678	31.2146094354212
+Vascular_endothelial_cells-expression.csv.gz	spearman	HIPPIE	1e+05	1091	541.1	538.5	19.9010176888144	2.02599814298979	27.6317527374028
+Vascular_endothelial_cells-expression.csv.gz	spearman	Reactome	20000	788	133.75	135	11.4639311395227	5.83703703703704	57.0703009323242
+Vascular_endothelial_cells-expression.csv.gz	spearman	Reactome	50000	1093	308.52	308.5	17.233676217209	3.54294975688817	45.5201774776668
+Vascular_endothelial_cells-expression.csv.gz	spearman	Reactome	1e+05	1571	611.57	611.5	23.1979862414082	2.56909239574816	41.358331279955
+Vascular_endothelial_cells-expression.csv.gz	spearman	STRING	20000	363	52.06	52	6.97588921235353	6.98076923076923	44.5735289845716
+Vascular_endothelial_cells-expression.csv.gz	spearman	STRING	50000	528	121.78	121	10.3470876203027	4.36363636363636	39.2593563432214
+Vascular_endothelial_cells-expression.csv.gz	spearman	STRING	1e+05	728	227.87	227	13.8619856609595	3.20704845814978	36.0792466701616
+Vascular_endothelial_cells-expression.csv.gz	spearman	OmniPath	20000	493	39.11	40	5.50646085168242	12.325	82.4286256137316
+Vascular_endothelial_cells-expression.csv.gz	spearman	OmniPath	50000	541	78.46	78.5	7.7256231156621	6.89171974522293	59.8708988356287
+Vascular_endothelial_cells-expression.csv.gz	spearman	OmniPath	1e+05	589	132.62	133	9.08965445887896	4.42857142857143	50.2087292827945

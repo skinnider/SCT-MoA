@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Ependymal_cells-expression.csv.gz	canberra	HIPPIE	20000	333	88.29	89	8.89704865376574	3.74157303370787	27.5046264804256
+Ependymal_cells-expression.csv.gz	canberra	HIPPIE	50000	590	196.86	195.5	14.7696248490548	3.01790281329923	26.6181439283584
+Ependymal_cells-expression.csv.gz	canberra	HIPPIE	1e+05	847	360.41	360.5	19.1063451304122	2.3495145631068	25.4674557943308
+Ependymal_cells-expression.csv.gz	canberra	Reactome	20000	502	71.34	72	8.54012513806076	6.97222222222222	50.4278325010342
+Ependymal_cells-expression.csv.gz	canberra	Reactome	50000	793	174.14	174.5	12.8393492393068	4.54441260744986	48.2002622146456
+Ependymal_cells-expression.csv.gz	canberra	Reactome	1e+05	1092	332.41	333	18.078445785526	3.27927927927928	42.0163330969604
+Ependymal_cells-expression.csv.gz	canberra	STRING	20000	207	33.11	33	5.69936200576234	6.27272727272727	30.5104325403771
+Ependymal_cells-expression.csv.gz	canberra	STRING	50000	330	70.83	70	7.69107445436762	4.71428571428571	33.6975024150003
+Ependymal_cells-expression.csv.gz	canberra	STRING	1e+05	477	136.32	137	11.4837434504766	3.48175182481752	29.666284471538
+Ependymal_cells-expression.csv.gz	canberra	OmniPath	20000	316	20.39	20	4.17519127971668	15.8	70.801546610832
+Ependymal_cells-expression.csv.gz	canberra	OmniPath	50000	453	41.37	41	5.82342014817944	11.0487804878049	70.6852656215587
+Ependymal_cells-expression.csv.gz	canberra	OmniPath	1e+05	514	69.76	68.5	7.84331408000316	7.5036496350365	56.6393230551111

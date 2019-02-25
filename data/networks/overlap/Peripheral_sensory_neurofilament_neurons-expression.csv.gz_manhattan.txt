@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	HIPPIE	20000	57	43.36	44	5.56961453429284	1.29545454545455	2.44900251462947
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	HIPPIE	50000	144	112.75	112	9.93857396839469	1.28571428571429	3.1443142748021
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	266	212.2	211	16.0762074023833	1.260663507109	3.34656045753827
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	Reactome	20000	97	46.44	47	5.94132930743566	2.06382978723404	8.50988009311711
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	Reactome	50000	246	121.93	121.5	9.85783285955228	2.02469135802469	12.5859305759861
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	Reactome	1e+05	412	231.04	230.5	13.9746668343583	1.78741865509761	12.9491459184622
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	STRING	20000	31	13.45	14	3.29791792291176	2.21428571428571	5.32153935004694
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	STRING	50000	68	29.69	30	5.23526310685335	2.26666666666667	7.31768379507982
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	STRING	1e+05	126	56.81	57	7.20506976392528	2.21052631578947	9.60296045243366
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	OmniPath	20000	9	6.55	6	2.64527404014683	1.5	0.926180033832717
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	OmniPath	50000	25	18.41	18.5	3.85100013245936	1.35135135135135	1.71124377391061
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	45	31.98	32	5.23002211401934	1.40625	2.4894732213654

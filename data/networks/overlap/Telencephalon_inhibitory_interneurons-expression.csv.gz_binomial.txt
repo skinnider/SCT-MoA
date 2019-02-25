@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	HIPPIE	20000	59	27.94	28	4.78596432764125	2.10714285714286	6.48981017694042
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	HIPPIE	50000	153	81.73	81	9.04294467996175	1.88888888888889	7.88128231702303
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	HIPPIE	1e+05	329	186.64	188	14.4938301049485	1.75	9.82211044073129
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	Reactome	20000	153	40.63	40	5.45996447984894	3.825	20.5807199689162
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	Reactome	50000	360	122.17	121	10.937891695728	2.97520661157025	21.7436784543122
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	Reactome	1e+05	734	274.87	273	17.6163692242887	2.68864468864469	26.0626917019298
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	STRING	20000	87	13.29	14	3.46204528794145	6.21428571428571	21.290882663129
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	STRING	50000	171	36.68	37	5.95247168762013	4.62162162162162	22.5654160236254
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	STRING	1e+05	291	76.56	77	8.43791347658791	3.77922077922078	25.4138657139578
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	OmniPath	20000	23	6.12	6	2.64108945993004	3.83333333333333	6.3913018684521
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	OmniPath	50000	53	17.59	18	4.04543638629451	2.94444444444444	8.7530729984941
+Telencephalon_inhibitory_interneurons-expression.csv.gz	binomial	OmniPath	1e+05	114	39	39	5.93227774062537	2.92307692307692	12.6426986866083

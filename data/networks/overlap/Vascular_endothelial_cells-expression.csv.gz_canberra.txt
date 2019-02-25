@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	canberra	HIPPIE	20000	463	104.31	104	10.2678226425169	4.45192307692308	34.933404333918
+Vascular_endothelial_cells-expression.csv.gz	canberra	HIPPIE	50000	722	263.45	264.5	15.468687825097	2.7296786389414	29.6437555133818
+Vascular_endothelial_cells-expression.csv.gz	canberra	HIPPIE	1e+05	1062	507.04	506	22.0801661536714	2.09881422924901	25.1338688367489
+Vascular_endothelial_cells-expression.csv.gz	canberra	Reactome	20000	657	97.23	96	10.1810429899709	6.84375	54.9815967334009
+Vascular_endothelial_cells-expression.csv.gz	canberra	Reactome	50000	981	262	259	17.0826866100793	3.78764478764479	42.0893982551766
+Vascular_endothelial_cells-expression.csv.gz	canberra	Reactome	1e+05	1433	502.13	500	20.8019302717393	2.866	44.7492125894031
+Vascular_endothelial_cells-expression.csv.gz	canberra	STRING	20000	285	39.92	40	5.76769127348739	7.125	42.4918721164169
+Vascular_endothelial_cells-expression.csv.gz	canberra	STRING	50000	431	105.28	105.5	9.17625393957885	4.08530805687204	35.4959662346647
+Vascular_endothelial_cells-expression.csv.gz	canberra	STRING	1e+05	584	184.75	184.5	12.695640705742	3.16531165311653	31.4478023798694
+Vascular_endothelial_cells-expression.csv.gz	canberra	OmniPath	20000	449	30.93	31.5	5.19373165314194	14.2539682539683	80.4951098594186
+Vascular_endothelial_cells-expression.csv.gz	canberra	OmniPath	50000	506	66.24	67	7.25734737415062	7.55223880597015	60.5951427330524
+Vascular_endothelial_cells-expression.csv.gz	canberra	OmniPath	1e+05	573	107.27	107	9.78749459795767	5.35514018691589	47.584189737094

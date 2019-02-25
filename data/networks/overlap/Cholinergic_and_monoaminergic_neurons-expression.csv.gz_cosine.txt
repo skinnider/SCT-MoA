@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	HIPPIE	20000	531	113.66	113.5	9.09791850986374	4.6784140969163	45.8720310087995
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	HIPPIE	50000	739	258.34	258	14.64338372333	2.86434108527132	32.8243805585868
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	HIPPIE	1e+05	1026	478.95	478	21.8647703353633	2.14644351464435	25.0197002579634
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	Reactome	20000	856	108.06	109.5	9.56088411447943	7.81735159817352	78.229166993802
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	Reactome	50000	1254	292.97	294	15.1313808645704	4.26530612244898	63.5123792469079
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	Reactome	1e+05	1813	561.82	562	20.1039621201716	3.22597864768683	62.2354933082874
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	STRING	20000	344	36.34	36.5	4.80366022061839	9.42465753424658	64.0469945562457
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	STRING	50000	515	87.27	87	8.02377150041731	5.91954022988506	53.3078490554914
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	STRING	1e+05	684	156.7	157	12.5621686347573	4.35668789808917	41.9752365480155
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	OmniPath	20000	466	33.47	33	4.84602304925796	14.1212121212121	89.2546311900499
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	OmniPath	50000	530	67.99	68	6.75620926528802	7.79411764705882	68.3830209898486
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	cosine	OmniPath	1e+05	599	121.74	121	10.7915230480674	4.9504132231405	44.2254534299003

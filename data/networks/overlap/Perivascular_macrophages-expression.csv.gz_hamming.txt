@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	hamming	HIPPIE	20000	174	47.94	47	7.21365148012903	3.70212765957447	17.4751996748456
+Perivascular_macrophages-expression.csv.gz	hamming	HIPPIE	50000	271	105.94	106	9.17266470431454	2.55660377358491	17.9947709112665
+Perivascular_macrophages-expression.csv.gz	hamming	HIPPIE	1e+05	413	203.26	202	13.7918289379816	2.04455445544554	15.2075552084607
+Perivascular_macrophages-expression.csv.gz	hamming	Reactome	20000	324	95.52	96	8.85857457124697	3.375	25.7919598872709
+Perivascular_macrophages-expression.csv.gz	hamming	Reactome	50000	503	196.37	197	13.4439765341399	2.55329949238579	22.8079838745134
+Perivascular_macrophages-expression.csv.gz	hamming	Reactome	1e+05	732	355.94	354	18.0872297156828	2.06779661016949	20.7914648020383
+Perivascular_macrophages-expression.csv.gz	hamming	STRING	20000	84	15.09	15	3.78218845312466	5.6	18.2196103800883
+Perivascular_macrophages-expression.csv.gz	hamming	STRING	50000	125	38.73	39	6.1494107461815	3.20512820512821	14.0289864445255
+Perivascular_macrophages-expression.csv.gz	hamming	STRING	1e+05	200	84.14	84	8.40997483751746	2.38095238095238	13.7764978181791
+Perivascular_macrophages-expression.csv.gz	hamming	OmniPath	20000	168	11.54	11	3.16999824745833	15.2727272727273	49.356494163821
+Perivascular_macrophages-expression.csv.gz	hamming	OmniPath	50000	207	22.03	22	4.01123422402632	9.40909090909091	46.1129890875169
+Perivascular_macrophages-expression.csv.gz	hamming	OmniPath	1e+05	247	42.14	42	5.65153058735401	5.88095238095238	36.2485873222378

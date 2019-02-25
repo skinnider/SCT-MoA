@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	HIPPIE	20000	79	48.26	48	6.67820214117421	1.64583333333333	4.6030352705968
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	HIPPIE	50000	145	99.54	99	10.7707235062685	1.46464646464646	4.22070067749325
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	240	186.65	187	13.9605323912258	1.28342245989305	3.82148749810792
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	Reactome	20000	104	39.43	39	5.67513627300453	2.66666666666667	11.377700357108
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	Reactome	50000	196	91.75	91	8.30160627027485	2.15384615384615	12.5578106942126
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	Reactome	1e+05	346	188.81	189.5	12.8501031713816	1.82585751978892	12.2325866106723
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	STRING	20000	39	12.76	13	3.94947893251551	3	6.64391441209364
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	STRING	50000	69	31.78	32	5.92304180657407	2.15625	6.28393335983024
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	STRING	1e+05	124	63.33	63	8.72944049255915	1.96825396825397	6.95004451335847
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	OmniPath	20000	41	4.36	4	2.06715536743887	10.25	17.7248408983383
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	OmniPath	50000	50	10.55	10	2.55988872864238	5	15.4108260873206
+Olfactory_inhibitory_neurons-expression.csv.gz	hamming	OmniPath	1e+05	79	24.05	24	4.25541841169419	3.29166666666667	12.9129487828961

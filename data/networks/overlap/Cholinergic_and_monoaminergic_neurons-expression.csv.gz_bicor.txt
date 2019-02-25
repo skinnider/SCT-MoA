@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	HIPPIE	20000	465	130.82	130.5	11.2630440652677	3.5632183908046	29.6704867763525
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	HIPPIE	50000	702	281.33	282	16.091314552901	2.48936170212766	26.1426745849151
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	947	497.67	497.5	23.1843969649043	1.9035175879397	19.3807068038121
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	Reactome	20000	806	148.17	148	11.0955947214299	5.44594594594595	59.2874935067227
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	Reactome	50000	1239	345.55	345	17.13132578735	3.59130434782609	52.1529980277262
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	Reactome	1e+05	1750	617.01	616.5	20.7809620527632	2.83860502838605	54.5205749918276
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	STRING	20000	296	39.92	40.5	5.52620936076348	7.30864197530864	46.3391781386692
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	STRING	50000	438	90.6	91	9.22118772340652	4.81318681318681	37.6741055946817
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	STRING	1e+05	610	169.23	169	11.9526464674463	3.6094674556213	36.8763521284144
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	OmniPath	20000	422	33.49	33	5.21941790167479	12.7878787878788	74.4355035980806
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	OmniPath	50000	507	71.19	71	7.8208411028198	7.14084507042254	55.7241854514688
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	bicor	OmniPath	1e+05	574	117.54	118	9.79942278242381	4.86440677966102	46.5802945882388

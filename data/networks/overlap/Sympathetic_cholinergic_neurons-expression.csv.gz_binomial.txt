@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	HIPPIE	20000	43	33.49	34	5.83700317462703	1.26470588235294	1.62926072086772
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	HIPPIE	50000	132	88.26	88	9.34049508778033	1.5	4.68283528752375
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	262	182.21	182	13.7710683402677	1.43956043956044	5.79403122753285
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	Reactome	20000	131	67.72	68	7.47261667690776	1.92647058823529	8.46825185019203
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	Reactome	50000	311	172.73	173.5	12.4939217545205	1.79250720461095	11.0669814263861
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	Reactome	1e+05	630	361.43	363	17.8293000253498	1.73553719008264	15.0634068425651
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	STRING	20000	20	9.18	9	2.92111781565367	2.22222222222222	3.70406148701632
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	STRING	50000	51	28.5	28	4.48228837658947	1.82142857142857	5.01975734482305
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	STRING	1e+05	119	61.21	61	6.43270526059581	1.95081967213115	8.98377862172522
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	OmniPath	20000	11	4.67	4	2.12277215361461	2.75	2.98194980051034
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	OmniPath	50000	39	14.29	14	3.99821930060841	2.78571428571429	6.18025129242908
+Sympathetic_cholinergic_neurons-expression.csv.gz	binomial	OmniPath	1e+05	75	29.66	29	5.89507584276226	2.58620689655172	7.69116483135101

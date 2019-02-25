@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	HIPPIE	20000	321	104.17	104	9.50391200687083	3.08653846153846	22.8148156089033
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	HIPPIE	50000	536	229.68	230	14.2402757889535	2.3304347826087	21.5108193506772
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	HIPPIE	1e+05	830	432.37	431	16.6567576604085	1.92575406032483	23.8719928636009
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	Reactome	20000	391	65.14	64.5	7.79927476555909	6.06201550387597	41.7808078052294
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	Reactome	50000	703	173.02	172	11.8909013684218	4.08720930232558	44.5702124321245
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	Reactome	1e+05	1198	367.7	367.5	16.1041433905512	3.25986394557823	51.5581599010825
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	STRING	20000	206	34.81	34	5.71140096737228	6.05882352941176	29.9733814834509
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	STRING	50000	363	78.78	79	8.46332551588788	4.59493670886076	33.582543819973
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	STRING	1e+05	577	139.14	138	10.9110452794821	4.18115942028986	40.129977356375
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	OmniPath	20000	272	25.7	26	4.23906793643331	10.4615384615385	58.1023950767897
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	OmniPath	50000	404	55.56	54.5	7.0443329182135	7.41284403669725	49.4638745847871
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	dice	OmniPath	1e+05	502	107.34	106	9.18411012498646	4.73584905660377	42.9720456994827

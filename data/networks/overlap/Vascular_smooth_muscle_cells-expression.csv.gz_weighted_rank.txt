@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	HIPPIE	20000	504	103.81	102.5	9.0461164165747	4.91707317073171	44.2388735199952
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	HIPPIE	50000	715	248.44	249	14.88767370286	2.8714859437751	31.3386771709251
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	HIPPIE	1e+05	1022	490.68	489.5	22.0137147334028	2.08784473953013	24.1358628670605
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	Reactome	20000	713	68.67	68.5	7.94686266791029	10.4087591240876	81.0797955024222
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	Reactome	50000	987	193.99	194	12.9883358705751	5.08762886597938	61.0555507573954
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	Reactome	1e+05	1390	412.43	412.5	18.2110272953372	3.36969696969697	53.6801128319818
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	STRING	20000	370	41.49	42	6.14717640691869	8.80952380952381	53.4407959449902
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	STRING	50000	500	103.44	103.5	8.91748934182801	4.83091787439614	44.4699157799844
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	STRING	1e+05	674	193.99	194	12.2007575522377	3.47422680412371	39.3426390078511
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	OmniPath	20000	490	32.15	32	5.33593686452737	15.3125	85.804988256838
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	OmniPath	50000	539	68.13	68	7.86457984647725	7.92647058823529	59.8722384655952
+Vascular_smooth_muscle_cells-expression.csv.gz	weighted_rank	OmniPath	1e+05	598	129.19	130.5	10.0007019955621	4.5823754789272	46.8777092056175

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	HIPPIE	20000	173	36.34	37	6.24292731129727	4.67567567567568	21.8903718056589
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	HIPPIE	50000	288	84.71	84	10.083785364273	3.42857142857143	20.1600879685776
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	HIPPIE	1e+05	425	164.44	165	12.9461354945182	2.57575757575758	20.1264694093716
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	Reactome	20000	279	51.5	51	7.04602474069348	5.47058823529412	32.2877095060567
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	Reactome	50000	479	127.76	127.5	10.8628920754293	3.75686274509804	32.3339307397215
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	Reactome	1e+05	739	255.28	254	15.9627596915351	2.90944881889764	30.3030308886071
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	STRING	20000	92	17.49	16.5	4.1645327869202	5.57575757575758	17.8915628264515
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	STRING	50000	170	36.36	35.5	5.11389471850166	4.7887323943662	26.1327241478987
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	STRING	1e+05	257	68.32	68	8.16110509450996	3.77941176470588	23.1194179973159
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	OmniPath	20000	149	7.55	7	2.70568051896507	21.2857142857143	52.278899525841
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	OmniPath	50000	240	15.22	15	3.71342092274697	16	60.5317858320573
+Olfactory_ensheathing_cells-expression.csv.gz	phi_s	OmniPath	1e+05	318	27.78	27.5	4.93918571786439	11.5636363636364	58.7586733072847

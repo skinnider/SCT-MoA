@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocytes-expression.csv.gz	pearson	HIPPIE	20000	290	73.05	72.5	8.89032501025012	4	24.4029323730985
+Oligodendrocytes-expression.csv.gz	pearson	HIPPIE	50000	522	170.02	171	12.8809466996331	3.05263157894737	27.3256312760014
+Oligodendrocytes-expression.csv.gz	pearson	HIPPIE	1e+05	807	322.72	323.5	17.1764932157853	2.49459041731066	28.1943464196139
+Oligodendrocytes-expression.csv.gz	pearson	Reactome	20000	459	78.89	78.5	7.7406117786045	5.84713375796178	49.1059377310003
+Oligodendrocytes-expression.csv.gz	pearson	Reactome	50000	893	204.95	205	13.5537649918591	4.35609756097561	50.7644924058568
+Oligodendrocytes-expression.csv.gz	pearson	Reactome	1e+05	1393	419.46	420	18.0209866432435	3.31666666666667	54.0225693117089
+Oligodendrocytes-expression.csv.gz	pearson	STRING	20000	231	35.47	35.5	5.13741474897933	6.50704225352113	38.059998959369
+Oligodendrocytes-expression.csv.gz	pearson	STRING	50000	415	80.13	81	8.43831449491849	5.12345679012346	39.6844654464653
+Oligodendrocytes-expression.csv.gz	pearson	STRING	1e+05	619	140.45	140	12.6478129222871	4.42142857142857	37.8365811496732
+Oligodendrocytes-expression.csv.gz	pearson	OmniPath	20000	272	16.58	17	3.79308248624714	16	67.3383721356168
+Oligodendrocytes-expression.csv.gz	pearson	OmniPath	50000	420	34.98	35	5.32191960506999	12	72.3460759597357
+Oligodendrocytes-expression.csv.gz	pearson	OmniPath	1e+05	535	60.77	60	6.9947382821921	8.91666666666667	67.798104928006

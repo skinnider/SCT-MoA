@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	HIPPIE	20000	425	127.15	126.5	10.8174709044063	3.3596837944664	27.5341623409106
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	HIPPIE	50000	657	267.08	265	15.0465137409825	2.47924528301887	25.9143085708928
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	913	455.95	456.5	16.6207701385947	2	27.4987257623337
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	Reactome	20000	653	118.36	118.5	8.03969947676949	5.51054852320675	66.4999981087388
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	Reactome	50000	996	269.53	266.5	14.9547837013965	3.73733583489681	48.5777671215772
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	Reactome	1e+05	1480	512.06	512	17.7284910226278	2.890625	54.5979913780913
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	STRING	20000	238	36.61	37	5.69936200576234	6.43243243243243	35.3355340117692
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	STRING	50000	381	86.24	86	9.63906194354592	4.43023255813953	30.5797391620005
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	STRING	1e+05	540	156.15	156	12.0238609574143	3.46153846153846	31.9240218561664
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	OmniPath	20000	392	38.66	38.5	5.95813678421316	10.1818181818182	59.303774451137
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	OmniPath	50000	478	71.3	71	9.32087913658298	6.73239436619718	43.6332232228789
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	bicor	OmniPath	1e+05	548	116.5	117	11.3968806648525	4.68376068376068	37.8612370076601

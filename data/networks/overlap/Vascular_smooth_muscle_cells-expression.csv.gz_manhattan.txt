@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	HIPPIE	20000	69	62.54	62	8.10464388639331	1.11290322580645	0.797073886348731
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	HIPPIE	50000	176	143.83	145	12.0219118128675	1.21379310344828	2.67594709566636
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	351	272.91	275.5	16.6873175093112	1.27404718693285	4.67960173685357
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	Reactome	20000	106	67.92	68	8.16085755050264	1.55882352941176	4.6661762889924
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	Reactome	50000	251	151.89	153	11.8260925350035	1.64052287581699	8.38062104677849
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	Reactome	1e+05	506	307.7	308	17.2904481133253	1.64285714285714	11.4687600171088
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	STRING	20000	47	44.57	44	5.97512520472343	1.06818181818182	0.406686038658913
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	STRING	50000	95	84.92	85	7.87616273282487	1.11764705882353	1.27981103767579
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	STRING	1e+05	162	138.65	138	10.7706813042433	1.17391304347826	2.16792228276227
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	OmniPath	20000	22	13.22	13	3.1352669726674	1.69230769230769	2.80039948002585
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	OmniPath	50000	43	30.82	31	5.12939636513957	1.38709677419355	2.37454841329435
+Vascular_smooth_muscle_cells-expression.csv.gz	manhattan	OmniPath	1e+05	83	60.65	61	7.61229069971515	1.36065573770492	2.93604131550525

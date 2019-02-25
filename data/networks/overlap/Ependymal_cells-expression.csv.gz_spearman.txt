@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Ependymal_cells-expression.csv.gz	spearman	HIPPIE	20000	329	81.4	81	7.83800634309155	4.06172839506173	31.5896656830644
+Ependymal_cells-expression.csv.gz	spearman	HIPPIE	50000	543	184.65	184	13.2401097068908	2.95108695652174	27.0654857046612
+Ependymal_cells-expression.csv.gz	spearman	HIPPIE	1e+05	784	359.04	358	17.6589005228742	2.18994413407821	24.0649183933922
+Ependymal_cells-expression.csv.gz	spearman	Reactome	20000	498	59.55	59	7.72294887940736	8.4406779661017	56.7723555919285
+Ependymal_cells-expression.csv.gz	spearman	Reactome	50000	765	144.37	144.5	11.9364097947364	5.29411764705882	51.9946961165559
+Ependymal_cells-expression.csv.gz	spearman	Reactome	1e+05	1022	282.1	282	16.5098684905652	3.6241134751773	44.815620452872
+Ependymal_cells-expression.csv.gz	spearman	STRING	20000	234	46.87	46	7.21482060509036	5.08695652173913	25.9368888351807
+Ependymal_cells-expression.csv.gz	spearman	STRING	50000	398	102.15	101	10.5652135507872	3.94059405940594	28.0022735534727
+Ependymal_cells-expression.csv.gz	spearman	STRING	1e+05	545	179.33	180.5	13.9479950407421	3.01939058171745	26.2166712084338
+Ependymal_cells-expression.csv.gz	spearman	OmniPath	20000	342	21.28	21.5	4.07277236627273	15.906976744186	78.747342389163
+Ependymal_cells-expression.csv.gz	spearman	OmniPath	50000	452	44.07	44	6.41534618447568	10.2727272727273	63.5865919421681
+Ependymal_cells-expression.csv.gz	spearman	OmniPath	1e+05	513	75.79	75	8.28201776029357	6.84	52.790275589134

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	HIPPIE	20000	279	73.55	73.5	8.48096502037166	3.79591836734694	24.224837563473
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	HIPPIE	50000	435	162.11	163	12.4599520079495	2.66871165644172	21.9013684664191
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	577	270.74	271	16.5575946137698	2.12915129151291	18.4966480424218
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	Reactome	20000	361	51.92	52	7.10054770970365	6.94230769230769	43.5290364400495
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	Reactome	50000	565	128.19	128.5	9.93584979310331	4.39688715953307	43.9630237066586
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	Reactome	1e+05	802	250.74	251	13.7014487179165	3.19521912350598	40.23370165807
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	STRING	20000	168	26.87	26	4.95974706099927	6.46153846153846	28.4550801208733
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	STRING	50000	258	51.54	51.5	7.08165933873545	5.00970873786408	29.1541840865882
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	STRING	1e+05	332	85.61	86	9.36670980255354	3.86046511627907	26.3048610658173
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	OmniPath	20000	262	18.38	18.5	3.68392632001688	14.1621621621622	66.1305299935759
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	OmniPath	50000	324	37.68	37	5.61361980122695	8.75675675675676	51.0045229528049
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	hamming	OmniPath	1e+05	345	62.34	62	6.50752478196424	5.56451612903226	43.4358699306684

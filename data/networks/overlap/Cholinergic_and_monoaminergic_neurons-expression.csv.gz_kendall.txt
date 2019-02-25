@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	HIPPIE	20000	451	128.94	128	10.6304498797777	3.5234375	30.2959896939692
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	HIPPIE	50000	693	278.75	278.5	16.5501228290477	2.48833034111311	25.0300257151527
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	HIPPIE	1e+05	972	491.66	492	23.188825243242	1.97560975609756	20.7142878072268
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	Reactome	20000	791	139.94	140	10.5742397104731	5.65	61.5703840489988
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	Reactome	50000	1257	344.97	343	17.1878833290587	3.66472303206997	53.0623801976871
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	Reactome	1e+05	1800	613.99	614	21.6143868099865	2.93159609120521	54.8713229954795
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	STRING	20000	313	43.52	44.5	5.79878078442862	7.03370786516854	46.4718377910803
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	STRING	50000	483	97.28	97	10.0885773991874	4.97938144329897	38.2333390266769
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	STRING	1e+05	692	177.36	179	12.780603991355	3.8659217877095	40.2672675210117
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	OmniPath	20000	403	33.46	33	5.40934470162608	12.2121212121212	68.3151140079711
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	OmniPath	50000	503	70.89	71	7.29451848993475	7.08450704225352	59.2376317362471
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	kendall	OmniPath	1e+05	584	120.83	120.5	10.2593194883304	4.84647302904564	45.1462692556595

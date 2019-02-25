@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	HIPPIE	20000	254	103.68	105	8.64552199147342	2.41904761904762	17.3870357565746
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	HIPPIE	50000	560	251.94	252	14.175537329705	2.22222222222222	21.7318040815608
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	HIPPIE	1e+05	845	466.48	464	17.5277442411115	1.82112068965517	21.5954771357387
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	Reactome	20000	352	112.15	111	10.4043260233424	3.17117117117117	23.0529108240062
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	Reactome	50000	819	275.76	273.5	15.8586687252548	2.9945155393053	34.2550821516875
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	Reactome	1e+05	1406	547.11	547.5	21.0117307303046	2.56803652968037	40.8766898369417
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	STRING	20000	157	37.11	38	5.64594249586964	4.13157894736842	21.2347185766959
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	STRING	50000	314	80.29	80.5	7.98647214818517	3.90062111801242	29.2632335859467
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	STRING	1e+05	551	188.22	188	12.3317607515035	2.93085106382979	29.4183456288485
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	OmniPath	20000	127	15.65	15	3.69377034937737	8.46666666666667	30.145349999566
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	OmniPath	50000	284	43.01	43	5.32669093937656	6.6046511627907	45.2419715622182
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	jaccard	OmniPath	1e+05	403	89.97	91	9.68436728428707	4.42857142857143	32.3232267850779

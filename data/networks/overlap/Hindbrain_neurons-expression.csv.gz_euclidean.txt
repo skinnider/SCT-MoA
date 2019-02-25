@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Hindbrain_neurons-expression.csv.gz	euclidean	HIPPIE	20000	66	48.08	48	6.6098793521898	1.375	2.71109335665306
+Hindbrain_neurons-expression.csv.gz	euclidean	HIPPIE	50000	154	113.71	113.5	8.72856103706549	1.3568281938326	4.61588110902933
+Hindbrain_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	291	216.36	216	12.3897318189481	1.34722222222222	6.0243434717328
+Hindbrain_neurons-expression.csv.gz	euclidean	Reactome	20000	56	31.53	32	5.10388048053596	1.75	4.79439126627636
+Hindbrain_neurons-expression.csv.gz	euclidean	Reactome	50000	162	85.63	86	8.42393775337444	1.88372093023256	9.06583147167818
+Hindbrain_neurons-expression.csv.gz	euclidean	Reactome	1e+05	329	178.38	179	13.0498500320343	1.83798882681564	11.5418950892358
+Hindbrain_neurons-expression.csv.gz	euclidean	STRING	20000	27	10.67	10	2.70448561176473	2.7	6.03811679713259
+Hindbrain_neurons-expression.csv.gz	euclidean	STRING	50000	68	27.38	27	4.44672163884061	2.51851851851852	9.13481960399725
+Hindbrain_neurons-expression.csv.gz	euclidean	STRING	1e+05	118	56.25	56.5	6.88340854020108	2.08849557522124	8.97084629502409
+Hindbrain_neurons-expression.csv.gz	euclidean	OmniPath	20000	9	8.17	8	2.59391284325126	1.125	0.319979910720386
+Hindbrain_neurons-expression.csv.gz	euclidean	OmniPath	50000	25	19.73	19.5	4.45823491820009	1.28205128205128	1.18208216854747
+Hindbrain_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	46	35.36	35	5.64169184453448	1.31428571428571	1.88595908695505

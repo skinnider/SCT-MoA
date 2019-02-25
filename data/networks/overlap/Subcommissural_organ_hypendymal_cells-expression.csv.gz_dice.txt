@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	HIPPIE	20000	463	109.58	109.5	11.8083859946218	4.22831050228311	29.9295771802317
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	HIPPIE	50000	652	218.17	217.5	15.9114056036174	2.99770114942529	27.2653473117026
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	HIPPIE	1e+05	919	370.1	369	20.1266193902704	2.49051490514905	27.2723396491191
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	Reactome	20000	642	94.12	94	9.72166174430622	6.82978723404255	56.3566203402296
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	Reactome	50000	845	190.48	189.5	14.8027297509888	4.45910290237467	44.2161689776361
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	Reactome	1e+05	1146	321.99	322	16.9934598233461	3.55900621118012	48.4898312978004
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	STRING	20000	246	43.43	42	6.59546063668801	5.85714285714286	30.7135484780519
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	STRING	50000	383	81.22	80.5	9.26553295877258	4.75776397515528	32.5701717691561
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	STRING	1e+05	573	140.28	139	11.2502121192124	4.12230215827338	38.4632747733734
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	OmniPath	20000	440	27.66	27	4.54877050765513	16.2962962962963	90.6486707355476
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	OmniPath	50000	487	43.59	43	6.1102579753438	11.3255813953488	72.5681308038473
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	dice	OmniPath	1e+05	507	68.51	68.5	7.91047764459622	7.4014598540146	55.4315453125059

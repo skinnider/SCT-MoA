@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	HIPPIE	20000	54	49.55	49.5	7.55234260265507	1.09090909090909	0.589221150856633
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	HIPPIE	50000	140	114.18	116	10.4285738006283	1.20689655172414	2.47588984779916
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	267	216.43	216	12.0187185656207	1.23611111111111	4.20760330844708
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	Reactome	20000	93	48.49	48.5	5.90239636319714	1.91752577319588	7.54100491751631
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	Reactome	50000	204	125.98	126	10.4919208937355	1.61904761904762	7.43619788885216
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	Reactome	1e+05	381	239.88	241	16.0682131784301	1.58091286307054	8.78255711652114
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	STRING	20000	14	7.34	7	2.93780650668268	2	2.26699749791227
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	STRING	50000	46	22.39	22	4.31790961396176	2.09090909090909	5.46792362759474
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	STRING	1e+05	91	49.25	49	6.14697922034503	1.85714285714286	6.79195398315607
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	OmniPath	20000	4	4.69	5	1.91588258006749	0.8	-0.360147332189687
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	OmniPath	50000	11	10.37	10	2.99378143369339	1.1	0.210436203828941
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	manhattan	OmniPath	1e+05	23	20.91	21	3.74730879863446	1.0952380952381	0.557733592908492

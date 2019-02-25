@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	HIPPIE	20000	445	132.05	131	10.5403266006554	3.3969465648855	29.6907308337618
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	HIPPIE	50000	678	270.87	270	15.8539132600303	2.51111111111111	25.680095085825
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	949	470.67	470	19.256406516253	2.01914893617021	24.8400447713998
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	Reactome	20000	602	115.9	115.5	9.28504826116274	5.21212121212121	52.3529858248822
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	Reactome	50000	975	277.07	278	15.0482422880414	3.50719424460432	46.3795031101165
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	Reactome	1e+05	1458	526.81	526.5	19.9867102310157	2.76923076923077	46.5904588217308
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	STRING	20000	256	47.75	47.5	5.85234995535981	5.38947368421053	35.5839964439031
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	STRING	50000	402	100.08	100	9.77285459160663	4.02	30.8937370519462
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	STRING	1e+05	561	170.51	171	12.7703056764788	3.28070175438596	30.5779681311176
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	OmniPath	20000	396	37.04	36	5.75408506623729	11	62.3835059558359
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	OmniPath	50000	466	68.27	68	7.15182395327135	6.85294117647059	55.6123867979262
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	bicor	OmniPath	1e+05	546	111.69	111	10.0198741902221	4.91891891891892	43.3448556094469

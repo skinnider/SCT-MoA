@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Ependymal_cells-expression.csv.gz	cosine	HIPPIE	20000	468	100.62	101	9.41713460891498	4.63366336633663	39.0118666937404
+Ependymal_cells-expression.csv.gz	cosine	HIPPIE	50000	654	217.97	218	13.7403446356731	3	31.7335562943571
+Ependymal_cells-expression.csv.gz	cosine	HIPPIE	1e+05	882	398.41	398.5	20.2470075105264	2.21329987452949	23.8845172427867
+Ependymal_cells-expression.csv.gz	cosine	Reactome	20000	639	58.02	57	7.59183506116667	11.2105263157895	76.5269523532981
+Ependymal_cells-expression.csv.gz	cosine	Reactome	50000	829	145.7	144	12.1143541205289	5.75694444444444	56.4041626323342
+Ependymal_cells-expression.csv.gz	cosine	Reactome	1e+05	1116	298.27	295	17.0447154048498	3.78305084745763	47.9755736940805
+Ependymal_cells-expression.csv.gz	cosine	STRING	20000	301	40.84	40	6.42708913486306	7.525	40.4786668647226
+Ependymal_cells-expression.csv.gz	cosine	STRING	50000	430	92.73	93	9.3396677638658	4.62365591397849	36.1115629085718
+Ependymal_cells-expression.csv.gz	cosine	STRING	1e+05	586	168.67	168.5	11.5023537336556	3.47774480712166	36.2821392615411
+Ependymal_cells-expression.csv.gz	cosine	OmniPath	20000	465	25.13	25	4.21554362814668	18.6	104.344786533115
+Ependymal_cells-expression.csv.gz	cosine	OmniPath	50000	503	44.99	44	6.72173468471623	11.4318181818182	68.1386608491727
+Ependymal_cells-expression.csv.gz	cosine	OmniPath	1e+05	526	76.39	77	8.64553951673078	6.83116883116883	52.0048516497921

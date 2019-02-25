@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	HIPPIE	20000	489	112.19	112.5	10.4636890186391	4.34666666666667	36.0112001922825
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	HIPPIE	50000	757	286.92	286.5	14.8096883386136	2.64223385689354	31.741383697748
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	HIPPIE	1e+05	1130	546.04	544	22.6817774943462	2.07720588235294	25.74577764664
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	Reactome	20000	718	106.59	106	10.4370116470766	6.77358490566038	58.5809444958564
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	Reactome	50000	997	287.87	285.5	17.7699411389236	3.49211908931699	39.9061535688889
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	Reactome	1e+05	1434	526.76	526.5	23.7980221570167	2.72364672364672	38.1224958113801
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	STRING	20000	319	44.77	45	6.02495651520416	7.08888888888889	45.5156812016771
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	STRING	50000	466	115.45	116	9.92128107563828	4.01724137931035	35.3331386670191
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	STRING	1e+05	632	200.3	201	12.4976765517403	3.14427860696517	34.5424206021627
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	OmniPath	20000	481	33.82	34	5.19008378515893	14.1470588235294	86.1604587730767
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	OmniPath	50000	512	76.5	77	6.96238087688023	6.64935064935065	62.5504418245994
+Vascular_endothelial_cells-expression.csv.gz	zi_kendall	OmniPath	1e+05	586	120.35	121	10.0215676509126	4.84297520661157	46.4647863707826

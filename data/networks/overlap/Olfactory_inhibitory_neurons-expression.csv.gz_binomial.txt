@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	HIPPIE	20000	82	21.23	21	4.21841800975798	3.9047619047619	14.4058743963798
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	HIPPIE	50000	192	71.16	72	8.70239720833962	2.66666666666667	13.8858290545733
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	408	184.95	187	12.3561418907458	2.18181818181818	18.0517512644505
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	Reactome	20000	150	35.26	35	5.76057657046952	4.28571428571429	19.9181451016887
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	Reactome	50000	399	112.04	112	9.61261797027346	3.5625	29.8524294721177
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	Reactome	1e+05	883	265.34	267	13.5789647185742	3.30711610486891	45.4865310280337
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	STRING	20000	113	19.54	19	4.97350556205154	5.94736842105263	18.7915744405941
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	STRING	50000	277	63.67	63	6.67734750458366	4.3968253968254	31.9483147842103
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	STRING	1e+05	482	121.01	121	9.49268192351403	3.98347107438017	38.0282414294113
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	OmniPath	20000	62	18.22	19	3.97359974701717	3.26315789473684	11.0177176332025
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	OmniPath	50000	113	37.1	37	5.35506934378703	3.05405405405405	14.17348593031
+Olfactory_inhibitory_neurons-expression.csv.gz	binomial	OmniPath	1e+05	201	63.34	63	7.16221849271395	3.19047619047619	19.2203016621233

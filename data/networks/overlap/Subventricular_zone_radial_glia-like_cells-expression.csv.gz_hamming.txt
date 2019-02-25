@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	HIPPIE	20000	69	63.79	63	7.22970164381531	1.0952380952381	0.720638313540493
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	HIPPIE	50000	150	142.94	143.5	11.1017516135468	1.04529616724739	0.635935683463239
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	HIPPIE	1e+05	294	259.87	261	14.6471323080146	1.1264367816092	2.33014895218259
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	Reactome	20000	97	61.1	61	7.64291445812011	1.59016393442623	4.69716103676374
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	Reactome	50000	244	146.96	147	11.0049759177154	1.65986394557823	8.817829382415
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	Reactome	1e+05	461	281.3	282.5	14.5251436474755	1.63185840707965	12.3716504539514
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	STRING	20000	25	15.73	15	4.06973307143445	1.66666666666667	2.27779066520759
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	STRING	50000	51	34.49	34	5.36636551008956	1.5	3.07657016074637
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	STRING	1e+05	100	65.06	65	7.71044156264147	1.53846153846154	4.53151738666833
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	OmniPath	20000	6	6.09	6	2.54294428892291	1	-0.0353920455088382
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	OmniPath	50000	12	14.61	14	3.77630838922155	0.857142857142857	-0.691151180197449
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	hamming	OmniPath	1e+05	32	27.61	27	5.05903532146578	1.18518518518519	0.867754368381848

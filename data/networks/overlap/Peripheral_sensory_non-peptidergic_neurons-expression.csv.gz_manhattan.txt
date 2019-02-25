@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	HIPPIE	20000	57	42.89	43	6.48525133271524	1.32558139534884	2.17570596359485
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	HIPPIE	50000	123	95.75	96	9.8179129218696	1.28125	2.77553897827919
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	223	176.97	178	14.4798396944081	1.25280898876405	3.17890259639932
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	Reactome	20000	59	29.52	30	5.09600754800196	1.96666666666667	5.78492078795262
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	Reactome	50000	156	74.21	74	8.37057737892469	2.10810810810811	9.77113003051972
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	Reactome	1e+05	310	171.78	173	13.7345542264021	1.79190751445087	10.0636684468651
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	STRING	20000	20	7.26	7	2.63473303805493	2.85714285714286	4.83540450436116
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	STRING	50000	47	19.73	20	4.07717222267264	2.35	6.68845918461697
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	STRING	1e+05	92	53.28	53.5	7.28230177841589	1.7196261682243	5.3170001983113
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	OmniPath	20000	8	4.85	5	2.17597069944622	1.6	1.44762978692758
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	OmniPath	50000	11	11.6	12	3.3272672075905	0.916666666666667	-0.180328168002624
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	24	22.54	22	4.90396664842746	1.09090909090909	0.297718174830609

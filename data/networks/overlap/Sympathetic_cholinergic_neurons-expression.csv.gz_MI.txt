@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	HIPPIE	20000	148	61.31	61	7.71027780552581	2.42622950819672	11.2434340482351
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	HIPPIE	50000	361	151.4	151	12.0277457017791	2.39072847682119	17.4263744176929
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	HIPPIE	1e+05	649	303.25	305	16.7942841406825	2.12786885245902	20.5873615751477
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	Reactome	20000	344	144.72	144.5	9.69648483636303	2.38062283737024	20.5517776145717
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	Reactome	50000	755	334.89	335	13.9992027190007	2.25373134328358	30.0095661469204
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	Reactome	1e+05	1270	600.84	601	19.8579399177704	2.11314475873544	33.6973524328768
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	STRING	20000	164	38.13	39	5.58615713305234	4.20512820512821	22.5324846763169
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	STRING	50000	285	74.81	75	7.88259173909524	3.8	26.6650876966673
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	STRING	1e+05	443	133.57	133	11.0966871023051	3.33082706766917	27.8848990826931
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	OmniPath	20000	45	5.76	5	2.37461320614282	9	16.524796500959
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	OmniPath	50000	118	15.94	16	4.02973794170141	7.375	25.3267089514285
+Sympathetic_cholinergic_neurons-expression.csv.gz	MI	OmniPath	1e+05	229	31.9	31	5.3115083744753	7.38709677419355	37.1081030291081

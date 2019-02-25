@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	HIPPIE	20000	495	99.12	99	8.7053681337112	5	45.4753887393883
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	HIPPIE	50000	728	242.5	243	14.0104578545074	2.99588477366255	34.6526862320781
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	HIPPIE	1e+05	1044	476.71	477.5	22.0331682935184	2.18638743455497	25.7470914960007
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	Reactome	20000	696	82.34	82	8.5223651101503	8.48780487804878	72.0058331306552
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	Reactome	50000	982	218.35	219	14.5403479040812	4.48401826484018	52.5193760862944
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	Reactome	1e+05	1521	500.66	502	21.5191810140431	3.02988047808765	47.4153732585893
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	STRING	20000	284	34.24	34	5.59241911118538	8.35294117647059	44.6604582085873
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	STRING	50000	414	76.49	76.5	8.00567349326764	5.41176470588235	42.1588515049769
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	STRING	1e+05	627	159.21	160	11.3077206126852	3.91875	41.3690801199338
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	OmniPath	20000	477	26.71	26.5	4.71896025185484	18	95.4214437010799
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	OmniPath	50000	507	50.74	51	7.13593835186489	9.94117647058824	63.9383326343847
+Vascular_and_leptomeningeal_cells-expression.csv.gz	dice	OmniPath	1e+05	551	82.75	83	9.08698147479306	6.63855421686747	51.5297628039528

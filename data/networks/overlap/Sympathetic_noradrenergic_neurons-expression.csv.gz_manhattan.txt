@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	HIPPIE	20000	42	33.95	34.5	5.98039727067956	1.21739130434783	1.34606442275452
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	HIPPIE	50000	107	75.86	76	8.67368014586238	1.40789473684211	3.59017158533967
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	211	153.56	153.5	11.7785286591211	1.37459283387622	4.87667022446979
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	Reactome	20000	73	31.05	30	5.26159134049229	2.43333333333333	7.97287308825376
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	Reactome	50000	144	84.02	85	8.36899038116307	1.69411764705882	7.16693379586181
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	Reactome	1e+05	336	200.54	201	11.8700199552222	1.67164179104478	11.4119437465987
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	STRING	20000	15	7.4	7	3.13661981094041	2.14285714285714	2.42299049871824
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	STRING	50000	28	18.06	17	4.0943913349899	1.64705882352941	2.42771127299304
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	STRING	1e+05	58	37.03	37	6.24492521244978	1.56756756756757	3.3579265221935
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	OmniPath	20000	7	3.85	4	1.86609839834968	1.75	1.68801388114676
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	OmniPath	50000	11	7.94	8	2.8420365439543	1.375	1.07669269999689
+Sympathetic_noradrenergic_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	18	17.19	17	3.35054646530407	1.05882352941176	0.241751609293527

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	HIPPIE	20000	37	30.6	30	5.97131188739674	1.23333333333333	1.07179127814577
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	HIPPIE	50000	100	90.83	90	9.29761020669051	1.11111111111111	0.986274945512484
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	255	205.03	206	13.7961017770392	1.2378640776699	3.62203764567502
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	Reactome	20000	118	54.72	54.5	6.87416477938531	2.1651376146789	9.20548197939162
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	Reactome	50000	325	158.59	157.5	11.4786538822936	2.06349206349206	14.4973445237072
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	Reactome	1e+05	681	343.25	343	15.1799808360162	1.98542274052478	22.2496987083575
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	STRING	20000	60	22.03	22	4.63725580641627	2.72727272727273	8.18803222963533
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	STRING	50000	139	65.59	66	6.74064259742813	2.10606060606061	10.8906530703778
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	STRING	1e+05	277	139.68	139	11.3910118740677	1.99280575539568	12.0551186776143
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	OmniPath	20000	15	6.8	6	2.25630429927106	2.5	3.63426156775446
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	OmniPath	50000	36	21.89	22	4.37830971490094	1.63636363636364	3.22270486073168
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	binomial	OmniPath	1e+05	71	49.15	49	5.89191365047439	1.44897959183673	3.70847254325269

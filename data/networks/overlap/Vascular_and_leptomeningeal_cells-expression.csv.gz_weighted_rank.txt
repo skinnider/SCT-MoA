@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	HIPPIE	20000	606	136.57	135	10.2732908578753	4.48888888888889	45.6942187751009
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	HIPPIE	50000	921	313.14	312	13.9029972787645	2.95192307692308	43.7215075146744
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	HIPPIE	1e+05	1224	562.09	561.5	19.7954667803137	2.17987533392698	33.4374535011348
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	Reactome	20000	822	91.71	92	8.57326711883568	8.93478260869565	85.1822286506779
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	Reactome	50000	1198	288.23	287	14.5587316297357	4.17421602787456	62.4896469787125
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	Reactome	1e+05	1790	621.44	623	21.586714956803	2.87319422150883	54.1332945906033
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	STRING	20000	383	49.43	49	6.83611177808147	7.81632653061224	48.7952817081664
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	STRING	50000	562	128.18	129	9.83231119495022	4.35658914728682	44.1218744401424
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	STRING	1e+05	746	223.55	224	12.9687853686995	3.33035714285714	40.2851913380375
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	OmniPath	20000	497	32.58	32	5.20330120542175	15.53125	89.2548752542102
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	OmniPath	50000	543	67.39	67.5	7.59305237993552	8.04444444444444	62.6375239102511
+Vascular_and_leptomeningeal_cells-expression.csv.gz	weighted_rank	OmniPath	1e+05	593	110.84	111	10.1072231397135	5.34234234234234	47.7044974010209

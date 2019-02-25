@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	20000	36	33.71	34	5.50902840248568	1.05882352941176	0.415681284011306
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	50000	121	86.14	87	8.21555558287774	1.39080459770115	4.24317012383833
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	245	184.81	185	12.4743737317751	1.32432432432432	4.82509192799654
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	20000	48	26.54	26.5	4.99983838122632	1.81132075471698	4.29213873803986
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	50000	140	73.74	75	7.4	1.86666666666667	8.95405405405405
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	1e+05	302	160.82	162	11.0017262190067	1.8641975308642	12.832531658177
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	STRING	20000	19	9.73	10	2.99108101805445	1.9	3.09921394440518
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	STRING	50000	46	24.39	25	5.21244625484004	1.84	4.1458461043956
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	STRING	1e+05	87	53.48	54	7.960102532206	1.61111111111111	4.21100103477066
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	20000	3	3.07	3	1.70711523461143	1	-0.041004847581911
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	50000	7	8.32	8	2.66242086238912	0.875	-0.495789384258166
+Spinal_cord_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	22	19.42	19	4.17346112690388	1.15789473684211	0.618191932678668

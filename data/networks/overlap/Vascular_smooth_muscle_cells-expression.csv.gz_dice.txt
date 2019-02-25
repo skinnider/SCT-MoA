@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	HIPPIE	20000	459	108.72	109	9.78875875582793	4.21100917431193	35.7839036324655
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	HIPPIE	50000	664	240.3	240	15.2544082053998	2.76666666666667	27.775577675312
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	HIPPIE	1e+05	1035	496.21	497	21.0910939124608	2.08249496981891	25.5458537255707
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	Reactome	20000	653	74.26	74.5	8.25676337399477	8.76510067114094	70.0928407156224
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	Reactome	50000	880	183.01	182	14.2449672133386	4.83516483516483	48.928859544679
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	Reactome	1e+05	1262	397.65	394	18.1844505670158	3.20304568527919	47.5323682073637
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	STRING	20000	289	34.05	34	5.61091108754391	8.5	45.4382534355219
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	STRING	50000	405	76.14	77	8.65969416494041	5.25974025974026	37.9759369945674
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	STRING	1e+05	595	137.32	138	11.1861024887531	4.31159420289855	40.9150551284656
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	OmniPath	20000	460	30.21	30	5.81758914279304	15.3333333333333	73.8776818800334
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	OmniPath	50000	498	57.15	57	7.88090006652704	8.73684210526316	55.9390420229341
+Vascular_smooth_muscle_cells-expression.csv.gz	dice	OmniPath	1e+05	543	104.66	105	9.98910517625189	5.17142857142857	43.8818084568886

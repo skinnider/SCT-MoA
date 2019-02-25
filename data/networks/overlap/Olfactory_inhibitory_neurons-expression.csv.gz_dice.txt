@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	HIPPIE	20000	414	97.89	98	9.20901512627488	4.22448979591837	34.3261462453335
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	HIPPIE	50000	669	235.69	233.5	14.9170738051768	2.86509635974304	29.0479222439474
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	HIPPIE	1e+05	982	461.26	461	21.9842092090085	2.13015184381779	23.6870016587458
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	Reactome	20000	548	60.31	60	8.26663611920065	9.13333333333333	58.9949760661726
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	Reactome	50000	912	156.33	157	12.0345084627248	5.80891719745223	62.7919289217822
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	Reactome	1e+05	1267	336.31	335	16.0376419587157	3.78208955223881	58.0315985601744
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	STRING	20000	239	28.31	28	5.23333333333333	8.53571428571429	40.2592356687898
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	STRING	50000	424	71.54	72	8.25774200555473	5.88888888888889	42.6823700429138
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	STRING	1e+05	617	148.88	148	11.1756228217735	4.16891891891892	41.8875983437772
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	OmniPath	20000	391	24.02	24	4.57260176143592	16.2916666666667	80.2562784047825
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	OmniPath	50000	494	50.48	50	6.18156268040025	9.88	71.7488478125862
+Olfactory_inhibitory_neurons-expression.csv.gz	dice	OmniPath	1e+05	536	97.43	97.5	9.632913905098	5.4974358974359	45.5282798456132

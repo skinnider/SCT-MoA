@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peptidergic_neurons-expression.csv.gz	kendall	HIPPIE	20000	482	97.16	96	8.73368030770372	5.02083333333333	44.0638982011448
+Peptidergic_neurons-expression.csv.gz	kendall	HIPPIE	50000	708	228.2	227	13.3741798577964	3.11894273127753	35.875097022888
+Peptidergic_neurons-expression.csv.gz	kendall	HIPPIE	1e+05	995	429.9	429.5	17.608824693054	2.31664726426077	32.0918635883127
+Peptidergic_neurons-expression.csv.gz	kendall	Reactome	20000	785	57.9	57.5	6.92455738293033	13.6521739130435	105.003101251261
+Peptidergic_neurons-expression.csv.gz	kendall	Reactome	50000	1113	173.13	173	11.7453235912267	6.43352601156069	80.0207838208942
+Peptidergic_neurons-expression.csv.gz	kendall	Reactome	1e+05	1541	394.38	394.5	15.7106281982561	3.90621039290241	72.9837143066806
+Peptidergic_neurons-expression.csv.gz	kendall	STRING	20000	322	28.13	28	4.10630212864533	11.5	71.5656059377559
+Peptidergic_neurons-expression.csv.gz	kendall	STRING	50000	498	68.87	68.5	7.29141601300786	7.27007299270073	58.8541374178121
+Peptidergic_neurons-expression.csv.gz	kendall	STRING	1e+05	689	132.38	131	11.4854145538917	5.25954198473282	48.463204996932
+Peptidergic_neurons-expression.csv.gz	kendall	OmniPath	20000	438	21.99	22	4.18630523435063	19.9090909090909	99.3740247573061
+Peptidergic_neurons-expression.csv.gz	kendall	OmniPath	50000	502	45.29	45	5.9819509671793	11.1555555555556	76.3480012634331
+Peptidergic_neurons-expression.csv.gz	kendall	OmniPath	1e+05	552	77.42	77.5	8.18125475052142	7.12258064516129	58.008216889928

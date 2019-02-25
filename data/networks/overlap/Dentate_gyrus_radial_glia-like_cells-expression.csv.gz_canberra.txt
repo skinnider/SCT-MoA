@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	HIPPIE	20000	440	84.4	84	7.79536251675807	5.23809523809524	45.6168650573401
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	HIPPIE	50000	650	202.97	203.5	14.7384298054885	3.19410319410319	30.3309108161256
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	HIPPIE	1e+05	862	350.76	351	18.1258897378275	2.45584045584046	28.2049602747543
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	Reactome	20000	606	66.5	67	8.2321125337107	9.04477611940299	65.5360331616866
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	Reactome	50000	846	165.78	164.5	13.2730302995711	5.14285714285714	51.2482820160501
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	Reactome	1e+05	1146	304.98	304	18.1274834592576	3.76973684210526	46.3947465124012
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	STRING	20000	234	18.93	19	4.62373105715383	12.3157894736842	46.5143835879563
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	STRING	50000	346	56.53	55.5	6.94197451025356	6.23423423423423	41.6985109312116
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	STRING	1e+05	490	103.62	104.5	10.0028076866529	4.688995215311	38.6271547053296
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	OmniPath	20000	434	21.9	22	4.39581986928859	19.7272727272727	93.7481544407992
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	OmniPath	50000	481	40.37	40	6.39231704249071	12.025	68.9311867779813
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	canberra	OmniPath	1e+05	511	61.12	61	7.80090644823673	8.37704918032787	57.6702211448373

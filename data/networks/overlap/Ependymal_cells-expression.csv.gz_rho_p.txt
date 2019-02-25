@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Ependymal_cells-expression.csv.gz	rho_p	HIPPIE	20000	322	69.66	70	7.68209251796315	4.6	32.8478210083971
+Ependymal_cells-expression.csv.gz	rho_p	HIPPIE	50000	474	152.6	154.5	11.0279717816179	3.06796116504854	29.1440716719758
+Ependymal_cells-expression.csv.gz	rho_p	HIPPIE	1e+05	677	269.77	271	13.8314931233111	2.49815498154982	29.4422298713123
+Ependymal_cells-expression.csv.gz	rho_p	Reactome	20000	515	54.58	55	7.49300010043043	9.36363636363636	61.446682747749
+Ependymal_cells-expression.csv.gz	rho_p	Reactome	50000	708	131.85	131	11.5525807165378	5.40458015267176	49.87197355611
+Ependymal_cells-expression.csv.gz	rho_p	Reactome	1e+05	964	257.17	256	15.1497941446827	3.765625	46.656079498485
+Ependymal_cells-expression.csv.gz	rho_p	STRING	20000	218	24.21	24	4.58653056528163	9.08333333333333	42.2519804984883
+Ependymal_cells-expression.csv.gz	rho_p	STRING	50000	307	50.81	50	6.67528987756299	6.14	38.3788576524754
+Ependymal_cells-expression.csv.gz	rho_p	STRING	1e+05	408	89.26	89.5	9.24811747155478	4.55865921787709	34.4653926575193
+Ependymal_cells-expression.csv.gz	rho_p	OmniPath	20000	354	18.23	18.5	4.20642846177614	19.1351351351351	79.8230620230786
+Ependymal_cells-expression.csv.gz	rho_p	OmniPath	50000	421	32.08	32	5.38362650482315	13.15625	72.2412670439841
+Ependymal_cells-expression.csv.gz	rho_p	OmniPath	1e+05	485	52.79	53	7.15668085135007	9.15094339622642	60.3925211948589

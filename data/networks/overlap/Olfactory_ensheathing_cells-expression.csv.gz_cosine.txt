@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	HIPPIE	20000	348	59.9	60	7.23976114344537	5.8	39.7941305371429
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	HIPPIE	50000	532	145.84	146.5	11.4174419113031	3.63139931740614	33.821936910203
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	HIPPIE	1e+05	747	289.42	290.5	16.2351283930677	2.57142857142857	28.1845630611325
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	Reactome	20000	579	67.57	69	8.21092521761664	8.39130434782609	62.2865251412497
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	Reactome	50000	809	179.02	178	13.4035876397389	4.54494382022472	47.0008490959717
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	Reactome	1e+05	1115	357.11	357	18.5411881109506	3.12324929971989	40.8760212918816
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	STRING	20000	237	29.59	30	4.95656895014845	7.9	41.8454786135453
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	STRING	50000	343	70.09	70	7.26148689451354	4.9	37.5832118083417
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	STRING	1e+05	472	128.57	128	9.78171351001036	3.6875	35.109390563171
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	OmniPath	20000	396	17.82	18	3.8830894708188	22	97.3915236416779
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	OmniPath	50000	473	34.43	34.5	5.7229910241609	13.7101449275362	76.6330050402801
+Olfactory_ensheathing_cells-expression.csv.gz	cosine	OmniPath	1e+05	492	58.01	58	6.80536775663375	8.48275862068965	63.7717189606622

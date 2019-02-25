@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	HIPPIE	20000	225	60.07	59.5	7.06428633438236	3.78151260504202	23.3470151396999
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	HIPPIE	50000	386	140.03	140	11.0393739758094	2.75714285714286	22.2811547592277
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	HIPPIE	1e+05	595	258.07	259	15.4594647548048	2.2972972972973	21.7944156116584
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	Reactome	20000	330	42.36	42	5.18451462715575	7.85714285714286	55.4806034287921
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	Reactome	50000	561	104.14	103.5	9.49004795040626	5.42028985507246	48.1409580212334
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	Reactome	1e+05	911	215.08	215	12.6807577124404	4.23720930232558	54.8800013202107
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	STRING	20000	166	17.16	17	3.62014565251932	9.76470588235294	41.1143678421943
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	STRING	50000	249	40.81	41	5.10237615471874	6.07317073170732	40.8025581978042
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	STRING	1e+05	379	84.16	85	7.97181905150255	4.45882352941176	36.9852850516505
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	OmniPath	20000	186	10.59	10.5	3.45562051320933	17.7142857142857	50.7607821314534
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	OmniPath	50000	278	21.98	22	5.29146444376186	12.6363636363636	48.3835812790585
+Spinal_cord_inhibitory_neurons-expression.csv.gz	phi_s	OmniPath	1e+05	360	40.85	39.5	6.62925106606845	9.11392405063291	48.1426931668882

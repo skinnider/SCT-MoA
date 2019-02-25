@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	HIPPIE	20000	515	109.21	109	9.50735494129666	4.72477064220184	42.6816924902413
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	HIPPIE	50000	729	257.25	258	15.20258816349	2.82558139534884	31.0309004576561
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	HIPPIE	1e+05	1039	501.3	500.5	21.9275667099243	2.07592407592408	24.5216447001682
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	Reactome	20000	738	76.56	77	8.09579015178989	9.58441558441558	81.7017224506199
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	Reactome	50000	996	202.8	201.5	13.3552849600312	4.94292803970223	59.3922183146098
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	Reactome	1e+05	1389	418.43	416	19.7761487809447	3.33894230769231	49.0778063388759
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	STRING	20000	372	42.77	42.5	6.43986165859315	8.75294117647059	51.1237690270389
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	STRING	50000	505	102.62	102	9.23517649254657	4.95098039215686	43.5703638500843
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	STRING	1e+05	689	196.45	197.5	11.5796538738593	3.48860759493671	42.5358137095892
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	OmniPath	20000	493	33.49	33	5.36448289844201	14.9393939393939	85.6578366823491
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	OmniPath	50000	540	70.64	71	8.23213707417951	7.6056338028169	57.0155715059908
+Vascular_smooth_muscle_cells-expression.csv.gz	spearman	OmniPath	1e+05	587	135.05	136	10.3848909284575	4.31617647058824	43.5199563590533

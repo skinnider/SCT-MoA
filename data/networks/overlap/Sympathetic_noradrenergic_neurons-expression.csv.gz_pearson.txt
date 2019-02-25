@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	HIPPIE	20000	312	78.4	77	8.35814488140675	4.05194805194805	27.9487856832512
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	HIPPIE	50000	632	205.35	205	13.9446054157879	3.08292682926829	30.5960611489912
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	HIPPIE	1e+05	1064	401.99	401	18.3228592669695	2.65336658354115	36.1302780507297
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	Reactome	20000	510	125.55	126	9.90905615784843	4.04761904761905	38.7978424862894
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	Reactome	50000	1012	313.86	315	14.8480655475739	3.21269841269841	47.0189195867386
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	Reactome	1e+05	1681	624.65	626	20.4096308223111	2.685303514377	51.7574281081672
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	STRING	20000	245	31.13	31	5.24482428858983	7.90322580645161	40.7773431924643
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	STRING	50000	432	77.34	78	7.69916694955836	5.53846153846154	46.0647239270924
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	STRING	1e+05	647	143.2	143	10.3191496008561	4.52447552447552	48.821852525348
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	OmniPath	20000	201	11.1	11	3.18614424524615	18.2727272727273	59.6018213184598
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	OmniPath	50000	387	28.1	28	4.83985975253854	13.8214285714286	74.1550413339466
+Sympathetic_noradrenergic_neurons-expression.csv.gz	pearson	OmniPath	1e+05	555	55.23	54.5	6.89584122951118	10.1834862385321	72.4741164081915

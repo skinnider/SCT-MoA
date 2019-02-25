@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	weighted_rank	HIPPIE	20000	142	37.11	36	5.18329679418087	3.94444444444444	20.2361555135637
+Cerebellum_neurons-expression.csv.gz	weighted_rank	HIPPIE	50000	422	126.46	127.5	10.7331451141035	3.30980392156863	27.5352654658192
+Cerebellum_neurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	733	272.87	272	14.7686912901666	2.69485294117647	31.1557734507165
+Cerebellum_neurons-expression.csv.gz	weighted_rank	Reactome	20000	280	34.43	34	5.33760245803301	8.23529411764706	46.0075477577805
+Cerebellum_neurons-expression.csv.gz	weighted_rank	Reactome	50000	724	101.79	102.5	8.93669656274316	7.06341463414634	69.6241609672612
+Cerebellum_neurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1150	233.21	233.5	13.3766682146659	4.92505353319058	68.5364984230417
+Cerebellum_neurons-expression.csv.gz	weighted_rank	STRING	20000	191	37.68	38	6.10824910025017	5.02631578947368	25.1004825578774
+Cerebellum_neurons-expression.csv.gz	weighted_rank	STRING	50000	427	94.39	96	9.1495929147176	4.44791666666667	36.3524369991346
+Cerebellum_neurons-expression.csv.gz	weighted_rank	STRING	1e+05	648	174.1	175	11.3889012071872	3.70285714285714	41.6106867009202
+Cerebellum_neurons-expression.csv.gz	weighted_rank	OmniPath	20000	135	9.14	9	2.50260470370978	15	50.2916021109644
+Cerebellum_neurons-expression.csv.gz	weighted_rank	OmniPath	50000	349	26.91	27	4.45197720233393	12.9259259259259	72.3476301341224
+Cerebellum_neurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	476	53.09	53	6.36450859823205	8.9811320754717	66.4481779657705

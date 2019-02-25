@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	HIPPIE	20000	66	65.03	65	7.78428227295558	1.01538461538462	0.124610075275662
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	HIPPIE	50000	173	149.85	150	12.8843927197822	1.15333333333333	1.79674746831152
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	HIPPIE	1e+05	344	276.62	277	16.7306529303177	1.24187725631769	4.02733834002978
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	Reactome	20000	118	67.1	68	7.60050503372485	1.73529411764706	6.69692339839883
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	Reactome	50000	258	151.26	153	10.910674969168	1.68627450980392	9.78307944298884
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	Reactome	1e+05	523	304.95	305.5	15.7354229480346	1.71194762684124	13.8572697232288
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	STRING	20000	36	30.82	31	4.64362275849711	1.16129032258065	1.11550835832248
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	STRING	50000	76	72.25	73	7.55902698029904	1.04109589041096	0.496095596665227
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	STRING	1e+05	142	122.53	123	9.76434970965938	1.15447154471545	1.9939883944078
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	OmniPath	20000	9	9.07	9	2.74231709149453	1	-0.0255258592148624
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	OmniPath	50000	34	25.06	25	4.86342773082209	1.36	1.83820969382202
+Vascular_smooth_muscle_cells-expression.csv.gz	euclidean	OmniPath	1e+05	67	48.08	47	7.54606058172278	1.42553191489362	2.5072685005771

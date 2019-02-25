@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Choroid_epithelial_cells-expression.csv.gz	binomial	HIPPIE	20000	67	45.5	45	6.92747421430777	1.48888888888889	3.10358426965988
+Choroid_epithelial_cells-expression.csv.gz	binomial	HIPPIE	50000	171	119.26	119	9.25794226324052	1.43697478991597	5.5887149140515
+Choroid_epithelial_cells-expression.csv.gz	binomial	HIPPIE	1e+05	340	252.32	252	13.472665930421	1.34920634920635	6.50799184458514
+Choroid_epithelial_cells-expression.csv.gz	binomial	Reactome	20000	130	64.23	63.5	7.19126153218213	2.04724409448819	9.14582228801831
+Choroid_epithelial_cells-expression.csv.gz	binomial	Reactome	50000	279	154.69	154	12.1876697087381	1.81168831168831	10.1996528434697
+Choroid_epithelial_cells-expression.csv.gz	binomial	Reactome	1e+05	573	317.94	317	15.2101906296371	1.80757097791798	16.7690206001111
+Choroid_epithelial_cells-expression.csv.gz	binomial	STRING	20000	52	14.71	15	3.56836549742768	3.46666666666667	10.4501626940629
+Choroid_epithelial_cells-expression.csv.gz	binomial	STRING	50000	110	39.88	40	6.14189126269981	2.75	11.4166788373224
+Choroid_epithelial_cells-expression.csv.gz	binomial	STRING	1e+05	177	84.85	85.5	8.54976519259359	2.07017543859649	10.7780737744502
+Choroid_epithelial_cells-expression.csv.gz	binomial	OmniPath	20000	28	6.27	6	2.5459613492587	4.66666666666667	8.53508636583467
+Choroid_epithelial_cells-expression.csv.gz	binomial	OmniPath	50000	58	16	16	3.55334527259351	3.625	11.819847714755
+Choroid_epithelial_cells-expression.csv.gz	binomial	OmniPath	1e+05	103	34.33	34	5.61393468311332	3.02941176470588	12.2320625151837

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	HIPPIE	20000	524	105.69	106	9.44916756528149	4.94339622641509	44.2695080926463
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	HIPPIE	50000	762	249.03	250	14.4944817085676	3.048	35.3907100863626
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	HIPPIE	1e+05	1096	493.72	491.5	19.8336923827953	2.22990844354018	30.3665090884663
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	Reactome	20000	714	79.47	79	8.21117125222299	9.0379746835443	77.2764299402737
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	Reactome	50000	1077	233.24	232.5	13.6944433175569	4.63225806451613	61.6133113580647
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	Reactome	1e+05	1616	532.34	531	23.3377571563959	3.04331450094162	46.4337679382791
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	STRING	20000	312	33.64	34.5	5.95864536161153	9.04347826086956	46.715315832241
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	STRING	50000	459	86.81	88	8.28494435891413	5.21590909090909	44.9236571636772
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	STRING	1e+05	682	185.47	186	12.6901337640505	3.66666666666667	39.1272471379777
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	OmniPath	20000	487	26.31	26	4.63777855217235	18.7307692307692	99.3341952008922
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	OmniPath	50000	525	46.65	46.5	6.61705021405713	11.2903225806452	72.2905198730097
+Vascular_and_leptomeningeal_cells-expression.csv.gz	zi_kendall	OmniPath	1e+05	556	81.39	82	10.0452461242605	6.78048780487805	47.2472246203864

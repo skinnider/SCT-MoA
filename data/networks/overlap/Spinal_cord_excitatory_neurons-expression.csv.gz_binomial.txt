@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	HIPPIE	20000	161	79.41	80	7.49558118985695	2.0125	10.8850798801843
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	HIPPIE	50000	322	179.26	179	11.1912844877096	1.79888268156425	12.7545680888337
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	566	336.6	337	15.3530834595912	1.67952522255193	14.9416239808618
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	Reactome	20000	244	119.98	120	8.85686402763644	2.03333333333333	14.002698879989
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	Reactome	50000	503	267.07	268.5	12.3519556379064	1.87337057728119	19.1006191178314
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	Reactome	1e+05	949	507.2	508	17.9719197357961	1.86811023622047	24.5827939638541
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	STRING	20000	69	19.92	20	4.24901652316644	3.45	11.5509082472159
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	STRING	50000	138	49.55	50	6.14862224856557	2.76	14.3853364907292
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	STRING	1e+05	257	92.69	92	8.63946196416785	2.79347826086957	19.0185454466349
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	OmniPath	20000	62	14.28	14	3.96469265880571	4.42857142857143	12.0362419250865
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	OmniPath	50000	107	30.49	31	4.82521784717823	3.45161290322581	15.8562789128252
+Spinal_cord_excitatory_neurons-expression.csv.gz	binomial	OmniPath	1e+05	157	57.38	58	6.98595994575093	2.70689655172414	14.2600302282855

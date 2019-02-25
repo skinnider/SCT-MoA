@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	HIPPIE	20000	34	27.93	27	5.07370922033627	1.25925925925926	1.19636339734852
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	HIPPIE	50000	99	75.81	75	8.09625802080158	1.32	2.8642861851016
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	HIPPIE	1e+05	207	157.78	157.5	11.0513768053093	1.31428571428571	4.45374371601858
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	Reactome	20000	91	47.6	47	6.38020929962887	1.93617021276596	6.80228468406586
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	Reactome	50000	203	116.31	116	10.4337205853198	1.75	8.30863729684048
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	Reactome	1e+05	396	223.4	222	14.8323969741913	1.78378378378378	11.6366896261156
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	STRING	20000	20	9.5	9	2.72103664143657	2.22222222222222	3.85882344989538
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	STRING	50000	36	25.72	25	4.88262224629348	1.44	2.10542603573393
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	STRING	1e+05	76	53.86	53	7.55454241573314	1.43396226415094	2.93068709944511
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	OmniPath	20000	6	3.39	3	1.68111915584875	2	1.55253718388705
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	OmniPath	50000	11	8.46	8	2.60310614769387	1.375	0.975757366732902
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	euclidean	OmniPath	1e+05	22	17.55	17.5	3.9450134743916	1.25714285714286	1.12800628664171

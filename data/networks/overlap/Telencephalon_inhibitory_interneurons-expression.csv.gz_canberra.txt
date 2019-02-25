@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	HIPPIE	20000	423	110.08	110	10.2972782517488	3.84545454545455	30.3886126362425
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	HIPPIE	50000	667	255.37	256	14.2259224195434	2.60546875	28.935206298785
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	HIPPIE	1e+05	927	444.35	444.5	18.5180092522568	2.08548931383577	26.0638167648167
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	Reactome	20000	583	68.64	68	8.14083111931032	8.57352941176471	63.1827380351769
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	Reactome	50000	956	185.57	184.5	13.703391160327	5.18157181571816	56.2218498316305
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	Reactome	1e+05	1393	376.39	377	19.053298449827	3.69496021220159	53.356115880777
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	STRING	20000	270	37.57	38	5.49426698450027	7.10526315789474	42.3040963709449
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	STRING	50000	436	85.08	85.5	8.88612583318694	5.09941520467836	39.4907754613852
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	STRING	1e+05	589	147.42	147	11.3486349466143	4.00680272108844	38.9104065887448
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	OmniPath	20000	349	22.14	22	4.13172011529231	15.8636363636364	79.109908435043
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	OmniPath	50000	436	45.99	45	6.25630187341637	9.68888888888889	62.3387438603611
+Telencephalon_inhibitory_interneurons-expression.csv.gz	canberra	OmniPath	1e+05	516	75.96	76	8.96561332102953	6.78947368421053	49.0808586366147

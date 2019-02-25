@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	HIPPIE	20000	522	93.14	94	8.1588026453678	5.5531914893617	52.5640855209909
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	HIPPIE	50000	736	213.3	213.5	13.6185405409187	3.44730679156909	38.3814989887851
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	HIPPIE	1e+05	977	388.23	388.5	18.3599558767983	2.51480051480051	32.0681598556583
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	Reactome	20000	805	46.91	47.5	6.4150942583437	16.9473684210526	118.172854438421
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	Reactome	50000	1139	144.42	144	12.1507201432672	7.90972222222222	81.8535846660168
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	Reactome	1e+05	1500	332.11	335.5	16.8947394837039	4.47093889716841	69.1274346743559
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	STRING	20000	378	23.97	24	4.41634933108121	15.75	80.1634955614634
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	STRING	50000	567	70.35	72	7.85007881321821	7.875	63.2668807303852
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	STRING	1e+05	720	134.52	134	10.9096195158125	5.37313432835821	53.6663995615427
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	OmniPath	20000	454	22.75	23	4.28616519994413	19.7391304347826	100.614414023431
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	OmniPath	50000	504	47.13	47	6.50975181453707	10.7234042553191	70.18239911693
+Telencephalon_inhibitory_interneurons-expression.csv.gz	kendall	OmniPath	1e+05	550	77.79	77	8.16285625392376	7.14285714285714	57.8486237305742

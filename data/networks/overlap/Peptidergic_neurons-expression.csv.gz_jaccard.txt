@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peptidergic_neurons-expression.csv.gz	jaccard	HIPPIE	20000	438	106.14	107	9.52510770373106	4.09345794392523	34.8405509231153
+Peptidergic_neurons-expression.csv.gz	jaccard	HIPPIE	50000	654	258.86	257.5	14.0590529445254	2.53980582524272	28.1057338327946
+Peptidergic_neurons-expression.csv.gz	jaccard	HIPPIE	1e+05	981	466.04	464	20.1794575013925	2.11422413793103	25.5190210125552
+Peptidergic_neurons-expression.csv.gz	jaccard	Reactome	20000	562	65.31	65	7.65373745105599	8.64615384615385	64.8950925186847
+Peptidergic_neurons-expression.csv.gz	jaccard	Reactome	50000	912	184.63	184	12.3072246171823	4.95652173913043	59.1010583315842
+Peptidergic_neurons-expression.csv.gz	jaccard	Reactome	1e+05	1333	385.17	383.5	16.6309040553113	3.47588005215124	56.9920911603899
+Peptidergic_neurons-expression.csv.gz	jaccard	STRING	20000	241	33.23	33	5.06693579827477	7.3030303030303	41.0050587320927
+Peptidergic_neurons-expression.csv.gz	jaccard	STRING	50000	392	74.03	74	8.23941622919851	5.2972972972973	38.5913262729938
+Peptidergic_neurons-expression.csv.gz	jaccard	STRING	1e+05	590	132.74	133	10.2785645344517	4.43609022556391	44.4867567321637
+Peptidergic_neurons-expression.csv.gz	jaccard	OmniPath	20000	406	26.28	26	4.71635880781355	15.6153846153846	80.5112620716901
+Peptidergic_neurons-expression.csv.gz	jaccard	OmniPath	50000	449	49.27	48	7.10648444817275	9.35416666666667	56.2486279840914
+Peptidergic_neurons-expression.csv.gz	jaccard	OmniPath	1e+05	529	79.28	80	8.9477495618855	6.6125	50.2606825201792

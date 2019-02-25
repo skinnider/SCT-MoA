@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	HIPPIE	20000	329	66.33	67	7.99628070108254	4.91044776119403	32.8490219164567
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	HIPPIE	50000	508	144.13	144.5	10.7154707377377	3.51557093425606	33.9574442323401
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	HIPPIE	1e+05	755	296.92	297.5	17.6913378336245	2.53781512605042	25.8928976603094
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	Reactome	20000	479	74.01	74	9.25671473454636	6.47297297297297	43.7509431384511
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	Reactome	50000	806	177.56	177	13.5156624444802	4.55367231638418	46.4971659792123
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	Reactome	1e+05	1210	389.02	388	19.1638232409956	3.11855670103093	42.8400945717213
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	STRING	20000	205	26.31	26	4.95982852424345	7.88461538461539	36.0274552086973
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	STRING	50000	323	64.3	64	7.62703855842601	5.046875	33.9188005958354
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	STRING	1e+05	482	118.8	119.5	9.70889418330565	4.03347280334728	37.4089976821994
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	OmniPath	20000	342	17.7	17	4.09853385956244	20.1176470588235	79.1258560041815
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	OmniPath	50000	461	33.15	32	5.05999361200539	14.40625	84.5554427153582
+Olfactory_ensheathing_cells-expression.csv.gz	zi_kendall	OmniPath	1e+05	510	57.92	58	6.55309318589552	8.79310344827586	68.9872686341512

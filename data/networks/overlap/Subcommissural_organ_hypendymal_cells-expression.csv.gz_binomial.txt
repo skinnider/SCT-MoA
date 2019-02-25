@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	HIPPIE	20000	42	36.03	36	5.8248076224356	1.16666666666667	1.02492655328309
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	HIPPIE	50000	118	88.7	88.5	8.85403520401514	1.33333333333333	3.30922560446936
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	HIPPIE	1e+05	253	179.12	179.5	12.6357517474119	1.40947075208914	5.84690182878375
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	Reactome	20000	83	46.28	47	6.05209705704385	1.76595744680851	6.06731842762877
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	Reactome	50000	219	121.73	121.5	10.2768298771183	1.80246913580247	9.46498104601054
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	Reactome	1e+05	420	235.45	235.5	13.5284025948253	1.78343949044586	13.641669717206
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	STRING	20000	24	13	13	3.37549098561074	1.84615384615385	3.25878518025718
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	STRING	50000	64	33.94	34	5.58645548165246	1.88235294117647	5.38087166338759
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	STRING	1e+05	128	70.73	71	8.08647080629183	1.80281690140845	7.08219956169754
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	OmniPath	20000	8	5.17	5	2.08435732410387	1.6	1.35773265326122
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	OmniPath	50000	23	12.07	12	3.38223224357745	1.91666666666667	3.23159357869498
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	binomial	OmniPath	1e+05	44	24.1	24	4.55383066630433	1.83333333333333	4.36994729453783

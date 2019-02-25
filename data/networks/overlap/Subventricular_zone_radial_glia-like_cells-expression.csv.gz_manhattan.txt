@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	HIPPIE	20000	58	54.25	54	6.56955789297049	1.07407407407407	0.570814666845777
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	HIPPIE	50000	142	133.19	134	9.8295524318303	1.05970149253731	0.896276820445175
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	280	252.96	253.5	13.9493455912542	1.10453648915187	1.93844218878291
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	Reactome	20000	95	57.11	57	6.59644072989596	1.66666666666667	5.74400673810005
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	Reactome	50000	248	144.9	145	11.2541799193262	1.71034482758621	9.16104067458097
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	Reactome	1e+05	440	270.92	271.5	13.1269481478662	1.62062615101289	12.8803738763518
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	STRING	20000	18	13.43	13	3.1853674288166	1.38461538461538	1.43468535486903
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	STRING	50000	47	32.64	33	5.7779098664	1.42424242424242	2.4853277970823
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	STRING	1e+05	92	61.93	62	7.53611506699774	1.48387096774194	3.99011954205463
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	OmniPath	20000	5	4.3	4	1.92537547171213	1.25	0.36356545010804
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	OmniPath	50000	12	12.12	12	3.21385887818505	1	-0.0373382916140258
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	manhattan	OmniPath	1e+05	26	25.76	25	4.36496612735188	1.04	0.0549832445425185

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	HIPPIE	20000	141	54.82	55	7.02575349134967	2.56363636363636	12.2662999927492
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	HIPPIE	50000	311	131.16	131.5	11.1994949381071	2.36501901140684	16.0578669836334
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	573	261.39	262.5	15.4042464301506	2.18285714285714	20.2288376398659
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	Reactome	20000	250	76.72	76	7.94943616576266	3.28947368421053	21.7977723685986
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	Reactome	50000	574	217.25	216.5	12.4335608070832	2.65127020785219	28.6925045475924
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	Reactome	1e+05	1052	446.78	445	17.2325625523661	2.36404494382022	35.1207197513929
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	STRING	20000	115	23.02	22.5	4.15599846394621	5.11111111111111	22.131865735259
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	STRING	50000	238	55.41	56	7.04257614711256	4.25	25.9265922278826
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	STRING	1e+05	385	109.11	109	9.11419693986178	3.53211009174312	30.2703575334618
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	OmniPath	20000	37	4.91	5	2.07969986179533	7.4	15.4301111374301
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	OmniPath	50000	98	13.71	14	3.12789663731674	7	26.9478214191592
+Sympathetic_cholinergic_neurons-expression.csv.gz	bicor	OmniPath	1e+05	203	28.28	28	4.37873649964614	7.25	39.9019214821718

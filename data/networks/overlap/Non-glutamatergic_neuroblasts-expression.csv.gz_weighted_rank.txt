@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	HIPPIE	20000	531	119.4	119	11.3840221185642	4.46218487394958	36.1559381836401
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	HIPPIE	50000	812	277.39	278	14.0632733232934	2.92086330935252	38.0146206157075
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	HIPPIE	1e+05	1257	534.69	536.5	20.8165119969022	2.34296365330848	34.6988967271506
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	Reactome	20000	762	72.43	73	8.6960515828342	10.4383561643836	79.2969077323777
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	Reactome	50000	1127	208.74	209	13.2745826847606	5.39234449760766	69.1743026358317
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	Reactome	1e+05	1659	453.01	450	20.4324435023016	3.68666666666667	59.0232881282237
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	STRING	20000	384	49.43	48.5	6.52153387175165	7.91752577319588	51.3023479720326
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	STRING	50000	554	114.56	114	10.222099252664	4.85964912280702	42.9892127965279
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	STRING	1e+05	757	205.24	205	13.1018697100448	3.69268292682927	42.1130733407448
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	OmniPath	20000	506	31.47	31	5.43920485870403	16.3225806451613	87.2425312756218
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	OmniPath	50000	549	54.34	54	7.04132104226203	10.1666666666667	70.2510220782506
+Non-glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	OmniPath	1e+05	621	92.12	91	8.58619987438147	6.82417582417582	61.596516239741

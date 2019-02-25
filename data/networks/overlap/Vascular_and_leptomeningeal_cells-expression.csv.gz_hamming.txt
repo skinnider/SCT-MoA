@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	HIPPIE	20000	300	75.24	75.5	7.99257230941404	3.97350993377483	28.1211093624097
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	HIPPIE	50000	419	144.57	145	11.5402282770692	2.88965517241379	23.7802921581109
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	HIPPIE	1e+05	543	247.2	245.5	16.0560885584871	2.21181262729124	18.4229178185271
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	Reactome	20000	392	71.9	71.5	7.71918768950844	5.48251748251748	41.4680939077392
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	Reactome	50000	549	151.42	152	12.6068604058635	3.61184210526316	31.5367972040908
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	Reactome	1e+05	762	285.53	282	16.4399458083601	2.70212765957447	28.9824556330169
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	STRING	20000	137	25.18	25	5.39431050817302	5.48	20.7292479419899
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	STRING	50000	187	52.18	52	7.46490780149685	3.59615384615385	18.060504373941
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	STRING	1e+05	248	88.04	87	9.13967928177665	2.85057471264368	17.5017082184645
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	OmniPath	20000	271	17.67	17	3.77406085715842	15.9411764705882	67.1239838434238
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	OmniPath	50000	315	27.81	28	5.23719216930044	11.25	54.8366358758918
+Vascular_and_leptomeningeal_cells-expression.csv.gz	hamming	OmniPath	1e+05	343	39.87	39	6.18674862798373	8.7948717948718	48.996656923944

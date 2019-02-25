@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peptidergic_neurons-expression.csv.gz	manhattan	HIPPIE	20000	60	43.62	43	6.79985145411132	1.3953488372093	2.40887615127186
+Peptidergic_neurons-expression.csv.gz	manhattan	HIPPIE	50000	149	98.34	98	10.3808487226248	1.52040816326531	4.88014047344587
+Peptidergic_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	267	177.63	177	13.9237860577437	1.50847457627119	6.41851286922761
+Peptidergic_neurons-expression.csv.gz	manhattan	Reactome	20000	93	40.37	40	6.21281666469331	2.325	8.47119798320944
+Peptidergic_neurons-expression.csv.gz	manhattan	Reactome	50000	208	95.86	96	10.1065235458004	2.16666666666667	11.0958035660638
+Peptidergic_neurons-expression.csv.gz	manhattan	Reactome	1e+05	372	188.91	191	14.2091839699157	1.94764397905759	12.8853282769543
+Peptidergic_neurons-expression.csv.gz	manhattan	STRING	20000	32	14.38	14	3.43417171287857	2.28571428571429	5.13078595747638
+Peptidergic_neurons-expression.csv.gz	manhattan	STRING	50000	65	35.01	35	4.96552763021863	1.85714285714286	6.03964014166196
+Peptidergic_neurons-expression.csv.gz	manhattan	STRING	1e+05	125	64.99	64	6.80091348587998	1.953125	8.82381464263476
+Peptidergic_neurons-expression.csv.gz	manhattan	OmniPath	20000	11	2.66	3	1.53885698103521	3.66666666666667	5.41960695683985
+Peptidergic_neurons-expression.csv.gz	manhattan	OmniPath	50000	18	6.91	7	2.34022790912908	2.57142857142857	4.73885468878421
+Peptidergic_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	35	14.23	14	3.77084777328559	2.5	5.50804520594656

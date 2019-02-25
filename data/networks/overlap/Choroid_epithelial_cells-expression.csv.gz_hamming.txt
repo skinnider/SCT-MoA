@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Choroid_epithelial_cells-expression.csv.gz	hamming	HIPPIE	20000	391	117.08	117	10.6350668293456	3.34188034188034	25.7563026537987
+Choroid_epithelial_cells-expression.csv.gz	hamming	HIPPIE	50000	680	259.1	259.5	15.9167658254884	2.62042389210019	26.4438143159705
+Choroid_epithelial_cells-expression.csv.gz	hamming	HIPPIE	1e+05	949	411.98	410	20.5529520600774	2.31463414634146	26.1286066561272
+Choroid_epithelial_cells-expression.csv.gz	hamming	Reactome	20000	577	96.53	96	8.87335701110153	6.01041666666667	54.1474888702078
+Choroid_epithelial_cells-expression.csv.gz	hamming	Reactome	50000	994	239.96	239.5	12.8211630604334	4.15031315240083	58.8121371240489
+Choroid_epithelial_cells-expression.csv.gz	hamming	Reactome	1e+05	1351	413.57	413	18.1777169616922	3.27118644067797	51.5702825594403
+Choroid_epithelial_cells-expression.csv.gz	hamming	STRING	20000	269	47.76	48	6.90793717108052	5.60416666666667	32.0269270725568
+Choroid_epithelial_cells-expression.csv.gz	hamming	STRING	50000	473	126.41	126.5	10.0775728599437	3.73913043478261	34.3922097926598
+Choroid_epithelial_cells-expression.csv.gz	hamming	STRING	1e+05	652	190.43	191	12.9414025124752	3.41361256544503	35.6661497511617
+Choroid_epithelial_cells-expression.csv.gz	hamming	OmniPath	20000	331	23.01	23	3.84680111103743	14.3913043478261	80.0639261323649
+Choroid_epithelial_cells-expression.csv.gz	hamming	OmniPath	50000	474	49.87	49	6.27429419749885	9.6734693877551	67.5980415724008
+Choroid_epithelial_cells-expression.csv.gz	hamming	OmniPath	1e+05	547	73.82	73	7.99669123494653	7.49315068493151	59.1719732696624

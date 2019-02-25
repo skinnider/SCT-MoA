@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	binomial	HIPPIE	20000	38	30.72	30	5.22635125826302	1.26666666666667	1.39294120128074
+Cerebellum_neurons-expression.csv.gz	binomial	HIPPIE	50000	135	99.08	100.5	8.39634360055529	1.34328358208955	4.27805265111166
+Cerebellum_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	366	238.29	239	13.5678578882876	1.53138075313808	9.41268703221349
+Cerebellum_neurons-expression.csv.gz	binomial	Reactome	20000	64	29.44	29	5.04789184919924	2.20689655172414	6.84642243384877
+Cerebellum_neurons-expression.csv.gz	binomial	Reactome	50000	209	91.33	92	8.53519747630926	2.27173913043478	13.786441418211
+Cerebellum_neurons-expression.csv.gz	binomial	Reactome	1e+05	607	228.45	228.5	12.9321266228683	2.65645514223195	29.2720610491547
+Cerebellum_neurons-expression.csv.gz	binomial	STRING	20000	83	35.26	35	5.83894967723934	2.37142857142857	8.17612800913392
+Cerebellum_neurons-expression.csv.gz	binomial	STRING	50000	197	83.48	83	8.28955774916658	2.37349397590361	13.694337313883
+Cerebellum_neurons-expression.csv.gz	binomial	STRING	1e+05	392	163.11	163.5	11.3652802851314	2.39755351681957	20.1394065309102
+Cerebellum_neurons-expression.csv.gz	binomial	OmniPath	20000	9	7.29	7	2.336772357442	1.28571428571429	0.731778598182276
+Cerebellum_neurons-expression.csv.gz	binomial	OmniPath	50000	33	18	17.5	4.05517502019881	1.88571428571429	3.69897721437054
+Cerebellum_neurons-expression.csv.gz	binomial	OmniPath	1e+05	136	42.17	42	6.77197880753454	3.23809523809524	13.8556251675809

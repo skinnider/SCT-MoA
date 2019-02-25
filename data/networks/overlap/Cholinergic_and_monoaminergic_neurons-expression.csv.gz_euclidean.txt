@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	HIPPIE	20000	68	58.6	58.5	6.64542069109369	1.16239316239316	1.41450789001185
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	HIPPIE	50000	163	138.75	138	10.1577208530897	1.18115942028985	2.38734656629433
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	309	243.39	242	13.7663731717192	1.27685950413223	4.76596117086127
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	Reactome	20000	92	42.3	42	6.07112723129617	2.19047619047619	8.18628865885079
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	Reactome	50000	240	121.51	123	9.75714708262201	1.95121951219512	12.1439186061914
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	Reactome	1e+05	490	250.15	249.5	14.2299832832799	1.96392785571142	16.8552552188745
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	STRING	20000	18	11.94	11	3.87642446936177	1.63636363636364	1.56329629221377
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	STRING	50000	58	38.38	39	5.64394732559947	1.48717948717949	3.47629041663958
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	STRING	1e+05	132	73.2	73	6.88579272227544	1.80821917808219	8.53932181399868
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	OmniPath	20000	11	7.68	7	2.44486681383133	1.57142857142857	1.3579471819151
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	OmniPath	50000	29	20.55	20	4.20767696651554	1.45	2.00823401303014
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	58	36.06	36	6.07997208925013	1.61111111111111	3.60856919701846

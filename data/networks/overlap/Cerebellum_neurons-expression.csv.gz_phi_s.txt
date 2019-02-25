@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	phi_s	HIPPIE	20000	79	32.48	32	5.79878078442862	2.46875	8.02237603547964
+Cerebellum_neurons-expression.csv.gz	phi_s	HIPPIE	50000	186	81.45	81	8.66010824109461	2.2962962962963	12.0725973728459
+Cerebellum_neurons-expression.csv.gz	phi_s	HIPPIE	1e+05	370	164.64	164.5	11.4208032762476	2.24924012158055	17.981222076305
+Cerebellum_neurons-expression.csv.gz	phi_s	Reactome	20000	177	53.7	53	7.74009631135756	3.33962264150943	15.9300343354996
+Cerebellum_neurons-expression.csv.gz	phi_s	Reactome	50000	396	118.35	118	10.7415693979657	3.35593220338983	25.8481782050008
+Cerebellum_neurons-expression.csv.gz	phi_s	Reactome	1e+05	734	230.06	231	15.6184428665523	3.17748917748918	32.2657005122588
+Cerebellum_neurons-expression.csv.gz	phi_s	STRING	20000	92	12.93	13	3.64388237843633	7.07692307692308	21.6993831820474
+Cerebellum_neurons-expression.csv.gz	phi_s	STRING	50000	158	28.08	28	5.22557811793745	5.64285714285714	24.8623208892493
+Cerebellum_neurons-expression.csv.gz	phi_s	STRING	1e+05	268	57.13	56	7.03046042143569	4.78571428571429	29.9937681687337
+Cerebellum_neurons-expression.csv.gz	phi_s	OmniPath	20000	42	4.39	4	2.15507388141183	10.5	17.4518378810109
+Cerebellum_neurons-expression.csv.gz	phi_s	OmniPath	50000	104	11.28	11	3.13687742827162	9.45454545454546	29.5580564176164
+Cerebellum_neurons-expression.csv.gz	phi_s	OmniPath	1e+05	208	22.56	22.5	4.54677152638345	9.24444444444444	40.784983130107

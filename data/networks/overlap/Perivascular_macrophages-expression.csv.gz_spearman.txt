@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	spearman	HIPPIE	20000	463	83.24	83	9.33779114321709	5.57831325301205	40.6691469294487
+Perivascular_macrophages-expression.csv.gz	spearman	HIPPIE	50000	617	185.16	185	13.9448553201168	3.33513513513514	30.9676931088004
+Perivascular_macrophages-expression.csv.gz	spearman	HIPPIE	1e+05	831	348.28	349	19.0639964224703	2.3810888252149	25.3210286711463
+Perivascular_macrophages-expression.csv.gz	spearman	Reactome	20000	1024	217.92	219	13.7059155554133	4.67579908675799	58.8125613893505
+Perivascular_macrophages-expression.csv.gz	spearman	Reactome	50000	1556	508.27	509	20.6254990756881	3.05697445972495	50.7978011176946
+Perivascular_macrophages-expression.csv.gz	spearman	Reactome	1e+05	2278	916.45	917	28.6551685890816	2.48418756815703	47.5149882914592
+Perivascular_macrophages-expression.csv.gz	spearman	STRING	20000	338	37.62	38	5.51175053312411	8.89473684210526	54.4981123864004
+Perivascular_macrophages-expression.csv.gz	spearman	STRING	50000	485	91.81	92.5	8.29469223009023	5.24324324324324	47.402602663622
+Perivascular_macrophages-expression.csv.gz	spearman	STRING	1e+05	635	168.57	170	12.8293027909162	3.73529411764706	36.3566132627454
+Perivascular_macrophages-expression.csv.gz	spearman	OmniPath	20000	486	28.09	28	5.38815573477811	17.3571428571429	84.9845517723992
+Perivascular_macrophages-expression.csv.gz	spearman	OmniPath	50000	514	48.97	48	7.30912671482259	10.7083333333333	63.6231957857481
+Perivascular_macrophages-expression.csv.gz	spearman	OmniPath	1e+05	545	78.54	77	9.52022833101956	7.07792207792208	48.9967240050476

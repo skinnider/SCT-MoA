@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	HIPPIE	20000	454	100.77	101.5	9.51644509639641	4.47290640394089	37.1178519312592
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	HIPPIE	50000	713	230.18	231	14.4357720663467	3.08658008658009	33.4460808733307
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	HIPPIE	1e+05	980	414.26	413	19.8767007403953	2.3728813559322	28.4624700743343
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	Reactome	20000	731	65.44	64.5	7.67169795383978	11.3333333333333	86.7552403659061
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	Reactome	50000	1106	192.36	192.5	13.125285951671	5.74545454545455	69.6091501064543
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	Reactome	1e+05	1571	405.9	407	17.5185327553134	3.85995085995086	66.5067112796088
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	STRING	20000	318	27.15	28	4.91004947618513	11.3571428571429	59.2356556508625
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	STRING	50000	505	77.93	77.5	8.42465717313461	6.51612903225806	50.6928639615014
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	STRING	1e+05	726	145.45	146	12.2518809110514	4.97260273972603	47.3845611310451
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	OmniPath	20000	388	23.84	24	4.98425804737559	16.1666666666667	73.0620277960418
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	OmniPath	50000	490	46.61	46	6.50546778572541	10.6521739130435	68.1565130447508
+Glutamatergic_neuroblasts-expression.csv.gz	weighted_rank	OmniPath	1e+05	549	81.75	81	8.6074609402764	6.77777777777778	54.2843009386919

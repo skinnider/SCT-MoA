@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	HIPPIE	20000	436	125.83	127.5	11.3636448484817	3.41960784313725	27.294939619786
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	HIPPIE	50000	615	241	241	15.3274033328967	2.55186721991701	24.4007410699043
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	830	420.86	421	19.8336618256474	1.97149643705463	20.6285658995623
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	Reactome	20000	629	131.41	132	11.6316313767609	4.76515151515152	42.779037942532
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	Reactome	50000	1030	312.71	312.5	16.524420251448	3.296	43.4078768928154
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	Reactome	1e+05	1507	560.97	561	22.2617373422415	2.68627450980392	42.4957848282988
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	STRING	20000	231	38.2	38.5	5.67646212197547	6	33.9648174967305
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	STRING	50000	373	77.49	78	8.49776560055761	4.78205128205128	34.775023681591
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	STRING	1e+05	543	142.42	143.5	12.0009932248893	3.78397212543554	33.3789039368194
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	OmniPath	20000	371	32.08	32	5.66163769718104	11.59375	59.8625376838843
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	OmniPath	50000	436	54.97	54	7.79854298746072	8.07407407407407	48.8591267128563
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	canberra	OmniPath	1e+05	499	95.24	96	9.73914313946094	5.19791666666667	41.4574459188355

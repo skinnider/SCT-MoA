@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Schwann_cells-expression.csv.gz	euclidean	HIPPIE	20000	23	28.14	28	4.99903020898084	0.821428571428571	-1.02819942771418
+Schwann_cells-expression.csv.gz	euclidean	HIPPIE	50000	73	74.18	72.5	8.20369465915243	1.00689655172414	-0.143837630363722
+Schwann_cells-expression.csv.gz	euclidean	HIPPIE	1e+05	165	156.43	156	11.5305961018781	1.05769230769231	0.743239978599555
+Schwann_cells-expression.csv.gz	euclidean	Reactome	20000	92	45.3	46	6.78307459859473	2	6.88478348884369
+Schwann_cells-expression.csv.gz	euclidean	Reactome	50000	201	123.66	124.5	10.8238606604095	1.6144578313253	7.1453247992084
+Schwann_cells-expression.csv.gz	euclidean	Reactome	1e+05	435	273.52	275.5	15.3639220581888	1.57894736842105	10.5103370993693
+Schwann_cells-expression.csv.gz	euclidean	STRING	20000	13	8.74	9	2.48478196511111	1.44444444444444	1.71443613959485
+Schwann_cells-expression.csv.gz	euclidean	STRING	50000	46	27.51	28	4.9512675654877	1.64285714285714	3.73439725392395
+Schwann_cells-expression.csv.gz	euclidean	STRING	1e+05	83	61.56	60	7.39412816450535	1.38333333333333	2.8995981031165
+Schwann_cells-expression.csv.gz	euclidean	OmniPath	20000	2	1.85	2	1.28216199988121	1	0.116989896763355
+Schwann_cells-expression.csv.gz	euclidean	OmniPath	50000	5	5.44	5	2.24427442100285	1	-0.19605445567721
+Schwann_cells-expression.csv.gz	euclidean	OmniPath	1e+05	17	12.36	12	3.30753654247356	1.41666666666667	1.4028567607389

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	HIPPIE	20000	496	91.73	92	8.57157034514786	5.39130434782609	47.1640532272884
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	HIPPIE	50000	709	214.5	214	14.5654219009102	3.31308411214953	33.950269574347
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	972	392.79	394	19.5299795445387	2.46700507614213	29.6574811396547
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	Reactome	20000	738	47.41	47	6.42453472748389	15.7021276595745	107.492609082754
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	Reactome	50000	1110	149.22	149	12.0114255371435	7.4496644295302	79.9888403777664
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1461	323.99	324.5	16.8394048456457	4.50231124807396	67.5207948512507
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	STRING	20000	339	21	21	4.24264068711928	16.1428571428571	74.953318805774
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	STRING	50000	534	67.95	67.5	7.45677781307284	7.91111111111111	62.5001859627553
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	STRING	1e+05	711	133.26	134	10.8036843696767	5.30597014925373	53.4762012875512
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	OmniPath	20000	442	22.18	22	4.13504363442345	20.0909090909091	101.52734459803
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	OmniPath	50000	503	47	47	6.05363235144526	10.7021276595745	75.3266755440035
+Telencephalon_inhibitory_interneurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	551	78.32	78	8.52314732971573	7.06410256410256	55.4583866398758

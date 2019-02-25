@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	HIPPIE	20000	339	121.7	122	9.24143064703947	2.77868852459016	23.5136753495643
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	HIPPIE	50000	571	296.74	297	14.845071963994	1.92255892255892	18.4748178159866
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	1015	570.62	569	21.1830788197285	1.78383128295255	20.9780647932129
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	Reactome	20000	480	137.7	137	9.4585752872537	3.5036496350365	36.1893826083174
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	Reactome	50000	859	334.33	332	14.7415820868807	2.58734939759036	35.5911595450078
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	Reactome	1e+05	1510	669.32	671.5	21.9245169717475	2.24869694713328	38.3442883181108
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	STRING	20000	155	35.14	35	5.70312691123532	4.42857142857143	21.0165409021273
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	STRING	50000	294	90.57	89.5	9.75896893874936	3.28491620111732	20.8454398489017
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	STRING	1e+05	513	175.79	175	13.1604665110276	2.93142857142857	25.6229518700907
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	OmniPath	20000	279	31.29	31	5.06581930713337	9	48.8983094306562
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	OmniPath	50000	357	69.61	68.5	7.61032658347004	5.21167883211679	37.7631625723164
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	hamming	OmniPath	1e+05	508	130.04	130	10.6599600128118	3.90769230769231	35.4560429444147

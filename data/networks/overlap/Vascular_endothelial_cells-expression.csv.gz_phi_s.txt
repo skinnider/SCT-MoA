@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	phi_s	HIPPIE	20000	355	54.38	54	7.31924266104855	6.57407407407407	41.0725554434526
+Vascular_endothelial_cells-expression.csv.gz	phi_s	HIPPIE	50000	497	125.18	125.5	10.0366802028833	3.9601593625498	37.0461141018706
+Vascular_endothelial_cells-expression.csv.gz	phi_s	HIPPIE	1e+05	666	240.63	240	15.300132038778	2.775	27.8017208558662
+Vascular_endothelial_cells-expression.csv.gz	phi_s	Reactome	20000	601	64.44	65	7.45263833697961	9.24615384615385	71.9959799119215
+Vascular_endothelial_cells-expression.csv.gz	phi_s	Reactome	50000	834	161.98	161	11.3359889936717	5.18012422360248	59.2819912206295
+Vascular_endothelial_cells-expression.csv.gz	phi_s	Reactome	1e+05	1117	318.86	317.5	16.6248080417261	3.51811023622047	48.0089753816568
+Vascular_endothelial_cells-expression.csv.gz	phi_s	STRING	20000	233	22.71	23	4.25522851289677	10.1304347826087	49.4192026027866
+Vascular_endothelial_cells-expression.csv.gz	phi_s	STRING	50000	317	55.29	56	6.98815014322406	5.66071428571429	37.4505405058823
+Vascular_endothelial_cells-expression.csv.gz	phi_s	STRING	1e+05	406	103.15	103	9.78699920993935	3.94174757281553	30.9441120310335
+Vascular_endothelial_cells-expression.csv.gz	phi_s	OmniPath	20000	396	19.73	20	4.35740400892202	19.8	86.3518735535119
+Vascular_endothelial_cells-expression.csv.gz	phi_s	OmniPath	50000	476	34.77	35	5.94223880538321	13.6	74.2531585233969
+Vascular_endothelial_cells-expression.csv.gz	phi_s	OmniPath	1e+05	524	55.24	55	6.9748755464803	9.52727272727273	67.2069339268065

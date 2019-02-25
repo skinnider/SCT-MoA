@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	HIPPIE	20000	323	93.92	94.5	9.72207734379787	3.41798941798942	23.5628654143695
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	HIPPIE	50000	514	190.99	192	12.587066474133	2.67708333333333	25.6620556238263
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	734	317.88	319	16.7605115517023	2.30094043887147	24.8274045047113
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	Reactome	20000	485	94.41	94	8.55888102759026	5.15957446808511	45.6356384369523
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	Reactome	50000	774	225.44	227	13.3297874072782	3.40969162995595	41.1529443973338
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	Reactome	1e+05	1194	444.82	445	19.3961258237231	2.68314606741573	38.6252392260567
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	STRING	20000	188	25.28	25	4.7013430275429	7.52	34.6113863733622
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	STRING	50000	276	56.14	56	6.09523741883113	4.92857142857143	36.0707852528839
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	STRING	1e+05	388	108.98	109	8.96117326373206	3.55963302752294	31.1365478367948
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	OmniPath	20000	228	20.38	21	4.17491305177713	10.8571428571429	49.7303769983001
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	OmniPath	50000	285	35.89	36	5.31035770828096	7.91666666666667	46.9102108906032
+Sympathetic_cholinergic_neurons-expression.csv.gz	canberra	OmniPath	1e+05	352	55.21	56	6.86418754894348	6.28571428571429	43.2374549622673

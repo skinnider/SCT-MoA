@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	HIPPIE	20000	143	50.72	51	7.38149474337445	2.80392156862745	12.5015329832524
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	HIPPIE	50000	322	130.03	130	10.9364140153503	2.47692307692308	17.5532857233231
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	HIPPIE	1e+05	574	262.82	263	16.224049986973	2.18250950570342	19.1801677293808
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	Reactome	20000	288	104.3	104	9.0391963529437	2.76923076923077	20.3226031194882
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	Reactome	50000	623	272.84	272.5	14.4058910508756	2.28623853211009	24.3067227680247
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	Reactome	1e+05	1050	519.81	518	18.6486357721313	2.02702702702703	28.4304978915573
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	STRING	20000	126	22.47	22	3.76709571168694	5.72727272727273	27.4827102690307
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	STRING	50000	242	52.93	53	6.61991943556214	4.56603773584906	28.5607705411516
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	STRING	1e+05	386	100.65	100	9.64351983185988	3.86	29.589818341771
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	OmniPath	20000	36	4.68	5	1.97397205060397	7.2	15.8664860479747
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	OmniPath	50000	86	12.96	12	3.31790368282216	7.16666666666667	22.0139000351792
+Sympathetic_cholinergic_neurons-expression.csv.gz	zi_kendall	OmniPath	1e+05	158	25.91	25	4.57506416580272	6.32	28.8717262125709

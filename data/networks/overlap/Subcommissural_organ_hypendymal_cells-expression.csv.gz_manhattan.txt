@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	HIPPIE	20000	29	29.77	30	5.70991517565115	0.966666666666667	-0.134853141651476
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	HIPPIE	50000	91	77.36	77	8.40336632883309	1.18181818181818	1.62315903725383
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	210	163.01	162	12.1426662407539	1.2962962962963	3.86982554476295
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	Reactome	20000	73	44.13	44	6.4033687472401	1.65909090909091	4.50856434161209
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	Reactome	50000	190	113.14	113	10.2218028021114	1.68141592920354	7.51922155885495
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	Reactome	1e+05	381	218.75	219	14.5778128079155	1.73972602739726	11.1299275232771
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	STRING	20000	22	9.28	9	2.64032443675264	2.44444444444444	4.81758977152234
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	STRING	50000	47	25.28	25	4.75050236577909	1.88	4.57214802300975
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	STRING	1e+05	80	56.57	56	7.05713336370593	1.42857142857143	3.32004495203363
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	OmniPath	20000	4	3.66	3	1.90278902156967	1.33333333333333	0.178685075510643
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	OmniPath	50000	16	8.79	9	2.59873706700665	1.77777777777778	2.7744245816699
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	manhattan	OmniPath	1e+05	30	18.04	18	4.21617855601036	1.66666666666667	2.8366920046473

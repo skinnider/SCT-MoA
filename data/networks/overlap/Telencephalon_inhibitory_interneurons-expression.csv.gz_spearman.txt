@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	HIPPIE	20000	509	93.79	93.5	8.43429147749073	5.44385026737968	49.2287942749079
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	HIPPIE	50000	728	215.33	215.5	13.8111761214817	3.37819025522042	37.1199379032319
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	HIPPIE	1e+05	980	395.39	395	18.3357546610413	2.48101265822785	31.8836072366382
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	Reactome	20000	782	49.04	49	6.76282171698749	15.9591836734694	108.380795867926
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	Reactome	50000	1117	146.04	145	12.1496726480406	7.70344827586207	79.9165564478472
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	Reactome	1e+05	1476	331.81	333	17.1850857349381	4.43243243243243	66.5804068509131
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	STRING	20000	363	24.92	25	4.57193900469224	14.52	73.9467433080415
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	STRING	50000	549	71.28	71.5	7.97607533676668	7.67832167832168	59.8941183263267
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	STRING	1e+05	732	139.81	140	11.0185289307593	5.22857142857143	53.7449240022272
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	OmniPath	20000	448	23.12	23	4.42965215133403	19.4782608695652	95.9172380774964
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	OmniPath	50000	504	47.62	48	6.29538872444897	10.5	72.4943319588175
+Telencephalon_inhibitory_interneurons-expression.csv.gz	spearman	OmniPath	1e+05	553	80.18	79	8.50475802659365	7	55.5947621932961

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	HIPPIE	20000	236	71.76	72.5	8.46993494542892	3.2551724137931	19.3909399609542
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	HIPPIE	50000	456	168.93	168	12.1116481207976	2.71428571428571	23.7019765713847
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	HIPPIE	1e+05	720	327.37	329	16.476892297942	2.18844984802432	23.8291294802625
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	Reactome	20000	357	88.34	88	8.21580147882079	4.05681818181818	32.7004006477723
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	Reactome	50000	717	205.48	205	13.284364622907	3.49756097560976	38.5054170462888
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	Reactome	1e+05	1149	388.57	386	18.0147274206524	2.97668393782383	42.2115740218323
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	STRING	20000	156	24.4	24	5.08910501944987	6.5	25.859163742356
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	STRING	50000	304	58.71	57.5	7.41046898010177	5.28695652173913	33.1004691685021
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	STRING	1e+05	462	114.97	115	10.6006050904101	4.01739130434783	32.7368104971614
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	OmniPath	20000	167	13.68	13	3.46375168820973	12.8461538461538	44.2641429874682
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	OmniPath	50000	297	30.08	30	5.50423161363743	9.9	48.4935988773932
+Olfactory_ensheathing_cells-expression.csv.gz	binomial	OmniPath	1e+05	410	55.73	55	6.95273363868522	7.45454545454545	50.9540589946997

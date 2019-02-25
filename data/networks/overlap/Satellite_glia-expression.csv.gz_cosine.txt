@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Satellite_glia-expression.csv.gz	cosine	HIPPIE	20000	361	126.89	127	12.0116904335196	2.84251968503937	19.4901792795705
+Satellite_glia-expression.csv.gz	cosine	HIPPIE	50000	639	270.87	269.5	16.4412974739302	2.37105751391466	22.3905686630704
+Satellite_glia-expression.csv.gz	cosine	HIPPIE	1e+05	932	466.56	468.5	22.3056454329799	1.98932764140875	20.8664663570697
+Satellite_glia-expression.csv.gz	cosine	Reactome	20000	458	124.95	125	11.36481812037	3.664	29.3053524018171
+Satellite_glia-expression.csv.gz	cosine	Reactome	50000	815	287.31	287.5	15.1228604797806	2.83478260869565	34.8935309365267
+Satellite_glia-expression.csv.gz	cosine	Reactome	1e+05	1255	532.91	531.5	23.3199507077116	2.36124176857949	30.9644736839522
+Satellite_glia-expression.csv.gz	cosine	STRING	20000	216	60.36	60	8.44413609219051	3.6	18.4317256733868
+Satellite_glia-expression.csv.gz	cosine	STRING	50000	389	122.64	123	10.4731691825957	3.16260162601626	25.4326073947737
+Satellite_glia-expression.csv.gz	cosine	STRING	1e+05	576	197.42	198	12.7478895064511	2.90909090909091	29.6974648084624
+Satellite_glia-expression.csv.gz	cosine	OmniPath	20000	272	25.34	25	4.87877282135828	10.88	50.5577957883533
+Satellite_glia-expression.csv.gz	cosine	OmniPath	50000	378	50.63	50	6.88381941199576	7.56	47.5564480133695
+Satellite_glia-expression.csv.gz	cosine	OmniPath	1e+05	465	85.46	86	8.64381602971486	5.40697674418605	43.9088475154093

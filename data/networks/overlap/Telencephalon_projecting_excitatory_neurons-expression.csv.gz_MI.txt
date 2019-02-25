@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	HIPPIE	20000	437	109.95	110	10.960327909273	3.97272727272727	29.8394357091543
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	HIPPIE	50000	732	248.8	248	15.6502170249902	2.95161290322581	30.8749712050912
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	HIPPIE	1e+05	1022	444.9	444.5	20.8943953627703	2.2992125984252	27.6198468527248
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	Reactome	20000	740	129.33	130	10.3426692918612	5.69230769230769	59.0437519336084
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	Reactome	50000	1262	302.52	302.5	14.1210352440477	4.17190082644628	67.9468596613299
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	Reactome	1e+05	1831	555.03	553	20.9050064082576	3.31103074141049	61.0365754059746
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	STRING	20000	359	52.64	52.5	6.33177014201504	6.83809523809524	48.3845738440693
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	STRING	50000	610	105.12	105	9.88344192285381	5.80952380952381	51.083418503482
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	STRING	1e+05	837	175.86	176	12.641937583242	4.75568181818182	52.297363093803
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	OmniPath	20000	338	23.29	23	3.94736838561049	14.695652173913	79.726534049172
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	OmniPath	50000	458	51.37	51	5.95548300121642	8.98039215686275	68.2782571819859
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	MI	OmniPath	1e+05	570	92.91	92.5	7.70687086863784	6.16216216216216	61.9045015975886

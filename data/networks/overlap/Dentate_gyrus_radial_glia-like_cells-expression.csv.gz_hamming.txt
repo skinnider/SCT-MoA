@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	HIPPIE	20000	77	43.66	43.5	6.38530509937632	1.77011494252874	5.22136365938982
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	HIPPIE	50000	162	106.68	106.5	9.37100622002555	1.52112676056338	5.90331483099252
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	HIPPIE	1e+05	293	208.84	210.5	11.9896588438504	1.39192399049881	7.01938237743659
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	Reactome	20000	131	49.98	51	6.74496445168879	2.56862745098039	12.0119239441973
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	Reactome	50000	249	123.54	123.5	9.92539849847528	2.01619433198381	12.6402985249683
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	Reactome	1e+05	421	231.42	231.5	16.6133571671603	1.81857451403888	11.4112998409944
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	STRING	20000	31	9.62	9	3.05101407218762	3.44444444444444	7.00750619110395
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	STRING	50000	60	25.35	25	4.31669299161272	2.4	8.02697807495796
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	STRING	1e+05	110	52.64	52	6.93624647424781	2.11538461538462	8.26960232929444
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	OmniPath	20000	32	5.01	5	2.32028820919673	6.4	11.632175646552
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	OmniPath	50000	44	11.41	11	3.30623836424601	4	9.8571235372596
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	hamming	OmniPath	1e+05	62	21.91	22	4.31135451775631	2.81818181818182	9.29870179659068

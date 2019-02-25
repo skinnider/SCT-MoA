@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	HIPPIE	20000	608	130.33	130	11.9730800742602	4.67692307692308	39.8953316137005
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	HIPPIE	50000	851	297.05	295	18.3910249301065	2.88474576271186	30.1206703870632
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	HIPPIE	1e+05	1182	527.47	526.5	20.7347144624271	2.24501424501425	31.5668682675162
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	Reactome	20000	903	107.5	107	9.95494902553549	8.4392523364486	79.9100023475217
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	Reactome	50000	1266	265.72	265.5	15.8229343841543	4.7683615819209	63.217098403803
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	Reactome	1e+05	1766	526.22	526.5	22.4488554521408	3.35422602089269	55.2268690331725
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	STRING	20000	426	56.79	57	7.20731250434956	7.47368421052632	51.2271390725995
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	STRING	50000	575	119.67	119	11.6732059595356	4.83193277310924	39.0064221927011
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	STRING	1e+05	760	197.58	196	14.928908976624	3.87755102040816	37.6732151613122
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	OmniPath	20000	528	36.39	36	5.66737072275062	14.6666666666667	86.7439283663801
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	OmniPath	50000	556	68.79	69	6.98381245192312	8.05797101449275	69.7627554224825
+Oligodendrocyte_precursor_cells-expression.csv.gz	pearson	OmniPath	1e+05	618	105.42	105	9.42721184827854	5.88571428571429	54.3723858389371

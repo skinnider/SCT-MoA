@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	HIPPIE	20000	430	70.23	71	7.89815858861476	6.05633802816901	45.5511238427917
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	HIPPIE	50000	616	177.49	177	12.0918162491009	3.48022598870056	36.2650234643291
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	HIPPIE	1e+05	840	338.79	339	16.8925869821497	2.47787610619469	29.6704110820696
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	Reactome	20000	672	67.42	68	8.68085086366375	9.88235294117647	69.6452467039431
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	Reactome	50000	942	195.69	196	13.2982075195239	4.80612244897959	56.121097441463
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	Reactome	1e+05	1300	400.88	402.5	18.7731163899311	3.22981366459627	47.894019369221
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	STRING	20000	284	26.98	27	4.80946037419055	10.5185185185185	53.4405068350849
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	STRING	50000	423	69.15	69	7.70199370752191	6.1304347826087	45.9426498433027
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	STRING	1e+05	582	135.32	133	11.2491346468531	4.37593984962406	39.7079432349899
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	OmniPath	20000	441	20.83	21	4.47226017927302	21	93.9502585174506
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	OmniPath	50000	496	41.42	41	6.05226395573582	12.0975609756098	75.1090836957281
+Olfactory_ensheathing_cells-expression.csv.gz	weighted_rank	OmniPath	1e+05	529	72.6	73	7.70543557326498	7.24657534246575	59.2309150677399

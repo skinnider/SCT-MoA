@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	binomial	HIPPIE	20000	115	66.78	67	8.00199470081799	1.71641791044776	6.02599749223413
+Perivascular_macrophages-expression.csv.gz	binomial	HIPPIE	50000	278	154.49	154	11.9125559767411	1.80519480519481	10.3680520151301
+Perivascular_macrophages-expression.csv.gz	binomial	HIPPIE	1e+05	519	303.04	302.5	15.0056689624322	1.71570247933884	14.3918941928328
+Perivascular_macrophages-expression.csv.gz	binomial	Reactome	20000	364	172.6	172	12.599502956366	2.11627906976744	15.1910754466147
+Perivascular_macrophages-expression.csv.gz	binomial	Reactome	50000	749	378.25	378	18.0607141038054	1.98148148148148	20.5279812231723
+Perivascular_macrophages-expression.csv.gz	binomial	Reactome	1e+05	1294	673.53	673.5	23.1217484746559	1.92130660727543	26.8349082977054
+Perivascular_macrophages-expression.csv.gz	binomial	STRING	20000	96	36.51	36	5.36824746151673	2.66666666666667	11.0818289258208
+Perivascular_macrophages-expression.csv.gz	binomial	STRING	50000	192	76.07	76.5	8.61904749946186	2.50980392156863	13.4504421755697
+Perivascular_macrophages-expression.csv.gz	binomial	STRING	1e+05	347	137.93	139	11.3389068291793	2.49640287769784	18.4382853787972
+Perivascular_macrophages-expression.csv.gz	binomial	OmniPath	20000	43	10.01	10	2.83732339369414	4.3	11.6271553934667
+Perivascular_macrophages-expression.csv.gz	binomial	OmniPath	50000	113	22.92	22.5	4.53645169040671	5.02222222222222	19.8569291921466
+Perivascular_macrophages-expression.csv.gz	binomial	OmniPath	1e+05	187	42.8	42.5	6.09023062707063	4.4	23.6772642663221

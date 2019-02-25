@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	HIPPIE	20000	433	100.76	101	10.4079612108067	4.28712871287129	31.9217177380554
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	HIPPIE	50000	610	192.28	192	15.731381491667	3.17708333333333	26.5532941414756
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	HIPPIE	1e+05	843	325.37	326.5	19.6867668213647	2.58192955589587	26.2932966442336
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	Reactome	20000	615	82.3	83	9.22173541370625	7.40963855421687	57.7656998495369
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	Reactome	50000	812	167.97	168	12.9984109362909	4.83333333333333	49.5468256201919
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	Reactome	1e+05	1096	299.58	300.5	16.4114889542957	3.64725457570715	48.5281988866426
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	STRING	20000	245	37.38	37	5.75208350482368	6.62162162162162	36.0947472034943
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	STRING	50000	369	72	71	8.45785750266304	5.19718309859155	35.1152759320533
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	STRING	1e+05	519	120.85	120	10.0778535072272	4.325	39.5074208723586
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	OmniPath	20000	420	25.76	25	4.48368535285811	16.8	87.9276686417554
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	OmniPath	50000	477	37.53	37	5.5839868455172	12.8918918918919	78.7018329659578
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	canberra	OmniPath	1e+05	506	56.97	56	7.11869781532118	9.03571428571429	63.0775475584281

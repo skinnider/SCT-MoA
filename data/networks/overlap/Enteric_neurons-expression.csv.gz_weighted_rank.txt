@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_neurons-expression.csv.gz	weighted_rank	HIPPIE	20000	597	119.71	119	10.4459116742901	5.01680672268908	45.6915599980349
+Enteric_neurons-expression.csv.gz	weighted_rank	HIPPIE	50000	803	258.54	257.5	16.3542969981296	3.11844660194175	33.2915563452388
+Enteric_neurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	1087	483.88	482	20.4693809275111	2.2551867219917	29.4644963683
+Enteric_neurons-expression.csv.gz	weighted_rank	Reactome	20000	885	64.13	64	7.0189570148105	13.828125	116.950424153889
+Enteric_neurons-expression.csv.gz	weighted_rank	Reactome	50000	1160	178.37	178	11.9904465338372	6.51685393258427	81.8676766732439
+Enteric_neurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1557	393.15	393.5	15.3414833412911	3.95679796696315	75.8629380294367
+Enteric_neurons-expression.csv.gz	weighted_rank	STRING	20000	464	38.34	38	5.95983187343368	12.2105263157895	71.4214778268169
+Enteric_neurons-expression.csv.gz	weighted_rank	STRING	50000	605	86.41	86.5	8.41606808552557	6.99421965317919	61.6190357219068
+Enteric_neurons-expression.csv.gz	weighted_rank	STRING	1e+05	811	167.13	165.5	11.7263882682684	4.90030211480363	54.9077845002211
+Enteric_neurons-expression.csv.gz	weighted_rank	OmniPath	20000	502	29.54	29	4.92041716224398	17.3103448275862	96.0203138110617
+Enteric_neurons-expression.csv.gz	weighted_rank	OmniPath	50000	531	57.22	57	6.82180105961539	9.31578947368421	69.4508672797197
+Enteric_neurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	571	98.67	99	9.20699668071993	5.76767676767677	51.3012023767849

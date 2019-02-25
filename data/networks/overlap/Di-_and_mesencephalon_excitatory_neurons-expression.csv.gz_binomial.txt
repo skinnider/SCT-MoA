@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	HIPPIE	20000	21	16.52	16	4.09108417133768	1.3125	1.09506424516686
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	HIPPIE	50000	99	66.12	64.5	7.88590354667585	1.53488372093023	4.16946514820866
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	233	168.85	169	13.0580483328339	1.37869822485207	4.91267901334823
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	Reactome	20000	91	38.32	38	6.41475571702391	2.39473684210526	8.21231584239355
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	Reactome	50000	286	129.39	128	12.6641903480529	2.234375	12.3663649784037
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	Reactome	1e+05	634	300.7	300	17.4925669639964	2.11333333333333	19.0538072934639
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	STRING	20000	44	14.21	14	3.579670432322	3.14285714285714	8.32199515659778
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	STRING	50000	130	51.04	51.5	7.07809253537943	2.52427184466019	11.1555478549232
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	STRING	1e+05	286	117.74	118	11.220129817935	2.42372881355932	14.9962614274786
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	OmniPath	20000	15	6.67	7	2.74893918933589	2.14285714285714	3.03025982979726
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	OmniPath	50000	40	22	22	4.50588840330409	1.81818181818182	3.99477270382482
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	binomial	OmniPath	1e+05	96	54.39	55	7.14764212022313	1.74545454545455	5.821500195466

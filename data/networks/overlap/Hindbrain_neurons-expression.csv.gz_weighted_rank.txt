@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Hindbrain_neurons-expression.csv.gz	weighted_rank	HIPPIE	20000	344	111.18	111	9.38877472884992	3.0990990990991	24.7976979663372
+Hindbrain_neurons-expression.csv.gz	weighted_rank	HIPPIE	50000	614	243.83	242.5	15.1771059643973	2.5319587628866	24.3900254019673
+Hindbrain_neurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	907	441.42	440.5	20.7900422939892	2.05902383654938	22.3943748365826
+Hindbrain_neurons-expression.csv.gz	weighted_rank	Reactome	20000	616	120.86	120	9.9757483707016	5.13333333333333	49.6343714376565
+Hindbrain_neurons-expression.csv.gz	weighted_rank	Reactome	50000	1089	275.84	277	14.9197990616631	3.93140794223827	54.5020745010862
+Hindbrain_neurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1623	500.48	499.5	20.3129455662087	3.24924924924925	55.2613108887247
+Hindbrain_neurons-expression.csv.gz	weighted_rank	STRING	20000	289	43.28	44	6.10361707630331	6.56818181818182	40.2580956387293
+Hindbrain_neurons-expression.csv.gz	weighted_rank	STRING	50000	519	104.19	104	8.68959089364913	4.99038461538461	47.7364245425142
+Hindbrain_neurons-expression.csv.gz	weighted_rank	STRING	1e+05	783	194.83	194.5	12.7390713709414	4.02570694087404	46.1705553625872
+Hindbrain_neurons-expression.csv.gz	weighted_rank	OmniPath	20000	303	25.8	25	4.16333199893227	12.12	66.5812863521552
+Hindbrain_neurons-expression.csv.gz	weighted_rank	OmniPath	50000	437	58.58	59	6.1120513509927	7.40677966101695	61.9137468369827
+Hindbrain_neurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	528	102.09	102	9.06329594205846	5.17647058823529	46.9928382260535

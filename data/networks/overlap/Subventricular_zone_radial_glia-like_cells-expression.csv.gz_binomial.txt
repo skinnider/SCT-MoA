@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	HIPPIE	20000	164	65.88	66	8.58619987438147	2.48484848484848	11.427639868105
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	HIPPIE	50000	355	161.57	159	14.0153271078271	2.23270440251572	13.801318978276
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	HIPPIE	1e+05	656	315.26	313	18.958018478904	2.09584664536741	17.9733973980017
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	Reactome	20000	190	73.68	73	7.70789966020038	2.6027397260274	15.0910111869536
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	Reactome	50000	480	175.54	176	12.0675037379172	2.72727272727273	25.2297415117725
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	Reactome	1e+05	899	350.52	353	17.038565880752	2.54674220963173	32.190502641986
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	STRING	20000	87	19.14	19	4.31820202015476	4.57894736842105	15.7148738487154
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	STRING	50000	161	47.61	48	5.49360509772016	3.35416666666667	20.6403623819005
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	STRING	1e+05	302	92.93	92	7.98768623026289	3.28260869565217	26.1740376340646
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	OmniPath	20000	88	9.5	10	2.81590002118203	8.8	27.877410209702
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	OmniPath	50000	178	23.74	24	4.53631809049826	7.41666666666667	34.0055518423877
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	binomial	OmniPath	1e+05	292	46.68	46.5	6.93094364412089	6.27956989247312	35.3948917487001

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	HIPPIE	20000	437	104.37	103	10.6302930962947	4.24271844660194	31.2907647029921
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	HIPPIE	50000	665	217.74	219	15.2253244645395	3.0365296803653	29.3760570450692
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	HIPPIE	1e+05	924	382.46	379.5	20.6047067291418	2.43478260869565	26.2823444720078
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	Reactome	20000	645	91.02	91	10.1094814981589	7.08791208791209	54.7980626010237
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	Reactome	50000	903	198.64	198.5	15.1380983020332	4.54911838790932	46.5289619572227
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	Reactome	1e+05	1202	361.95	362	18.108190568264	3.32044198895028	46.390609643365
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	STRING	20000	235	34.79	34	6.11389376499927	6.91176470588235	32.746725359567
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	STRING	50000	381	77.3	77	8.2443736553905	4.94805194805195	36.8372435183634
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	STRING	1e+05	523	133.84	135	11.2678321075547	3.87407407407407	34.537255816856
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	OmniPath	20000	427	27.17	26	4.76954776248083	16.4230769230769	83.8297507250526
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	OmniPath	50000	481	47.82	48	6.18793221120796	10.0208333333333	70.0039989474025
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	cosine	OmniPath	1e+05	505	77.89	76	8.43141671836874	6.64473684210526	50.6569671819797

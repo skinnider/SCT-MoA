@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	HIPPIE	20000	257	93.13	92	8.00713696799564	2.79347826086957	20.4654923045509
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	HIPPIE	50000	444	218.22	219.5	13.1660567561077	2.02277904328018	17.1486424661857
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	746	414.16	414	18.6215472021532	1.80193236714976	17.8202163546125
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	Reactome	20000	394	107.36	107	9.0671122885142	3.68224299065421	31.6131521127297
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	Reactome	50000	700	261.89	261	14.3075137426091	2.68199233716475	30.6209735584783
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	Reactome	1e+05	1094	494.32	494.5	18.43135229642	2.21233569261881	32.5358655380093
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	STRING	20000	135	22.22	23	4.37065512968322	5.8695652173913	25.8039119202192
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	STRING	50000	224	57.17	57	6.66674999947917	3.92982456140351	25.024187199615
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	STRING	1e+05	358	117.98	119.5	10.6543299871342	2.99581589958159	22.5279299861971
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	OmniPath	20000	200	22.24	22	4.76544803239894	9.09090909090909	37.3018441899817
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	OmniPath	50000	278	46.87	47	6.09960257026239	5.91489361702128	37.8926327309973
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	canberra	OmniPath	1e+05	358	79.01	79	7.98166459436687	4.53164556962025	34.9538616539838

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	HIPPIE	20000	356	98.54	99	9.59842158741201	3.5959595959596	26.823160209763
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	HIPPIE	50000	626	252.66	252	13.668676866205	2.48412698412698	27.3135434873775
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	HIPPIE	1e+05	912	451.53	451	19.3481943928271	2.02217294900222	23.7991199928562
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	Reactome	20000	469	61.98	62	7.88423820804598	7.56451612903226	51.6245183440335
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	Reactome	50000	881	168.68	168	12.8573211467516	5.24404761904762	55.4018984102271
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	Reactome	1e+05	1306	361.84	360.5	16.7438938063397	3.62274618585298	56.3883174917484
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	STRING	20000	206	35.4	35	5.82054876096643	5.88571428571429	29.3099511757503
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	STRING	50000	393	73.38	73.5	8.52184359055118	5.3469387755102	37.5059688204542
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	STRING	1e+05	595	138.3	136.5	11.4181319563989	4.35897435897436	39.9977861303362
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	OmniPath	20000	315	22.96	23	4.38067381007797	13.695652173913	66.6655433984029
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	OmniPath	50000	470	48.8	48	6.12825877028341	9.79166666666667	68.7307791313324
+Spinal_cord_inhibitory_neurons-expression.csv.gz	dice	OmniPath	1e+05	522	81.15	80	8.38995912632559	6.525	52.5449520506867

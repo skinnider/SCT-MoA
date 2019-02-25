@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	HIPPIE	20000	378	104.42	104	9.05447040656903	3.63461538461538	30.2149090687311
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	HIPPIE	50000	623	247.05	246	14.7944672978199	2.53252032520325	25.4115266492494
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	HIPPIE	1e+05	904	438.05	437	19.4153823219392	2.06864988558352	23.9990123436034
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	Reactome	20000	485	72.71	72	8.3270218523367	6.73611111111111	49.5122995124967
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	Reactome	50000	812	177.49	177.5	11.863274114985	4.57464788732394	53.4852346704629
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	Reactome	1e+05	1278	359.07	358	16.9278057071968	3.56983240223464	54.2852402665112
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	STRING	20000	232	35.8	36	4.98279869433663	6.44444444444444	39.3754618710561
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	STRING	50000	384	79.58	79	8.26845044293504	4.86075949367089	36.817055638292
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	STRING	1e+05	578	151.97	152	12.8255230070372	3.80263157894737	33.2173588372375
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	OmniPath	20000	344	23.84	24	4.14563175237052	14.3333333333333	77.2282776483775
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	OmniPath	50000	424	47.46	47.5	6.61406520876976	8.92631578947368	56.9301916619654
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	jaccard	OmniPath	1e+05	511	78.8	78	8.48766187123427	6.55128205128205	50.9209728847445

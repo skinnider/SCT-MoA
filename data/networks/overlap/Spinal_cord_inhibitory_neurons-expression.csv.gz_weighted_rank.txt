@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	HIPPIE	20000	377	110.21	109	9.82708584279267	3.45871559633028	27.1484348735661
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	HIPPIE	50000	628	254.81	257	16.0602998827305	2.44357976653697	23.2368014747526
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	969	468.8	468.5	19.381340604725	2.06830309498399	25.8083282370083
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	Reactome	20000	573	85.59	85	8.60478490331532	6.74117647058824	56.64406553756
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	Reactome	50000	985	220.03	220	13.7079605273061	4.47727272727273	55.8048003184857
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1499	442.22	440	20.3348633304152	3.40681818181818	51.9688764477386
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	STRING	20000	256	26.96	27	4.57246921777225	9.48148148148148	50.0910971931246
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	STRING	50000	426	72.12	73	7.48639169467245	5.83561643835616	47.2697681917755
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	STRING	1e+05	620	137.4	136	13.114877048604	4.55882352941176	36.7979050212575
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	OmniPath	20000	312	22.01	22	4.55381957561701	14.1818181818182	63.6806081542456
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	OmniPath	50000	409	45.35	45	6.16666666666667	9.08888888888889	58.9702702702703
+Spinal_cord_inhibitory_neurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	498	80.65	79.5	8.15676579796357	6.26415094339623	51.1661129346384

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	HIPPIE	20000	88	63.01	62.5	7.78303646179668	1.408	3.21082910540948
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	HIPPIE	50000	172	134.18	135	11.8486925502992	1.27407407407407	3.19191335579427
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	HIPPIE	1e+05	315	251.15	250	16.390053031758	1.26	3.89565548545096
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	Reactome	20000	99	51.08	50	6.34477435502332	1.98	7.55267206028541
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	Reactome	50000	233	122.99	122.5	10.8641705629193	1.90204081632653	10.1259455899447
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	Reactome	1e+05	475	252.09	250	15.7448692941831	1.9	14.1576278491149
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	STRING	20000	26	12.29	12	3.3703849853533	2.16666666666667	4.06778455861263
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	STRING	50000	59	28.33	29	5.06534073559487	2.03448275862069	6.05487401557758
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	STRING	1e+05	121	61.85	62	7.11006542185304	1.95161290322581	8.31919208762838
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	OmniPath	20000	15	6.92	7	2.26827037741326	2.14285714285714	3.56218556679052
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	OmniPath	50000	27	15.19	15	3.54108640522833	1.8	3.33513465883318
+Telencephalon_inhibitory_interneurons-expression.csv.gz	manhattan	OmniPath	1e+05	63	32.34	32	5.23434655314146	1.96875	5.85746466893734

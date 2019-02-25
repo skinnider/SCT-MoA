@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	HIPPIE	20000	205	40.45	40	6.02247474218049	5.125	27.322655061966
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	HIPPIE	50000	443	121.34	122	9.53379952240099	3.63114754098361	33.7389095757903
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	HIPPIE	1e+05	706	262.64	263	14.6435906619499	2.68441064638783	30.2767272204645
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	Reactome	20000	366	37.93	38	5.75818258365143	9.63157894736842	56.9745740490155
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	Reactome	50000	727	109.71	110	10.4931868227422	6.60909090909091	58.8276955731057
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	Reactome	1e+05	1099	240.79	240.5	14.4971575061312	4.56964656964657	59.1985014743092
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	STRING	20000	191	21.57	22	4.59304480775668	8.68181818181818	36.8883838698609
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	STRING	50000	354	56.05	55.5	7.39693493716461	6.37837837837838	40.2801974778772
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	STRING	1e+05	572	114.57	113.5	10.2870468713491	5.03964757709251	44.4666001546088
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	OmniPath	20000	188	12.89	13	3.12983363549224	14.4615384615385	55.9486606617862
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	OmniPath	50000	361	32.49	33	5.16103309679977	10.9393939393939	63.6519847554748
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	pearson	OmniPath	1e+05	477	65.52	65	7.52165896164892	7.33846153846154	54.7060165979387

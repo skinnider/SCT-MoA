@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peptidergic_neurons-expression.csv.gz	euclidean	HIPPIE	20000	52	37.42	37	5.57262428431537	1.40540540540541	2.6163615661362
+Peptidergic_neurons-expression.csv.gz	euclidean	HIPPIE	50000	145	88.68	89	9.3440198560741	1.62921348314607	6.02738445203421
+Peptidergic_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	259	175.75	176	13.3002430296016	1.47159090909091	6.25928412095294
+Peptidergic_neurons-expression.csv.gz	euclidean	Reactome	20000	98	35.64	36	6.02774728847663	2.72222222222222	10.3454901168825
+Peptidergic_neurons-expression.csv.gz	euclidean	Reactome	50000	203	87.7	88	10.0085821758987	2.30681818181818	11.5201132361834
+Peptidergic_neurons-expression.csv.gz	euclidean	Reactome	1e+05	392	184.86	185.5	13.280212362912	2.11320754716981	15.5976421415132
+Peptidergic_neurons-expression.csv.gz	euclidean	STRING	20000	32	17.3	17	3.42745893446949	1.88235294117647	4.28889164861002
+Peptidergic_neurons-expression.csv.gz	euclidean	STRING	50000	74	42.48	42	5.73044324620529	1.76190476190476	5.5004471112898
+Peptidergic_neurons-expression.csv.gz	euclidean	STRING	1e+05	138	75.43	75	7.07000350034917	1.84	8.85006633969981
+Peptidergic_neurons-expression.csv.gz	euclidean	OmniPath	20000	6	1.51	1	1.22676383014397	6	3.66003617784613
+Peptidergic_neurons-expression.csv.gz	euclidean	OmniPath	50000	19	4.96	5	2.24697327284703	3.8	6.24840543039064
+Peptidergic_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	35	13.58	14	3.38499362158658	2.5	6.32792920595231

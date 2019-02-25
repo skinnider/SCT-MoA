@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Schwann_cells-expression.csv.gz	manhattan	HIPPIE	20000	24	29.19	29.5	5.27371028802495	0.813559322033898	-0.984126870181885
+Schwann_cells-expression.csv.gz	manhattan	HIPPIE	50000	79	78.48	78.5	8.2247225245634	1.00636942675159	0.0632240173996143
+Schwann_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	187	162.05	162	13.4114190754059	1.15432098765432	1.86035496018119
+Schwann_cells-expression.csv.gz	manhattan	Reactome	20000	81	46.8	47	6.54587540734506	1.72340425531915	5.2246640627508
+Schwann_cells-expression.csv.gz	manhattan	Reactome	50000	207	121.73	120	10.7147165858529	1.725	7.95821329633539
+Schwann_cells-expression.csv.gz	manhattan	Reactome	1e+05	429	264.61	266	13.8344431829336	1.61278195488722	11.8826611108421
+Schwann_cells-expression.csv.gz	manhattan	STRING	20000	15	11.14	11	3.19412339185953	1.36363636363636	1.20846928138014
+Schwann_cells-expression.csv.gz	manhattan	STRING	50000	36	30.2	29	5.21071157823144	1.24137931034483	1.11309173668917
+Schwann_cells-expression.csv.gz	manhattan	STRING	1e+05	88	64.77	63.5	7.80553416726643	1.38582677165354	2.97609356415582
+Schwann_cells-expression.csv.gz	manhattan	OmniPath	20000	1	2.25	2	1.31329641541713	0.5	-0.951803405024126
+Schwann_cells-expression.csv.gz	manhattan	OmniPath	50000	6	6.23	6	2.7	1	-0.0851851851851853
+Schwann_cells-expression.csv.gz	manhattan	OmniPath	1e+05	18	13.48	14	3.54047306089871	1.28571428571429	1.27666555351579

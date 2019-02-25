@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	HIPPIE	20000	378	108.71	107.5	9.84351809491142	3.51627906976744	27.357088939493
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	HIPPIE	50000	635	257.12	255.5	15.1305964685781	2.4853228962818	24.9745607045133
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	955	474.14	475	19.5644596349626	2.01052631578947	24.5782407984671
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	Reactome	20000	606	84.61	84.5	7.84688704924675	7.17159763313609	66.445457507898
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	Reactome	50000	1023	220.37	221.5	13.2776526768123	4.61851015801354	60.4496908856254
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	Reactome	1e+05	1506	444.83	446	19.7120969883158	3.37668161434978	53.8334404822076
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	STRING	20000	257	29.19	29	4.78147730858625	8.86206896551724	47.6442708597433
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	STRING	50000	448	76.59	76	7.69769085144658	5.89473684210526	48.2495344600911
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	STRING	1e+05	651	143.9	143	12.3153021346074	4.55244755244755	41.1764156865457
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	OmniPath	20000	306	20.73	21	4.17993040394433	14.5714285714286	68.2475477895061
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	OmniPath	50000	410	43.86	43	6.1546073732767	9.53488372093023	59.4903911482282
+Spinal_cord_inhibitory_neurons-expression.csv.gz	spearman	OmniPath	1e+05	502	78	78	8.66316945756604	6.43589743589744	48.9428265344269

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Hindbrain_neurons-expression.csv.gz	zi_kendall	HIPPIE	20000	383	121.48	120	9.70627205325078	3.19166666666667	26.9434030454991
+Hindbrain_neurons-expression.csv.gz	zi_kendall	HIPPIE	50000	659	258.71	258.5	13.6761201598356	2.54932301740812	29.2692660872915
+Hindbrain_neurons-expression.csv.gz	zi_kendall	HIPPIE	1e+05	920	455.56	456	17.5604698402435	2.01754385964912	26.4480395015194
+Hindbrain_neurons-expression.csv.gz	zi_kendall	Reactome	20000	697	113.54	113	10.1029248690214	6.16814159292035	57.7515924907117
+Hindbrain_neurons-expression.csv.gz	zi_kendall	Reactome	50000	1130	270.08	267.5	15.1861712745444	4.22429906542056	56.6252009445875
+Hindbrain_neurons-expression.csv.gz	zi_kendall	Reactome	1e+05	1613	522.72	524.5	19.0226234263364	3.07530981887512	57.3149126471448
+Hindbrain_neurons-expression.csv.gz	zi_kendall	STRING	20000	316	43	43	5.88612475627765	7.34883720930233	46.3802605795674
+Hindbrain_neurons-expression.csv.gz	zi_kendall	STRING	50000	531	101.39	102	9.79166312056673	5.20588235294118	43.8750797193618
+Hindbrain_neurons-expression.csv.gz	zi_kendall	STRING	1e+05	725	192.25	193	12.8467069238727	3.75647668393782	41.4697714485885
+Hindbrain_neurons-expression.csv.gz	zi_kendall	OmniPath	20000	339	27.37	27	4.33369462363341	12.5555555555556	71.9086200260984
+Hindbrain_neurons-expression.csv.gz	zi_kendall	OmniPath	50000	464	61.83	62	6.51502536875763	7.48387096774194	61.7296138137204
+Hindbrain_neurons-expression.csv.gz	zi_kendall	OmniPath	1e+05	535	112.36	114	9.26764764809781	4.69298245614035	45.6038054151473

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	HIPPIE	20000	538	105.23	105	8.81556818499196	5.12380952380952	49.0915606253002
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	HIPPIE	50000	766	234.11	234.5	13.3180935633302	3.26652452025586	39.9373977567253
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	HIPPIE	1e+05	1041	429.94	431	18.3131128159606	2.415313225058	33.3673475471323
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	Reactome	20000	791	54	54	7.6435752383451	14.6481481481481	96.4208471845391
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	Reactome	50000	1128	161.9	161.5	13.2226466276001	6.98452012383901	73.0640413533722
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	Reactome	1e+05	1532	368.07	366	18.0690342852074	4.18579234972678	64.4157281251537
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	STRING	20000	387	37.77	38	5.65123567429856	10.1842105263158	61.7971042312524
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	STRING	50000	576	85.7	86	8.75306584095891	6.69767441860465	56.0146591958329
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	STRING	1e+05	774	158.86	158.5	11.6428501491671	4.88328075709779	52.8341421661265
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	OmniPath	20000	450	24.29	24	4.88513515212685	18.75	87.1439554368639
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	OmniPath	50000	504	47.22	46	6.07624950778094	10.9565217391304	75.1746615103726
+Telencephalon_inhibitory_interneurons-expression.csv.gz	cosine	OmniPath	1e+05	556	80.96	81	8.12642528291425	6.8641975308642	58.4562071835901

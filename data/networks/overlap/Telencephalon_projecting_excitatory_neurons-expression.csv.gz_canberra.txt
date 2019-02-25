@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	HIPPIE	20000	375	120.09	121	10.4631097990352	3.09917355371901	24.3627377420339
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	HIPPIE	50000	585	249.64	249.5	12.7457816353078	2.34468937875751	26.3114502974851
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	860	448.01	450	18.3685584462673	1.91111111111111	22.4290872473839
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	Reactome	20000	467	76.63	76	8.6848934211868	6.14473684210526	44.9481624089586
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	Reactome	50000	820	190.85	190	13.5976639407828	4.31578947368421	46.2689769904536
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	Reactome	1e+05	1282	401.7	400	18.7673152371915	3.205	46.9060165971686
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	STRING	20000	212	34.69	35	5.40238443428062	6.05714285714286	32.82069281758
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	STRING	50000	356	72.55	73	8.81157984665289	4.87671232876712	32.167897804123
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	STRING	1e+05	544	141.37	141	12.794928761826	3.85815602836879	31.4679360467607
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	OmniPath	20000	293	26.48	26	4.21032880982812	11.2692307692308	63.301469324169
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	OmniPath	50000	398	60.5	60.5	7.04028810246119	6.57851239669422	47.9383790958803
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	canberra	OmniPath	1e+05	491	109.27	108.5	9.14292241589254	4.52534562211982	41.7514206766607

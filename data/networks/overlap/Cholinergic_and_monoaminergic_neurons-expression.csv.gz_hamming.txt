@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	HIPPIE	20000	512	152.55	153	10.0728407717049	3.34640522875817	35.6850672165603
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	HIPPIE	50000	727	292.03	294	14.0543353963944	2.47278911564626	30.9491689028278
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	933	492.71	492	20.9150735841475	1.89634146341463	21.0513244540395
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	Reactome	20000	667	113.84	113	9.62186063192572	5.90265486725664	57.4899202098805
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	Reactome	50000	974	268.41	270	14.6384680713095	3.60740740740741	48.2010820095932
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	Reactome	1e+05	1505	543.73	543.5	21.0544532106631	2.76908923643054	45.6563744677617
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	STRING	20000	276	40.06	40	5.7749371416405	6.9	40.8558559536071
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	STRING	50000	399	84.3	84.5	9.04143101215038	4.72189349112426	34.8064371200851
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	STRING	1e+05	577	155.9	156.5	13.5858660959012	3.68690095846645	30.9954475502334
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	OmniPath	20000	433	37.86	38	5.88272595371097	11.3947368421053	67.169540636299
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	OmniPath	50000	496	70.21	70	7.94335374302748	7.08571428571429	53.6033033117466
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	hamming	OmniPath	1e+05	546	109.68	109	10.196929623047	5.00917431192661	42.7893509251876

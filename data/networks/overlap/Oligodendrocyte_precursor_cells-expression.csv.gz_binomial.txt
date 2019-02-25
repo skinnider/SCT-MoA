@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	HIPPIE	20000	130	75.22	76	7.68388054319041	1.71052631578947	7.1292102593327
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	HIPPIE	50000	295	176.88	176.5	11.3478338608447	1.671388101983	10.4090350148295
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	HIPPIE	1e+05	548	339.81	339	15.9498551337584	1.6165191740413	13.0527831290053
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	Reactome	20000	257	111.76	112	9.18509992357517	2.29464285714286	15.8125661352051
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	Reactome	50000	543	265.56	266	13.7225906792229	2.04135338345865	20.2177567257811
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	Reactome	1e+05	997	506.03	507	18.3960113155877	1.96646942800789	26.6889377037934
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	STRING	20000	145	57.64	57.5	6.48933857581149	2.52173913043478	13.4620807620714
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	STRING	50000	249	100.47	100.5	8.720641946531	2.47761194029851	17.0320030234797
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	STRING	1e+05	372	161	160	12.1114354511292	2.325	17.4215517930476
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	OmniPath	20000	55	17.52	17	3.96316371938716	3.23529411764706	9.45709101459873
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	OmniPath	50000	96	33.59	33	5.04343758028813	2.90909090909091	12.3744963641316
+Oligodendrocyte_precursor_cells-expression.csv.gz	binomial	OmniPath	1e+05	156	58.86	59	6.98486097415567	2.64406779661017	13.9072202524034

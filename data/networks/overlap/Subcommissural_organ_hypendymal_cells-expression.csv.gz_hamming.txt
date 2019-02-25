@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	HIPPIE	20000	239	58.34	58.5	7.6583881522752	4.08547008547009	23.5898202608507
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	HIPPIE	50000	315	107.84	107	10.4984077676839	2.94392523364486	19.7325160714064
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	HIPPIE	1e+05	468	195.93	198	12.8811623479538	2.36363636363636	21.1215411040307
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	Reactome	20000	349	58.37	58	6.64945505475844	6.01724137931035	43.7073410688025
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	Reactome	50000	491	125.24	126	10.2238777754664	3.8968253968254	35.7750755665027
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	Reactome	1e+05	685	225.17	226	13.8586333082204	3.03097345132743	33.180039457949
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	STRING	20000	123	20.91	21	4.67768180520085	5.85714285714286	21.8249133334576
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	STRING	50000	164	39.88	40	6.1171723843454	4.1	20.290420508279
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	STRING	1e+05	227	75.43	76	8.20230935699689	2.98684210526316	18.4789421372781
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	OmniPath	20000	252	15.24	15	3.93923542804638	16.8	60.1030337801918
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	OmniPath	50000	292	21.51	21	4.58917258887755	13.9047619047619	58.940908140079
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	hamming	OmniPath	1e+05	323	33.83	33.5	5.53784956258093	9.64179104477612	52.2170197532834

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	dice	HIPPIE	20000	476	105.88	106	9.68001168711207	4.49056603773585	38.2354910266045
+Vascular_endothelial_cells-expression.csv.gz	dice	HIPPIE	50000	725	273.42	273	14.7307004366233	2.65567765567766	30.6557045228675
+Vascular_endothelial_cells-expression.csv.gz	dice	HIPPIE	1e+05	1060	530.71	530.5	20.2071569479527	1.99811498586239	26.1931948845296
+Vascular_endothelial_cells-expression.csv.gz	dice	Reactome	20000	668	95.18	94.5	9.9395953416402	7.06878306878307	57.6301127270514
+Vascular_endothelial_cells-expression.csv.gz	dice	Reactome	50000	951	265.29	265	17.2382561399776	3.58867924528302	39.7783856111615
+Vascular_endothelial_cells-expression.csv.gz	dice	Reactome	1e+05	1358	503.71	505	22.3879003215594	2.68910891089109	38.1585583163117
+Vascular_endothelial_cells-expression.csv.gz	dice	STRING	20000	282	37.67	37	5.36553724234488	7.62162162162162	45.536912514882
+Vascular_endothelial_cells-expression.csv.gz	dice	STRING	50000	435	105.71	105	9.46369458253568	4.14285714285714	34.7950789333029
+Vascular_endothelial_cells-expression.csv.gz	dice	STRING	1e+05	584	191.66	193	12.4610261101232	3.0259067357513	31.4853685830309
+Vascular_endothelial_cells-expression.csv.gz	dice	OmniPath	20000	477	32.87	33	4.67457122756902	14.4545454545455	95.0097834386763
+Vascular_endothelial_cells-expression.csv.gz	dice	OmniPath	50000	494	73.2	73.5	7.46304024489817	6.72108843537415	56.3845277784298
+Vascular_endothelial_cells-expression.csv.gz	dice	OmniPath	1e+05	568	122.64	122	10.118010743923	4.65573770491803	44.0165573324271

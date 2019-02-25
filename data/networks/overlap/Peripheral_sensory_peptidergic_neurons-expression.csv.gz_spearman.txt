@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	HIPPIE	20000	452	132.25	132	10.1198624576432	3.42424242424242	31.5962792318885
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	HIPPIE	50000	705	278.46	278	15.6691938645112	2.53597122302158	27.2215663223148
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	1003	477.59	477.5	18.7600989637932	2.10052356020942	28.0067818945965
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	Reactome	20000	665	119.94	120	9.69413026610235	5.54166666666667	56.2257763242487
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	Reactome	50000	1057	290.38	291	14.4514373127395	3.63230240549828	53.0480106171995
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	Reactome	1e+05	1556	561.73	560	20.5808850218553	2.77857142857143	48.3103617237141
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	STRING	20000	280	48.9	49	6.46904048901264	5.71428571428571	35.7239996244439
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	STRING	50000	438	98.12	98	9.39296964691565	4.46938775510204	36.1845095615321
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	STRING	1e+05	601	166.34	166	12.0757039655097	3.62048192771084	35.9945889069047
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	OmniPath	20000	423	41.04	40	6.35787906951888	10.575	60.0766381089573
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	OmniPath	50000	492	72.08	71	8.15838169732159	6.92957746478873	51.470992113284
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	spearman	OmniPath	1e+05	569	111.22	111	9.93471619416407	5.12612612612613	46.0788200742878

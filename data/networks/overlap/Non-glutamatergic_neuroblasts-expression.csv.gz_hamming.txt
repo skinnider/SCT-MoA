@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	HIPPIE	20000	424	87.72	88	8.09673833819346	4.81818181818182	41.5327735631174
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	HIPPIE	50000	545	174.32	174	11.4582068863546	3.13218390804598	32.3506115465096
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	HIPPIE	1e+05	710	308.88	309	14.6895688957653	2.29773462783172	27.3064514586017
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	Reactome	20000	643	62.72	63	7.90739329279053	10.2063492063492	73.3844869622285
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	Reactome	50000	782	132.12	133	10.947330286606	5.8796992481203	59.36424525303
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	Reactome	1e+05	978	237.37	238	13.7918545716395	4.10924369747899	53.700537237608
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	STRING	20000	266	37.2	37	5.19712430196748	7.18918918918919	44.0243462934652
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	STRING	50000	350	81.97	82	7.83472585946243	4.26829268292683	34.2105141657618
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	STRING	1e+05	444	141.76	142	10.4515428274847	3.12676056338028	28.918218581585
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	OmniPath	20000	458	24.02	24	4.22828379350107	19.0833333333333	102.637386985952
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	OmniPath	50000	472	32.96	33	5.07901207287044	14.3030303030303	86.4420075599217
+Non-glutamatergic_neuroblasts-expression.csv.gz	hamming	OmniPath	1e+05	490	50.26	51	5.69000541442287	9.6078431372549	77.2828790084028

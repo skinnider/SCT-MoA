@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	HIPPIE	20000	357	97.48	97	9.40608013118873	3.68041237113402	27.5906643767027
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	HIPPIE	50000	672	255.5	253.5	14.241424852106	2.6508875739645	29.2456691886703
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	HIPPIE	1e+05	961	449.52	447.5	19.2948833956706	2.14748603351955	26.5085820686932
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	Reactome	20000	487	74.87	75	8.87358467872511	6.49333333333333	46.4445897482788
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	Reactome	50000	893	188.81	189	13.3769702598658	4.72486772486772	52.6419649831132
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	Reactome	1e+05	1397	370.79	369	17.5241795439007	3.78590785907859	58.5596602356868
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	STRING	20000	251	39.46	39	5.53669120458686	6.43589743589744	38.206934825036
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	STRING	50000	420	89.73	91	9.26583275079237	4.61538461538461	35.6438551053878
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	STRING	1e+05	647	153.93	154.5	11.8400578417916	4.18770226537217	41.6442222317211
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	OmniPath	20000	309	20.87	21	3.92519702908933	14.7142857142857	73.4052323653286
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	OmniPath	50000	460	49.65	50	6.30275713277511	9.2	65.1064274500012
+Telencephalon_inhibitory_interneurons-expression.csv.gz	hamming	OmniPath	1e+05	544	80.75	80	8.97175703206592	6.8	51.6342560709458

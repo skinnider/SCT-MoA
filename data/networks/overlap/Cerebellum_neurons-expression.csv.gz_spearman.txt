@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	spearman	HIPPIE	20000	171	39.11	39	5.58839887805103	4.38461538461539	23.6006775604387
+Cerebellum_neurons-expression.csv.gz	spearman	HIPPIE	50000	437	130.14	130	10.3093759424726	3.36153846153846	29.7651382307049
+Cerebellum_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	750	274.33	272	14.3661041864157	2.75735294117647	33.1105770797476
+Cerebellum_neurons-expression.csv.gz	spearman	Reactome	20000	319	34.61	34	4.55692391373343	9.38235294117647	62.4083274998119
+Cerebellum_neurons-expression.csv.gz	spearman	Reactome	50000	749	105	105	9.24197713772012	7.13333333333333	69.6820594125454
+Cerebellum_neurons-expression.csv.gz	spearman	Reactome	1e+05	1142	231.66	233.5	13.1319796256653	4.89079229122056	69.3223737737774
+Cerebellum_neurons-expression.csv.gz	spearman	STRING	20000	203	38.14	38	6.23936671223105	5.34210526315789	26.4225533781857
+Cerebellum_neurons-expression.csv.gz	spearman	STRING	50000	438	97.72	98.5	9.38414738919963	4.44670050761421	36.2611525466484
+Cerebellum_neurons-expression.csv.gz	spearman	STRING	1e+05	647	174.71	176.5	11.7561889997558	3.6657223796034	40.1737331723579
+Cerebellum_neurons-expression.csv.gz	spearman	OmniPath	20000	163	9.34	9	2.49937365891311	18.1111111111111	61.4794028303962
+Cerebellum_neurons-expression.csv.gz	spearman	OmniPath	50000	366	27.39	27	4.45605931810436	13.5555555555556	75.9886652819621
+Cerebellum_neurons-expression.csv.gz	spearman	OmniPath	1e+05	486	54.2	53.5	6.2619582569769	9.08411214953271	68.9560649049202

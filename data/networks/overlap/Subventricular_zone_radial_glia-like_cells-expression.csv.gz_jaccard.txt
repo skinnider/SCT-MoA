@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	HIPPIE	20000	401	79.12	78.5	8.16407503714421	5.10828025477707	39.4263892156231
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	HIPPIE	50000	627	180.71	180.5	12.7748925157075	3.47368421052632	34.9349318948289
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	HIPPIE	1e+05	910	342.72	342.5	18.3980016481808	2.65693430656934	30.8337835188797
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	Reactome	20000	605	77.09	78	8.32799222774941	7.75641025641026	63.3898286121077
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	Reactome	50000	844	188.73	188	13.5302541653059	4.48936170212766	48.4299845364498
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	Reactome	1e+05	1196	360	358	18.8229389390454	3.34078212290503	44.413893213341
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	STRING	20000	229	25.37	25	4.76022026482987	9.16	42.7774322765036
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	STRING	50000	338	59.36	59	7.12446347439439	5.72881355932203	39.110313499598
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	STRING	1e+05	515	114.57	114.5	9.92421281513048	4.49781659388646	40.3487921368941
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	OmniPath	20000	428	22.09	22	4.42466685386332	19.4545454545455	91.7379801477226
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	OmniPath	50000	482	41.88	42	6.41223577832005	11.4761904761905	68.6375260073964
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	jaccard	OmniPath	1e+05	513	63.27	63	7.50603124497261	8.14285714285714	59.9158177367327

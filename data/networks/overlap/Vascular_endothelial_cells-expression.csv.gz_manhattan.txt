@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	manhattan	HIPPIE	20000	67	46.5	46	6.80834306961212	1.45652173913043	3.01101160596596
+Vascular_endothelial_cells-expression.csv.gz	manhattan	HIPPIE	50000	165	123.44	123	11.73384985089	1.34146341463415	3.54188953567082
+Vascular_endothelial_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	340	257.1	256.5	16.1673695567287	1.32553606237817	5.1276121145816
+Vascular_endothelial_cells-expression.csv.gz	manhattan	Reactome	20000	145	71.23	71	7.61160066257188	2.04225352112676	9.69178537738394
+Vascular_endothelial_cells-expression.csv.gz	manhattan	Reactome	50000	294	167.77	166	10.3258575107994	1.7710843373494	12.2246505791873
+Vascular_endothelial_cells-expression.csv.gz	manhattan	Reactome	1e+05	593	341.87	342	15.9764062152774	1.73391812865497	15.7188041300463
+Vascular_endothelial_cells-expression.csv.gz	manhattan	STRING	20000	62	32.1	32	5.4689204518891	1.9375	5.46725816603746
+Vascular_endothelial_cells-expression.csv.gz	manhattan	STRING	50000	112	64.88	65	7.13970262233334	1.72307692307692	6.59971465094447
+Vascular_endothelial_cells-expression.csv.gz	manhattan	STRING	1e+05	181	113.1	113	8.44530830243824	1.60176991150442	8.03996699331825
+Vascular_endothelial_cells-expression.csv.gz	manhattan	OmniPath	20000	21	14.85	14	3.44766060341844	1.5	1.78381827779165
+Vascular_endothelial_cells-expression.csv.gz	manhattan	OmniPath	50000	41	29.7	30	5.10792610468369	1.36666666666667	2.21224813523409
+Vascular_endothelial_cells-expression.csv.gz	manhattan	OmniPath	1e+05	74	52.66	53	6.68213357326154	1.39622641509434	3.19359075451465

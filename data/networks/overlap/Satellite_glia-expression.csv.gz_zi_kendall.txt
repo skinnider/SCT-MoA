@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Satellite_glia-expression.csv.gz	zi_kendall	HIPPIE	20000	382	119.09	120	10.493956894953	3.18333333333333	25.0534667363123
+Satellite_glia-expression.csv.gz	zi_kendall	HIPPIE	50000	571	245.05	245	14.4168637225979	2.33061224489796	22.6089395219215
+Satellite_glia-expression.csv.gz	zi_kendall	HIPPIE	1e+05	844	439.42	439.5	20.4836372243651	1.92036405005688	19.7513749910957
+Satellite_glia-expression.csv.gz	zi_kendall	Reactome	20000	471	137.14	138	11.1255643370654	3.41304347826087	30.0083654082811
+Satellite_glia-expression.csv.gz	zi_kendall	Reactome	50000	773	302.84	303	17.5779476169501	2.55115511551155	26.7471499088228
+Satellite_glia-expression.csv.gz	zi_kendall	Reactome	1e+05	1233	526.41	524.5	22.2406920719294	2.35081029551954	31.7701444592997
+Satellite_glia-expression.csv.gz	zi_kendall	STRING	20000	187	43.91	44	6.5413911349038	4.25	21.8745519185506
+Satellite_glia-expression.csv.gz	zi_kendall	STRING	50000	323	104.53	105	9.43393295021175	3.07619047619048	23.1578919579979
+Satellite_glia-expression.csv.gz	zi_kendall	STRING	1e+05	541	184.09	185	12.4520048282365	2.92432432432432	28.6628542891874
+Satellite_glia-expression.csv.gz	zi_kendall	OmniPath	20000	284	27.59	27	5.4217947753358	10.5185185185185	47.2924576869694
+Satellite_glia-expression.csv.gz	zi_kendall	OmniPath	50000	330	48.24	48	8.03291209759429	6.875	35.0756981499128
+Satellite_glia-expression.csv.gz	zi_kendall	OmniPath	1e+05	442	79.83	80	8.88200427831466	5.525	40.7757065468022

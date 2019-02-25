@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	hamming	HIPPIE	20000	477	107.39	107	9.76790766756219	4.45794392523364	37.8392192657002
+Vascular_endothelial_cells-expression.csv.gz	hamming	HIPPIE	50000	615	204.55	205	13.0503105733391	3	31.4513587775085
+Vascular_endothelial_cells-expression.csv.gz	hamming	HIPPIE	1e+05	809	351.61	351	18.6454939447697	2.3048433048433	24.530859914725
+Vascular_endothelial_cells-expression.csv.gz	hamming	Reactome	20000	681	95.56	95	9.77454951298617	7.16842105263158	59.8943203696705
+Vascular_endothelial_cells-expression.csv.gz	hamming	Reactome	50000	896	230.22	229.5	13.7727442744169	3.9041394335512	48.3404023725827
+Vascular_endothelial_cells-expression.csv.gz	hamming	Reactome	1e+05	1224	427.1	427	17.7431164629606	2.86651053864169	44.9131922040618
+Vascular_endothelial_cells-expression.csv.gz	hamming	STRING	20000	289	38.95	38	5.44833400539499	7.60526315789474	45.8947633813195
+Vascular_endothelial_cells-expression.csv.gz	hamming	STRING	50000	392	92.76	93	9.39279758456694	4.21505376344086	31.8584529588579
+Vascular_endothelial_cells-expression.csv.gz	hamming	STRING	1e+05	503	156.26	157	11.410273591564	3.20382165605096	30.3884036800271
+Vascular_endothelial_cells-expression.csv.gz	hamming	OmniPath	20000	477	33.04	33	4.75866036662089	14.4545454545455	93.2951641420155
+Vascular_endothelial_cells-expression.csv.gz	hamming	OmniPath	50000	504	58.12	58	6.92715342297646	8.68965517241379	64.3669878194229
+Vascular_endothelial_cells-expression.csv.gz	hamming	OmniPath	1e+05	548	91.47	93	8.47629493101648	5.89247311827957	53.8596171694621

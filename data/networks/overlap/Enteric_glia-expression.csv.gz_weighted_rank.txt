@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_glia-expression.csv.gz	weighted_rank	HIPPIE	20000	622	105.07	105	9.59298459997479	5.92380952380952	53.8862535025187
+Enteric_glia-expression.csv.gz	weighted_rank	HIPPIE	50000	839	242.7	245	16.02050453814	3.42448979591837	37.2210499725766
+Enteric_glia-expression.csv.gz	weighted_rank	HIPPIE	1e+05	1134	454.21	457	21.5829595147223	2.48140043763676	31.4966072904088
+Enteric_glia-expression.csv.gz	weighted_rank	Reactome	20000	964	116.13	115	9.95612090295932	8.38260869565217	85.1606773626044
+Enteric_glia-expression.csv.gz	weighted_rank	Reactome	50000	1367	302.85	301	15.8690187968808	4.54152823920266	67.05833634838
+Enteric_glia-expression.csv.gz	weighted_rank	Reactome	1e+05	1957	623.45	622	23.925969577052	3.14630225080386	55.7365082198817
+Enteric_glia-expression.csv.gz	weighted_rank	STRING	20000	557	45.01	44	6.77114346609078	12.6590909090909	75.6135211968253
+Enteric_glia-expression.csv.gz	weighted_rank	STRING	50000	741	100.15	101	9.96090844098554	7.33663366336634	64.3365014141816
+Enteric_glia-expression.csv.gz	weighted_rank	STRING	1e+05	929	180.09	180	13.0144403093509	5.16111111111111	57.5445414630631
+Enteric_glia-expression.csv.gz	weighted_rank	OmniPath	20000	527	28.76	29	5.1876309768058	18.1724137931034	96.0438400934183
+Enteric_glia-expression.csv.gz	weighted_rank	OmniPath	50000	569	51.9	52	6.71271972158871	10.9423076923077	77.0328602186323
+Enteric_glia-expression.csv.gz	weighted_rank	OmniPath	1e+05	623	85.18	86	8.49287282896011	7.24418604651163	63.3260394723056

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_neurons-expression.csv.gz	manhattan	HIPPIE	20000	61	41.98	41	6.21334503835547	1.48780487804878	3.0611530315133
+Enteric_neurons-expression.csv.gz	manhattan	HIPPIE	50000	149	106.59	105	9.39599635348734	1.41904761904762	4.51362456992221
+Enteric_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	317	207.99	208	12.6359236170755	1.52403846153846	8.62699105372005
+Enteric_neurons-expression.csv.gz	manhattan	Reactome	20000	64	37.41	38	5.55976709053627	1.68421052631579	4.78257444367787
+Enteric_neurons-expression.csv.gz	manhattan	Reactome	50000	188	103.87	103.5	8.61951626288045	1.81642512077295	9.76040852342282
+Enteric_neurons-expression.csv.gz	manhattan	Reactome	1e+05	406	225.21	224	13.0502486527648	1.8125	13.8533758865735
+Enteric_neurons-expression.csv.gz	manhattan	STRING	20000	27	12.68	12.5	3.2282840924891	2.16	4.43579300635802
+Enteric_neurons-expression.csv.gz	manhattan	STRING	50000	66	34.36	35	5.16108202577402	1.88571428571429	6.13049741158781
+Enteric_neurons-expression.csv.gz	manhattan	STRING	1e+05	135	65.81	66	7.73382312973475	2.04545454545455	8.94641613072072
+Enteric_neurons-expression.csv.gz	manhattan	OmniPath	20000	9	4.1	4	2.03256319245261	2.25	2.41074915564489
+Enteric_neurons-expression.csv.gz	manhattan	OmniPath	50000	18	12.04	12	3.68978935097188	1.5	1.61526836171018
+Enteric_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	46	25.1	25	4.59578199235039	1.84	4.54764826416652

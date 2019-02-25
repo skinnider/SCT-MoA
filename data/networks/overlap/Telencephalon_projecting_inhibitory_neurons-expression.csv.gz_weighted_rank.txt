@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	HIPPIE	20000	212	45.57	45	5.91736871635126	4.71111111111111	28.1256767961932
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	HIPPIE	50000	429	125.97	124.5	10.1865974533584	3.44578313253012	29.7479115462735
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	683	260.59	260.5	14.477495597923	2.62188099808061	29.1770076628862
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	Reactome	20000	349	36.93	36	5.73885393126924	9.69444444444444	54.3784532133893
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	Reactome	50000	684	110.8	111.5	10.4688088909847	6.13452914798206	54.7531248271824
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1032	240.51	240.5	14.8884708971931	4.29106029106029	53.1612685725314
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	STRING	20000	184	24.74	24	4.74739694756798	7.66666666666667	33.5468050721115
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	STRING	50000	337	61.03	60	7.87459153983189	5.61666666666667	35.0456272689277
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	STRING	1e+05	549	119.35	119	10.6944477239927	4.61344537815126	40.1750526150212
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	OmniPath	20000	201	15.43	16	3.28527476826982	12.5625	56.4853819206513
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	OmniPath	50000	348	37.41	38	5.51599144453303	9.1578947368421	56.3071939329836
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	456	68.93	68	7.49175304160272	6.70588235294118	51.6661451399356

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	HIPPIE	20000	500	143.95	144	10.646168751758	3.47222222222222	33.4439560655287
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	HIPPIE	50000	713	297.25	297	15.7277179244514	2.4006734006734	26.4342228158635
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	982	519.16	522	23.3958988031681	1.88122605363985	19.7829544354725
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	Reactome	20000	782	142.98	143	10.4465740360613	5.46853146853147	61.170293513847
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	Reactome	50000	1181	348.43	351	17.5541039548182	3.36467236467236	47.428795120669
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1737	627.67	627.5	22.4008725479409	2.76812749003984	49.5217316926332
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	STRING	20000	305	44.3	44	5.84392976955705	6.93181818181818	44.6103923695442
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	STRING	50000	462	99.13	98	10.1659512912745	4.71428571428571	35.6946427936807
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	STRING	1e+05	657	178.55	178	12.9399350536206	3.69101123595506	36.9746832590268
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	OmniPath	20000	446	40.41	40	5.78240975945692	11.15	70.1420371215776
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	OmniPath	50000	520	81.99	82	8.49419885224111	6.34146341463415	51.5657812607525
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	601	136.61	136.5	10.5924453734678	4.4029304029304	43.8416233104412

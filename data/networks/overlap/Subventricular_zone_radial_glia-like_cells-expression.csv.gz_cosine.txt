@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	HIPPIE	20000	469	88.48	89	8.65906426465319	5.26966292134831	43.9447021490884
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	HIPPIE	50000	680	205.12	205.5	13.204896551253	3.30900243309002	35.9624172864073
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	HIPPIE	1e+05	941	371.69	371	17.7602979090493	2.53638814016172	32.0552055441549
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	Reactome	20000	697	86.27	86	8.56685532158738	8.1046511627907	71.2898697449738
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	Reactome	50000	941	213.3	212	14.5938273931069	4.43867924528302	49.8635471284054
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	Reactome	1e+05	1269	405.82	404	19.8603101484322	3.14108910891089	43.4625639553842
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	STRING	20000	295	28.24	29	5.32977153792399	10.1724137931034	50.0509258421058
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	STRING	50000	414	63.01	63	7.50823790004262	6.57142857142857	46.747320033374
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	STRING	1e+05	556	118.28	119	10.4891285711358	4.67226890756303	41.7308260673365
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	OmniPath	20000	476	25.56	25	4.67816764612519	19.04	96.2855617996264
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	OmniPath	50000	507	46.45	46.5	6.73656538091282	10.9032258064516	68.3656988329555
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	cosine	OmniPath	1e+05	526	75.13	75	7.81949777508412	7.01333333333333	57.6597133177328

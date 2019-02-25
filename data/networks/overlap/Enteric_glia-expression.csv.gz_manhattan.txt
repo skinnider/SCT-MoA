@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_glia-expression.csv.gz	manhattan	HIPPIE	20000	52	40.24	41	6.37406360720435	1.26829268292683	1.84497688204871
+Enteric_glia-expression.csv.gz	manhattan	HIPPIE	50000	125	95.79	95	9.43590285167575	1.31578947368421	3.09562322325229
+Enteric_glia-expression.csv.gz	manhattan	HIPPIE	1e+05	253	192.93	193	12.3265788219824	1.31088082901554	4.87320941743179
+Enteric_glia-expression.csv.gz	manhattan	Reactome	20000	79	44.39	44	6.25048684972506	1.79545454545455	5.53716867695233
+Enteric_glia-expression.csv.gz	manhattan	Reactome	50000	199	109.4	109	10.6287203825153	1.8256880733945	8.42998938493062
+Enteric_glia-expression.csv.gz	manhattan	Reactome	1e+05	390	216.97	217	12.6590527355571	1.79723502304147	13.6684792783893
+Enteric_glia-expression.csv.gz	manhattan	STRING	20000	27	12.99	13	3.54051585581148	2.07692307692308	3.95705048940924
+Enteric_glia-expression.csv.gz	manhattan	STRING	50000	67	33.39	33	5.87563880043109	2.03030303030303	5.72022909194725
+Enteric_glia-expression.csv.gz	manhattan	STRING	1e+05	140	71.84	70	8.27521552101164	2	8.2366434840198
+Enteric_glia-expression.csv.gz	manhattan	OmniPath	20000	8	5.37	5	2.09691933728284	1.6	1.25422087213327
+Enteric_glia-expression.csv.gz	manhattan	OmniPath	50000	26	12.43	12	3.56542034299214	2.16666666666667	3.80600285368089
+Enteric_glia-expression.csv.gz	manhattan	OmniPath	1e+05	53	25.1	25	4.80004208735757	2.12	5.81244903528731

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	HIPPIE	20000	412	102.88	101.5	9.73204640724279	4.05911330049261	31.7631037774282
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	HIPPIE	50000	670	244.7	244	13.443108707333	2.74590163934426	31.6370275104602
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	HIPPIE	1e+05	964	452.87	452	18.6399457015726	2.13274336283186	27.4212172172195
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	Reactome	20000	671	64.2	65	7.97217382873427	10.3230769230769	76.1147477508454
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	Reactome	50000	1010	175.2	175	13.3075508299202	5.77142857142857	62.7313027520487
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	Reactome	1e+05	1415	375.35	376	18.1265890978759	3.76329787234043	57.3549714392671
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	STRING	20000	287	31.81	32	5.3667419531704	8.96875	47.5502646161787
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	STRING	50000	467	76.73	76	8.49105887437373	6.14473684210526	45.9624654326502
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	STRING	1e+05	633	148.89	150	13.4606759852467	4.22	35.9647613931572
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	OmniPath	20000	388	23.9	24	4.19836427984312	16.1666666666667	86.7242515729496
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	OmniPath	50000	476	47.12	47	6.28977043469888	10.1276595744681	68.186908322439
+Spinal_cord_inhibitory_neurons-expression.csv.gz	cosine	OmniPath	1e+05	533	86.82	87	9.01444407715762	6.1264367816092	49.4961193592192

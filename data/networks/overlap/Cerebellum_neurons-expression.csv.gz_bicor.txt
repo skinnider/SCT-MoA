@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	bicor	HIPPIE	20000	99	57.46	57.5	7.36826391569365	1.72173913043478	5.63769165644624
+Cerebellum_neurons-expression.csv.gz	bicor	HIPPIE	50000	280	146.01	145	11.5771413578742	1.93103448275862	11.5736688235966
+Cerebellum_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	610	299.01	299	15.8033975377883	2.04013377926421	19.6786798064388
+Cerebellum_neurons-expression.csv.gz	bicor	Reactome	20000	158	77.15	77	8.6857307805342	2.05194805194805	9.30837048060422
+Cerebellum_neurons-expression.csv.gz	bicor	Reactome	50000	476	182.38	181	12.8021305045116	2.62983425414365	22.9352450278902
+Cerebellum_neurons-expression.csv.gz	bicor	Reactome	1e+05	1045	352.57	350	17.9281703731667	2.98571428571429	38.6224575953588
+Cerebellum_neurons-expression.csv.gz	bicor	STRING	20000	128	38.4	39	5.45319848688581	3.28205128205128	16.4307241365733
+Cerebellum_neurons-expression.csv.gz	bicor	STRING	50000	300	96.89	97	9.44296542192102	3.09278350515464	21.5091330874195
+Cerebellum_neurons-expression.csv.gz	bicor	STRING	1e+05	560	180	181	12.212760341197	3.0939226519337	31.1149968871619
+Cerebellum_neurons-expression.csv.gz	bicor	OmniPath	20000	23	6.27	6	2.26012871717117	3.83333333333333	7.40223327675763
+Cerebellum_neurons-expression.csv.gz	bicor	OmniPath	50000	125	19.12	19	4.0258759006801	6.57894736842105	26.2998668146014
+Cerebellum_neurons-expression.csv.gz	bicor	OmniPath	1e+05	331	47.16	47	6.34483803551909	7.04255319148936	44.7355784987786

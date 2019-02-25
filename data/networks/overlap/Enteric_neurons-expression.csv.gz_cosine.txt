@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_neurons-expression.csv.gz	cosine	HIPPIE	20000	621	114.43	115	10.5975554642654	5.4	47.8006462630119
+Enteric_neurons-expression.csv.gz	cosine	HIPPIE	50000	867	265.18	267	15.8090755165148	3.24719101123596	38.0680071628043
+Enteric_neurons-expression.csv.gz	cosine	HIPPIE	1e+05	1208	513.26	513	19.6472014610866	2.35477582846004	35.3607612451069
+Enteric_neurons-expression.csv.gz	cosine	Reactome	20000	879	66.47	66	7.45282130837346	13.3181818181818	109.023142563085
+Enteric_neurons-expression.csv.gz	cosine	Reactome	50000	1303	210.22	210	12.4969329570632	6.2047619047619	87.443855524756
+Enteric_neurons-expression.csv.gz	cosine	Reactome	1e+05	1854	481.57	483.5	20.3212855514765	3.83453981385729	67.5365737331654
+Enteric_neurons-expression.csv.gz	cosine	STRING	20000	515	32.66	32	5.15265940946022	16.09375	93.6099131866603
+Enteric_neurons-expression.csv.gz	cosine	STRING	50000	665	83.47	85	8.46436976718028	7.82352941176471	68.7032840005197
+Enteric_neurons-expression.csv.gz	cosine	STRING	1e+05	854	158.26	159	13.0257088447843	5.37106918238994	53.412832137622
+Enteric_neurons-expression.csv.gz	cosine	OmniPath	20000	516	30.4	30	5.57592226370751	17.2	87.0887320579533
+Enteric_neurons-expression.csv.gz	cosine	OmniPath	50000	549	65.42	65.5	7.83694951992022	8.38167938931298	61.7051314125248
+Enteric_neurons-expression.csv.gz	cosine	OmniPath	1e+05	611	115.48	116	10.4866244773661	5.26724137931035	47.2525740832536

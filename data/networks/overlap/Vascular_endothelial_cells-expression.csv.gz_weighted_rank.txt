@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	HIPPIE	20000	534	126.7	126	9.9569781631484	4.23809523809524	40.9059850615572
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	HIPPIE	50000	796	290.91	290	15.9792131384888	2.7448275862069	31.6091909922273
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	HIPPIE	1e+05	1125	544.79	542.5	20.3600395903646	2.07373271889401	28.497488790473
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	Reactome	20000	793	134.11	134.5	11.7815941024956	5.89591078066915	55.9253692045316
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	Reactome	50000	1122	324.13	320	17.8419860062288	3.50625	44.7186764815002
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	Reactome	1e+05	1621	643.83	643	24.6503037455419	2.52099533437014	39.6412965165481
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	STRING	20000	373	55.42	55.5	7.1154689929687	6.72072072072072	44.6323355935952
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	STRING	50000	542	127.63	127	10.9116331212948	4.26771653543307	37.9750671044217
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	STRING	1e+05	742	234.9	233.5	13.4633809372916	3.17773019271949	37.6651305019089
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	OmniPath	20000	491	39.11	39	5.56848092373313	12.5897435897436	81.1513958993777
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	OmniPath	50000	548	77.95	79	7.50134668044359	6.93670886075949	62.6620818933013
+Vascular_endothelial_cells-expression.csv.gz	weighted_rank	OmniPath	1e+05	612	133.32	133	9.83590618626726	4.6015037593985	48.6665886126817

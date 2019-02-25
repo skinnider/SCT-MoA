@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	HIPPIE	20000	532	113.18	113	10.8165417651658	4.70796460176991	38.7203238422092
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	HIPPIE	50000	792	262.71	263	15.8766043490592	3.01140684410646	33.3377332056123
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	HIPPIE	1e+05	1136	489	486	20.2205016473056	2.33744855967078	31.9972279266481
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	Reactome	20000	828	104.92	104.5	9.08064875535784	7.92344497607655	79.6286718582043
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	Reactome	50000	1210	268.17	266	15.0057598369036	4.54887218045113	62.7645657558615
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	Reactome	1e+05	1759	532.31	532	19.601430065331	3.30639097744361	62.58165837449
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	STRING	20000	381	58.76	58.5	7.65033834334644	6.51282051282051	42.1210128935349
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	STRING	50000	534	114.9	115.5	11.0403301077861	4.62337662337662	37.9608214526513
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	STRING	1e+05	740	190.55	191	15.1706621443822	3.87434554973822	36.2179313447743
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	OmniPath	20000	480	30.1	30	4.96757160761349	16	90.5673909784141
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	OmniPath	50000	545	57.35	57	6.56494362873626	9.56140350877193	74.2809120043993
+Oligodendrocyte_precursor_cells-expression.csv.gz	bicor	OmniPath	1e+05	628	93.78	94.5	9.9286138880195	6.64550264550265	53.8061008339365

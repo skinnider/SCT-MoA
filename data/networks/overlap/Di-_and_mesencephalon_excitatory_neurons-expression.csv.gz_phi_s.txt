@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	HIPPIE	20000	401	83.63	82	8.7289776322918	4.89024390243902	36.3582097891886
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	HIPPIE	50000	578	163.45	165	12.9500789748382	3.5030303030303	32.011387791956
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	HIPPIE	1e+05	785	290.79	290	15.0368537166845	2.70689655172414	32.8665829509026
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	Reactome	20000	673	72.33	72	7.84966704563147	9.34722222222222	76.5217169732425
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	Reactome	50000	937	145.44	146.5	11.2459375381118	6.39590443686007	70.3863059275809
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	Reactome	1e+05	1260	261.64	262.5	14.81639823188	4.8	67.3820981574226
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	STRING	20000	289	29.58	29	5.33178007684852	9.96551724137931	48.6554201900497
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	STRING	50000	396	53.55	54	6.52791209833867	7.33333333333333	52.4593460881853
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	STRING	1e+05	527	85.51	85	8.51439067020351	6.2	51.8522131648262
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	OmniPath	20000	401	18.11	18	4.35053694584608	22.2777777777778	88.0098260895327
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	OmniPath	50000	442	27.03	27	5.10388048053596	16.3703703703704	81.3048035867063
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	phi_s	OmniPath	1e+05	487	41.14	42	6.42127146854323	11.5952380952381	69.4348466941783

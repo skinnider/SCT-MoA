@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	HIPPIE	20000	597	124.41	124	11.1338005708525	4.81451612903226	42.4464222250583
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	HIPPIE	50000	846	289.03	289	14.7548690816341	2.92733564013841	37.7482170067697
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	HIPPIE	1e+05	1150	542.48	539	20.0204340057297	2.13358070500928	30.344996508374
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	Reactome	20000	805	87.89	88	8.80988310955602	9.14772727272727	81.398355810437
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	Reactome	50000	1147	255.51	254.5	15.2716116114875	4.50687622789784	58.375633343727
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	Reactome	1e+05	1660	560.47	558.5	22.7296162428109	2.97224709042077	48.3743318960683
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	STRING	20000	398	47.49	47	6.05112060746277	8.46808510638298	57.9248081037619
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	STRING	50000	542	111.54	113	10.2083546691181	4.79646017699115	42.167422072649
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	STRING	1e+05	723	204.3	205	12.0826279835928	3.52682926829268	42.9294025028622
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	OmniPath	20000	503	37.17	37	5.35234301568722	13.5945945945946	87.0329122469721
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	OmniPath	50000	538	69.3	70	8.12341670665115	7.68571428571429	57.6973971575588
+Vascular_and_leptomeningeal_cells-expression.csv.gz	pearson	OmniPath	1e+05	582	116.22	115	10.9309864443455	5.06086956521739	42.6109759051933

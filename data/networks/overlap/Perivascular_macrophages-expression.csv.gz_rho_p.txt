@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	rho_p	HIPPIE	20000	151	44.36	44	6.44874116601547	3.43181818181818	16.536560741806
+Perivascular_macrophages-expression.csv.gz	rho_p	HIPPIE	50000	303	113.2	114.5	9.43986817233753	2.64628820960699	20.1062129825274
+Perivascular_macrophages-expression.csv.gz	rho_p	HIPPIE	1e+05	515	225.76	228	13.4036931440178	2.25877192982456	21.5791272518866
+Perivascular_macrophages-expression.csv.gz	rho_p	Reactome	20000	276	63.32	64	6.6558700453514	4.3125	31.9537488789373
+Perivascular_macrophages-expression.csv.gz	rho_p	Reactome	50000	505	154.39	155	11.00036271211	3.25806451612903	31.8725854024816
+Perivascular_macrophages-expression.csv.gz	rho_p	Reactome	1e+05	843	305.64	304.5	15.3770917112096	2.76847290640394	34.9454896993478
+Perivascular_macrophages-expression.csv.gz	rho_p	STRING	20000	97	24.33	24	4.64509081578269	4.04166666666667	15.6444734628413
+Perivascular_macrophages-expression.csv.gz	rho_p	STRING	50000	155	46.99	47	6.47059393398982	3.29787234042553	16.6924398442973
+Perivascular_macrophages-expression.csv.gz	rho_p	STRING	1e+05	254	78.91	77.5	8.40405746161828	3.27741935483871	20.8339841558252
+Perivascular_macrophages-expression.csv.gz	rho_p	OmniPath	20000	151	13.87	14	3.78368373761109	10.7857142857143	36.2424582786562
+Perivascular_macrophages-expression.csv.gz	rho_p	OmniPath	50000	262	29.23	29	4.9825047451411	9.03448275862069	46.7174667975973
+Perivascular_macrophages-expression.csv.gz	rho_p	OmniPath	1e+05	363	48.71	48	6.08408256075315	7.5625	51.6577473861719

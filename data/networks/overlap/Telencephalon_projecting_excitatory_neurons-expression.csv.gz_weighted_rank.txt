@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	HIPPIE	20000	395	93.1	93	8.47158053539461	4.24731182795699	35.6367974947118
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	HIPPIE	50000	658	230.16	228.5	14.6043580046256	2.87964989059081	29.2953651139263
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	955	424.47	423	19.0800837513779	2.25768321513002	27.8054335040163
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	Reactome	20000	578	68.25	69	8.07211811788522	8.3768115942029	63.1494723634628
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	Reactome	50000	1035	193.62	193	12.6137491122452	5.36269430051814	66.7034037630575
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1550	412.12	412	17.2581586620369	3.7621359223301	65.932873968937
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	STRING	20000	286	30.89	31	5.16572816500709	9.2258064516129	49.3850996125055
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	STRING	50000	531	85.54	86	8.7460467259976	6.17441860465116	50.9327258309599
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	STRING	1e+05	770	161.32	160.5	13.2572678752129	4.79750778816199	45.9129290989171
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	OmniPath	20000	364	24.22	24	4.20576804501685	15.1666666666667	80.7890488403382
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	OmniPath	50000	477	59.52	58.5	6.6034579248797	8.15384615384615	63.2214219806065
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	565	106.81	106	9.07732773385862	5.33018867924528	50.4763090453308

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Ependymal_cells-expression.csv.gz	euclidean	HIPPIE	20000	45	45.53	45	6.35078138833516	1	-0.0834542976039897
+Ependymal_cells-expression.csv.gz	euclidean	HIPPIE	50000	133	107.52	107.5	10.1608080486751	1.23720930232558	2.50767457449632
+Ependymal_cells-expression.csv.gz	euclidean	HIPPIE	1e+05	292	210.36	210.5	13.3511396252503	1.38717339667458	6.1148338113099
+Ependymal_cells-expression.csv.gz	euclidean	Reactome	20000	59	38.93	38	5.96158578320442	1.55263157894737	3.36655392203585
+Ependymal_cells-expression.csv.gz	euclidean	Reactome	50000	136	100.5	100	8.45964872590207	1.36	4.19639173566448
+Ependymal_cells-expression.csv.gz	euclidean	Reactome	1e+05	338	218.54	220	12.3324487807285	1.53636363636364	9.68664067647909
+Ependymal_cells-expression.csv.gz	euclidean	STRING	20000	22	6.54	6	2.50824901700631	3.66666666666667	6.16366233782166
+Ependymal_cells-expression.csv.gz	euclidean	STRING	50000	41	17.06	17	3.95893057695273	2.41176470588235	6.04708759970908
+Ependymal_cells-expression.csv.gz	euclidean	STRING	1e+05	74	36.17	37	6.05872773923551	2	6.24388512377244
+Ependymal_cells-expression.csv.gz	euclidean	OmniPath	20000	10	5.75	5	2.28024010786034	2	1.86383880598784
+Ependymal_cells-expression.csv.gz	euclidean	OmniPath	50000	27	12.61	12	3.33604435210204	2.25	4.31349181282103
+Ependymal_cells-expression.csv.gz	euclidean	OmniPath	1e+05	36	23.8	23	4.37624441176623	1.56521739130435	2.78777848129285

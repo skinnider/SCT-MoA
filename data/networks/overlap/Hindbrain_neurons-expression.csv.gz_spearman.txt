@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Hindbrain_neurons-expression.csv.gz	spearman	HIPPIE	20000	346	121.76	121	10.1325757292552	2.8595041322314	22.130601931014
+Hindbrain_neurons-expression.csv.gz	spearman	HIPPIE	50000	659	257.65	257	14.2235932893417	2.56420233463035	28.217201647684
+Hindbrain_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	967	468.02	468.5	20.4860040914856	2.06403415154749	24.3571170723034
+Hindbrain_neurons-expression.csv.gz	spearman	Reactome	20000	608	124.29	124.5	10.301804294257	4.88353413654619	46.9539108085811
+Hindbrain_neurons-expression.csv.gz	spearman	Reactome	50000	1139	282.5	282	15.059142664102	4.03900709219858	56.8757477835524
+Hindbrain_neurons-expression.csv.gz	spearman	Reactome	1e+05	1696	510.85	510	21.7796007791927	3.32549019607843	54.4155979724038
+Hindbrain_neurons-expression.csv.gz	spearman	STRING	20000	307	45.62	46	6.17878416335882	6.67391304347826	42.3028209255189
+Hindbrain_neurons-expression.csv.gz	spearman	STRING	50000	542	109.93	111	9.41335286288643	4.88288288288288	45.8996923087311
+Hindbrain_neurons-expression.csv.gz	spearman	STRING	1e+05	821	196.43	196.5	12.3707499588931	4.17811704834606	50.4876423883264
+Hindbrain_neurons-expression.csv.gz	spearman	OmniPath	20000	270	29.22	29	4.40518519084687	9.31034482758621	54.658315046617
+Hindbrain_neurons-expression.csv.gz	spearman	OmniPath	50000	439	60.69	60	6.34161340717491	7.31666666666667	59.6551659191302
+Hindbrain_neurons-expression.csv.gz	spearman	OmniPath	1e+05	552	104.58	104	8.9962730779434	5.30769230769231	49.7339282749166

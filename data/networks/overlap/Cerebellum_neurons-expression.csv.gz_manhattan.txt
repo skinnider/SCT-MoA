@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	manhattan	HIPPIE	20000	39	33.83	33	5.40866308468519	1.18181818181818	0.955873922825592
+Cerebellum_neurons-expression.csv.gz	manhattan	HIPPIE	50000	94	83.22	82	9.66047868818355	1.14634146341463	1.11588673273363
+Cerebellum_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	182	166.65	166.5	11.9733500371079	1.09309309309309	1.28201380168685
+Cerebellum_neurons-expression.csv.gz	manhattan	Reactome	20000	97	39	38	6.30055312627151	2.55263157894737	9.2055409799112
+Cerebellum_neurons-expression.csv.gz	manhattan	Reactome	50000	200	88.4	88	10.1702676186197	2.27272727272727	10.9731625739802
+Cerebellum_neurons-expression.csv.gz	manhattan	Reactome	1e+05	377	189.86	189	13.9884656670119	1.99470899470899	13.3781648720288
+Cerebellum_neurons-expression.csv.gz	manhattan	STRING	20000	19	10.53	10	3.24568089072916	1.9	2.60962192068647
+Cerebellum_neurons-expression.csv.gz	manhattan	STRING	50000	57	25.8	26	4.60566186471838	2.19230769230769	6.77427065130578
+Cerebellum_neurons-expression.csv.gz	manhattan	STRING	1e+05	107	58.12	58.5	7.7983163165992	1.82905982905983	6.2680196616231
+Cerebellum_neurons-expression.csv.gz	manhattan	OmniPath	20000	2	2.85	3	1.64761842204027	0.666666666666667	-0.515896149636051
+Cerebellum_neurons-expression.csv.gz	manhattan	OmniPath	50000	10	8.56	8	2.95528972754574	1.25	0.487261870326287
+Cerebellum_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	29	21.7	22	4.71082998970661	1.31818181818182	1.5496207708516

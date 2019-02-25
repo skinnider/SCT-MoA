@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	euclidean	HIPPIE	20000	63	46.72	46.5	7.14790355646502	1.35483870967742	2.27759088680979
+Vascular_endothelial_cells-expression.csv.gz	euclidean	HIPPIE	50000	178	130.23	129.5	12.0628446985867	1.37451737451737	3.96009409004467
+Vascular_endothelial_cells-expression.csv.gz	euclidean	HIPPIE	1e+05	355	257.38	260	15.4297233817189	1.36538461538462	6.3267498441132
+Vascular_endothelial_cells-expression.csv.gz	euclidean	Reactome	20000	132	64.06	64	6.80139617277143	2.0625	9.98912550808165
+Vascular_endothelial_cells-expression.csv.gz	euclidean	Reactome	50000	284	158.49	159	10.537566276437	1.78616352201258	11.910719867134
+Vascular_endothelial_cells-expression.csv.gz	euclidean	Reactome	1e+05	563	334.78	333	14.5675577010609	1.69069069069069	15.6663185884193
+Vascular_endothelial_cells-expression.csv.gz	euclidean	STRING	20000	52	30.18	30	5.4816129750358	1.73333333333333	3.98058018677568
+Vascular_endothelial_cells-expression.csv.gz	euclidean	STRING	50000	105	67.82	67	7.35723377968166	1.56716417910448	5.05352977945044
+Vascular_endothelial_cells-expression.csv.gz	euclidean	STRING	1e+05	184	114.97	115	8.58640574608279	1.6	8.03945236707364
+Vascular_endothelial_cells-expression.csv.gz	euclidean	OmniPath	20000	17	12.4	12	2.90245455162392	1.41666666666667	1.58486547099465
+Vascular_endothelial_cells-expression.csv.gz	euclidean	OmniPath	50000	42	27.8	28	4.73115613606636	1.5	3.00138054877351
+Vascular_endothelial_cells-expression.csv.gz	euclidean	OmniPath	1e+05	70	48.83	49	6.16778040720608	1.42857142857143	3.43235306744485

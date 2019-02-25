@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	cosine	HIPPIE	20000	469	86.26	86	8.46098592530934	5.45348837209302	45.2358629808271
+Perivascular_macrophages-expression.csv.gz	cosine	HIPPIE	50000	605	184.46	185	12.6797540045602	3.27027027027027	33.1662585763694
+Perivascular_macrophages-expression.csv.gz	cosine	HIPPIE	1e+05	833	342.26	343	18.2986559091319	2.42857142857143	26.8183631867244
+Perivascular_macrophages-expression.csv.gz	cosine	Reactome	20000	891	187.01	187	12.3267754883179	4.76470588235294	57.1106369761642
+Perivascular_macrophages-expression.csv.gz	cosine	Reactome	50000	1374	431.91	431	18.9417474901287	3.18793503480278	49.7361714113737
+Perivascular_macrophages-expression.csv.gz	cosine	Reactome	1e+05	2044	822.55	823	24.3432420672234	2.48359659781288	50.1761432033987
+Perivascular_macrophages-expression.csv.gz	cosine	STRING	20000	293	31.61	32	5.43630705014299	9.15625	48.0822730557732
+Perivascular_macrophages-expression.csv.gz	cosine	STRING	50000	452	78.46	78	8.06967136626988	5.79487179487179	46.289369547482
+Perivascular_macrophages-expression.csv.gz	cosine	STRING	1e+05	600	143.72	143	10.8498289331578	4.1958041958042	42.0541192686991
+Perivascular_macrophages-expression.csv.gz	cosine	OmniPath	20000	485	28.2	29	5.1049589675732	16.7241379310345	89.4816203032389
+Perivascular_macrophages-expression.csv.gz	cosine	OmniPath	50000	514	49.36	50	7.39166880188552	10.28	62.8599592938304
+Perivascular_macrophages-expression.csv.gz	cosine	OmniPath	1e+05	533	76.39	75	9.17384842634186	7.10666666666667	49.7730046082827

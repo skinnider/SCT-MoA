@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	HIPPIE	20000	425	109.29	109.5	9.82400173559686	3.88127853881279	32.136598556985
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	HIPPIE	50000	728	264.35	265.5	13.2858054427508	2.74199623352166	34.8981476507308
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	1061	480.1	481.5	19.3299370057552	2.20353063343718	30.0518309928814
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	Reactome	20000	665	82.14	81	8.28290194596463	8.20987654320988	70.3690571012935
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	Reactome	50000	1082	227.39	227.5	13.2534691475268	4.75604395604396	64.4819850928976
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	Reactome	1e+05	1608	484.83	483.5	18.6336585866338	3.32574974146846	60.276407597468
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	STRING	20000	283	34.26	34	5.37224441932886	8.32352941176471	46.3009462311609
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	STRING	50000	464	82.76	81.5	8.5730609316261	5.69325153374233	44.4695311325273
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	STRING	1e+05	677	155.18	155	11.7777225079702	4.36774193548387	44.3056796122404
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	OmniPath	20000	369	23.22	23	4.1889223801678	16.0434782608696	82.5462896226185
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	OmniPath	50000	469	51.39	51.5	6.26017555503022	9.10679611650485	66.7089918372079
+Spinal_cord_excitatory_neurons-expression.csv.gz	bicor	OmniPath	1e+05	572	90.27	90	7.51544537548635	6.35555555555556	64.0986629443535

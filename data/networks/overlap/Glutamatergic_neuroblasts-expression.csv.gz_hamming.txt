@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	HIPPIE	20000	384	85.29	85	8.96603580072029	4.51764705882353	33.3157268874616
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	HIPPIE	50000	502	160.08	159.5	12.0769251555237	3.14733542319749	28.3118422609097
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	HIPPIE	1e+05	640	261.73	261	14.8676688070987	2.45210727969349	25.4424553645822
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	Reactome	20000	601	65.02	64	8.41833016864288	9.390625	63.668208452604
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	Reactome	50000	827	135.42	135	10.9518505423983	6.12592592592593	63.1473190145044
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	Reactome	1e+05	1073	251.98	251	14.9531119020609	4.27490039840637	54.9062967880848
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	STRING	20000	263	30.78	31.5	5.22345139198638	8.34920634920635	44.4571955539326
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	STRING	50000	362	64.51	66	8.06225148391558	5.48484848484848	36.8991218636011
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	STRING	1e+05	459	107.8	109	9.58112622805794	4.21100917431193	36.6553985033122
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	OmniPath	20000	355	19.15	19	4.02611425068837	18.6842105263158	83.4179010053125
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	OmniPath	50000	420	35.57	35	5.45922442414042	12	70.4184276250065
+Glutamatergic_neuroblasts-expression.csv.gz	hamming	OmniPath	1e+05	482	55.59	56	6.80180457338679	8.60714285714286	62.690716176763

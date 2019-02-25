@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	canberra	HIPPIE	20000	437	98.19	98	8.93940883409134	4.45918367346939	37.9007165113552
+Cerebellum_neurons-expression.csv.gz	canberra	HIPPIE	50000	660	236.97	237	14.6917519635194	2.78481012658228	28.7937069078223
+Cerebellum_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	957	447.1	446	18.5387936146576	2.1457399103139	27.5044865700889
+Cerebellum_neurons-expression.csv.gz	canberra	Reactome	20000	635	63.23	63	7.72749910541842	10.0793650793651	73.9915970484012
+Cerebellum_neurons-expression.csv.gz	canberra	Reactome	50000	937	150.48	150	12.0976498260254	6.24666666666667	65.0142805677827
+Cerebellum_neurons-expression.csv.gz	canberra	Reactome	1e+05	1287	297.02	294.5	16.2729123628095	4.37011884550085	60.8360678118397
+Cerebellum_neurons-expression.csv.gz	canberra	STRING	20000	259	29.01	29	4.75138469981716	8.93103448275862	48.4048365961297
+Cerebellum_neurons-expression.csv.gz	canberra	STRING	50000	430	68.09	68	8.12539975706557	6.32352941176471	44.5405777956088
+Cerebellum_neurons-expression.csv.gz	canberra	STRING	1e+05	626	139.32	139.5	9.70356593831319	4.48745519713262	50.1547578584911
+Cerebellum_neurons-expression.csv.gz	canberra	OmniPath	20000	384	23.19	23	4.46918743885691	16.695652173913	80.732796495169
+Cerebellum_neurons-expression.csv.gz	canberra	OmniPath	50000	475	47.65	47	6.41868327225257	10.1063829787234	66.5790757813831
+Cerebellum_neurons-expression.csv.gz	canberra	OmniPath	1e+05	511	82.29	81	8.24902198059647	6.30864197530864	51.9710095340298

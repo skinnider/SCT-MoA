@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	HIPPIE	20000	426	70.44	70.5	7.85643916565491	6.04255319148936	45.2571441721793
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	HIPPIE	50000	637	174.97	176.5	12.4547301468279	3.60906515580737	37.0967491509782
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	HIPPIE	1e+05	881	350.21	351	17.4612384579344	2.50997150997151	30.3981874641204
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	Reactome	20000	693	68.43	68	8.9997250238577	10.1911764705882	69.3987870011922
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	Reactome	50000	961	184.08	184	14.4541630087262	5.22282608695652	53.7506045511568
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	Reactome	1e+05	1335	395.2	393.5	21.2536390229337	3.39263024142313	44.2183100496771
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	STRING	20000	282	27.96	28	4.865711819986	10.0714285714286	52.2102437214892
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	STRING	50000	429	72.16	73	8.40360672929225	5.87671232876712	42.4627200552081
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	STRING	1e+05	585	143.62	143	11.9593418960183	4.09090909090909	36.9067130815076
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	OmniPath	20000	437	21.05	22	4.30732286960593	19.8636363636364	96.568103342124
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	OmniPath	50000	493	40.57	40	5.82619476627288	12.325	77.65445855313
+Olfactory_ensheathing_cells-expression.csv.gz	bicor	OmniPath	1e+05	523	70.7	71.5	7.82188073175615	7.31468531468532	57.8249676147198

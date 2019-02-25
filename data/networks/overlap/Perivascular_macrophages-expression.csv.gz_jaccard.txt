@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	jaccard	HIPPIE	20000	447	74.84	75	8.21149723672162	5.96	45.3218200373629
+Perivascular_macrophages-expression.csv.gz	jaccard	HIPPIE	50000	628	191.83	190.5	13.1625847143954	3.29658792650919	33.1371086655174
+Perivascular_macrophages-expression.csv.gz	jaccard	HIPPIE	1e+05	874	337.13	338	17.5905478521101	2.58579881656805	30.5203683542807
+Perivascular_macrophages-expression.csv.gz	jaccard	Reactome	20000	828	160.26	161	11.762481013628	5.14285714285714	56.7686357347873
+Perivascular_macrophages-expression.csv.gz	jaccard	Reactome	50000	1277	408.73	408	17.0453080128382	3.12990196078431	50.9389445673869
+Perivascular_macrophages-expression.csv.gz	jaccard	Reactome	1e+05	1937	788.27	786.5	24.4956623659675	2.46280991735537	46.8952414038807
+Perivascular_macrophages-expression.csv.gz	jaccard	STRING	20000	283	36.37	37	5.56260058358725	7.64864864864865	44.337175803651
+Perivascular_macrophages-expression.csv.gz	jaccard	STRING	50000	384	84.66	85	8.22071785309543	4.51764705882353	36.4128784552904
+Perivascular_macrophages-expression.csv.gz	jaccard	STRING	1e+05	597	157.48	157	11.430492623512	3.80254777070064	38.4515361215429
+Perivascular_macrophages-expression.csv.gz	jaccard	OmniPath	20000	477	24.41	24	4.77386614598671	19.875	94.8057583014729
+Perivascular_macrophages-expression.csv.gz	jaccard	OmniPath	50000	495	50.62	50	7.5274313163404	9.9	59.0347465589421
+Perivascular_macrophages-expression.csv.gz	jaccard	OmniPath	1e+05	539	74.57	74	8.90608122735712	7.28378378378378	52.1475145065368

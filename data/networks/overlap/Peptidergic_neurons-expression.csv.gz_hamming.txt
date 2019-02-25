@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peptidergic_neurons-expression.csv.gz	hamming	HIPPIE	20000	443	106.22	107	9.88272648757836	4.14018691588785	34.0776404591689
+Peptidergic_neurons-expression.csv.gz	hamming	HIPPIE	50000	638	226.21	225.5	14.1687485101343	2.82926829268293	29.063258459663
+Peptidergic_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	796	332.15	333	18.5158272455178	2.39039039039039	25.0515407088974
+Peptidergic_neurons-expression.csv.gz	hamming	Reactome	20000	568	62.43	62	7.68213853853551	9.16129032258065	65.8111016175946
+Peptidergic_neurons-expression.csv.gz	hamming	Reactome	50000	837	169.13	169	12.2694125714512	4.95266272189349	54.4337388697824
+Peptidergic_neurons-expression.csv.gz	hamming	Reactome	1e+05	1074	278.62	280.5	15.2101640658177	3.82887700534759	52.292664073722
+Peptidergic_neurons-expression.csv.gz	hamming	STRING	20000	237	32.91	33	5.31834066930161	7.18181818181818	38.3747512035179
+Peptidergic_neurons-expression.csv.gz	hamming	STRING	50000	357	63.88	64	7.01121756310355	5.578125	41.8072891565283
+Peptidergic_neurons-expression.csv.gz	hamming	STRING	1e+05	464	103.16	103	9.54385941457923	4.50485436893204	37.8086038703357
+Peptidergic_neurons-expression.csv.gz	hamming	OmniPath	20000	409	26.17	26	4.63856256034805	15.7307692307692	82.5320333658009
+Peptidergic_neurons-expression.csv.gz	hamming	OmniPath	50000	457	41.96	41	6.46344812125553	11.1463414634146	64.2134031578455
+Peptidergic_neurons-expression.csv.gz	hamming	OmniPath	1e+05	482	54.09	54	7.67008487698813	8.92592592592593	55.7894738927623

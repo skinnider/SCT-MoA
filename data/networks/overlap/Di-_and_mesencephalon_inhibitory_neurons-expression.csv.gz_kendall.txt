@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	HIPPIE	20000	338	98.21	98	8.14675370682065	3.44897959183673	29.4338099112095
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	HIPPIE	50000	591	217.38	216	13.4845815431529	2.73611111111111	27.7072001681591
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	HIPPIE	1e+05	867	400	401	19.890609936258	2.16209476309227	23.4784152671317
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	Reactome	20000	590	103.39	103	8.99483016498754	5.72815533980583	54.0988535719256
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	Reactome	50000	1047	238.28	239	13.3606387072874	4.38075313807531	60.5300403459673
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	Reactome	1e+05	1605	467.94	469	18.6123777648265	3.42217484008529	61.0916033602546
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	STRING	20000	272	40.21	41	6.4311348103966	6.63414634146341	36.0418505961478
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	STRING	50000	476	99.86	100	10.1334728858014	4.76	37.1185677643674
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	STRING	1e+05	735	188.94	190	13.1647064133423	3.86842105263158	41.4790867988195
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	OmniPath	20000	259	17.43	17	4.15909615278137	15.2352941176471	58.0823311426574
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	OmniPath	50000	397	38.64	38	5.57324053859244	10.4473684210526	64.3001136445667
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	kendall	OmniPath	1e+05	499	72.74	74	6.78771915396706	6.74324324324324	62.7987090112404

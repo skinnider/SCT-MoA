@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	HIPPIE	20000	567	111.85	111.5	9.71656401006118	5.08520179372197	46.84269043344
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	HIPPIE	50000	814	271.96	272	15.6404810176876	2.99264705882353	34.6562231293919
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	HIPPIE	1e+05	1109	512.89	513.5	20.6607493972645	2.15968841285297	28.8522932318672
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	Reactome	20000	779	70.03	71	8.60403358544084	10.9718309859155	82.3997248452948
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	Reactome	50000	1083	220.84	218	14.2748772748532	4.96788990825688	60.3970166187551
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	Reactome	1e+05	1530	494.72	496	20.8162135719911	3.08467741935484	49.7343090961078
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	STRING	20000	376	30.41	30	5.05544011412209	12.5333333333333	68.36002251013
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	STRING	50000	503	85.38	86	7.18975140408382	5.84883720930233	58.0854575532041
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	STRING	1e+05	662	163.4	163	10.0423346313736	4.06134969325153	49.649809362288
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	OmniPath	20000	495	28.97	29	5.06214910244192	17.0689655172414	92.0616897228872
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	OmniPath	50000	527	63.22	63	7.2746689327287	8.36507936507937	63.7527294078575
+Vascular_and_leptomeningeal_cells-expression.csv.gz	cosine	OmniPath	1e+05	562	105.07	105	9.86807422392479	5.35238095238095	46.3038673637243

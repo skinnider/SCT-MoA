@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	HIPPIE	20000	70	53.65	53	6.24317809511091	1.32075471698113	2.61885849657306
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	HIPPIE	50000	185	132.94	132.5	10.1780314026006	1.39622641509434	5.11493804064097
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	HIPPIE	1e+05	322	256.26	256.5	14.3193166136806	1.25536062378168	4.5910012169989
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	Reactome	20000	85	42.22	42	6.44413444047133	2.02380952380952	6.63859520548287
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	Reactome	50000	179	98.96	99	9.40333059413665	1.80808080808081	8.51187770106776
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	Reactome	1e+05	350	199.89	201	12.8879357885151	1.74129353233831	11.6473268072741
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	STRING	20000	45	30.38	30	4.31295909575041	1.5	3.38978406134322
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	STRING	50000	98	63.41	63	6.62425143474393	1.55555555555556	5.22172208297783
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	STRING	1e+05	177	106.36	107	8.59588814080854	1.65420560747664	8.21788264840723
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	OmniPath	20000	4	4.89	5	2.09807511589056	0.8	-0.4241983488862
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	OmniPath	50000	20	12	12	3.49024614917318	1.66666666666667	2.29210194871074
+Non-glutamatergic_neuroblasts-expression.csv.gz	manhattan	OmniPath	1e+05	42	27.19	27	4.5052046220864	1.55555555555556	3.28730906636186

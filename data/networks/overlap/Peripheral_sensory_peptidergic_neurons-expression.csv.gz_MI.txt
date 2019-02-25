@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	HIPPIE	20000	419	115.15	116	9.62884450308792	3.61206896551724	31.5562267001567
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	HIPPIE	50000	659	246.64	245	14.3410972630085	2.68979591836735	28.7537273081358
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	HIPPIE	1e+05	1013	442.01	441.5	19.7813783466403	2.29445073612684	28.8650259852584
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	Reactome	20000	630	112.65	113	9.16666666666667	5.57522123893805	56.4381818181818
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	Reactome	50000	1073	291.8	293	13.3658693935885	3.66211604095563	58.4473764478604
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	Reactome	1e+05	1627	594.96	592	22.2138004243517	2.74831081081081	46.4594072281586
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	STRING	20000	315	52.7	53	6.26760147766498	5.94339622641509	41.8501401109697
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	STRING	50000	460	107.44	108.5	9.26197832130061	4.23963133640553	38.0653017929426
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	STRING	1e+05	637	174.37	174	12.8398487986314	3.66091954022989	36.0307981235192
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	OmniPath	20000	378	33.7	33	6.1668714134724	11.4545454545455	55.8305787352446
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	OmniPath	50000	476	60.47	61	7.60310276907867	7.80327868852459	54.6526875435557
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	MI	OmniPath	1e+05	564	95.29	95	9.59513239390503	5.93684210526316	48.8487267041497

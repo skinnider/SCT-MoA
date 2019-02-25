@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	HIPPIE	20000	348	96.48	97	9.50542641406114	3.58762886597938	26.4606750969039
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	HIPPIE	50000	665	252.83	250	14.0849192221663	2.66	29.2632136186726
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	HIPPIE	1e+05	964	451.08	449	19.9649592025528	2.14699331848552	25.6910116768191
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	Reactome	20000	480	74.28	74	8.77908441879466	6.48648648648649	46.2143864491628
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	Reactome	50000	878	189.25	189	13.5560005722614	4.64550264550265	50.8077582564681
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	Reactome	1e+05	1377	372.19	372	17.6375947190865	3.70161290322581	56.9697861870387
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	STRING	20000	244	39.47	39	5.62364237264013	6.25641025641026	36.3696669253133
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	STRING	50000	413	89.91	90	9.39061964801777	4.58888888888889	34.4056102909247
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	STRING	1e+05	633	155.6	155	12.7896738651053	4.08387096774194	37.3269877742945
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	OmniPath	20000	305	20.54	21	3.9297364139123	14.5238095238095	72.3865343723658
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	OmniPath	50000	453	49.01	48.5	6.42673550824439	9.34020618556701	62.8608411660556
+Telencephalon_inhibitory_interneurons-expression.csv.gz	jaccard	OmniPath	1e+05	537	80.4	79.5	8.7743888100482	6.75471698113208	52.0378125342604

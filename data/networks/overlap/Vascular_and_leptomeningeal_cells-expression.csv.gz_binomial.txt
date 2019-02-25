@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	HIPPIE	20000	240	109.48	109	9.57952361692755	2.20183486238532	13.6248946418759
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	HIPPIE	50000	490	254.15	253.5	15.4771744608933	1.93293885601578	15.2385695849026
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	HIPPIE	1e+05	827	469.68	470	20.636772122509	1.75957446808511	17.3147233433015
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	Reactome	20000	266	125.91	126	8.67260286211933	2.11111111111111	16.1531667282832
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	Reactome	50000	706	352.3	352.5	15.7117340181975	2.00283687943262	22.5118373051848
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	Reactome	1e+05	1327	693.28	694.5	22.7063289357257	1.91072714182865	27.9093992601736
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	STRING	20000	169	74.52	75	7.26341322775813	2.25333333333333	13.0076586636888
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	STRING	50000	316	141.68	142.5	11.0315250738302	2.21754385964912	15.8019855671211
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	STRING	1e+05	491	221.69	221.5	14.6692112117781	2.21670428893905	18.3588603444312
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	OmniPath	20000	60	15.35	15	3.58835096196883	4	12.4430415177399
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	OmniPath	50000	141	38.8	39	6.0184900284226	3.61538461538462	16.9810034605617
+Vascular_and_leptomeningeal_cells-expression.csv.gz	binomial	OmniPath	1e+05	215	67.98	67	8.22656450994968	3.2089552238806	17.8713726516319

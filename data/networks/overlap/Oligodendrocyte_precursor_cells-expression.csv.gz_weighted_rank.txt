@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	HIPPIE	20000	554	128.91	129	11.6585209658477	4.29457364341085	36.4617434102706
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	HIPPIE	50000	806	288.32	289	16.1144141511363	2.78892733564014	32.1252758644964
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	HIPPIE	1e+05	1129	508.39	511.5	17.8523093602746	2.20723362658847	34.7635696578839
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	Reactome	20000	831	124.74	125	9.525743959387	6.648	74.1422405442702
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	Reactome	50000	1230	301.79	300.5	15.2542724599644	4.09317803660566	60.8491819217294
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	Reactome	1e+05	1757	569.59	570.5	21.3239065346617	3.07975460122699	55.6844496607542
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	STRING	20000	389	67.08	67.5	7.88513497255142	5.76296296296296	40.8261876455661
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	STRING	50000	550	128.02	127	12.0662983369199	4.33070866141732	34.9717857305787
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	STRING	1e+05	725	201.39	200	15.247384276417	3.625	34.340972228913
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	OmniPath	20000	502	36.22	36	5.32495554114319	13.9444444444444	87.4711528389595
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	OmniPath	50000	564	63.88	64	7.63336641517246	8.8125	65.5176199855855
+Oligodendrocyte_precursor_cells-expression.csv.gz	weighted_rank	OmniPath	1e+05	621	101.54	101.5	8.68578311281305	6.11822660098522	59.8057760887105

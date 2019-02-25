@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Schwann_cells-expression.csv.gz	spearman	HIPPIE	20000	159	63.45	63	7.50269311916755	2.52380952380952	12.7354269303503
+Schwann_cells-expression.csv.gz	spearman	HIPPIE	50000	312	151.77	152	11.6998273318866	2.05263157894737	13.695073906203
+Schwann_cells-expression.csv.gz	spearman	HIPPIE	1e+05	557	295.12	295	15.5506861065304	1.88813559322034	16.8404145132879
+Schwann_cells-expression.csv.gz	spearman	Reactome	20000	279	93.87	93	7.60735290241081	3	24.3356660818682
+Schwann_cells-expression.csv.gz	spearman	Reactome	50000	540	217.86	216.5	12.464106040705	2.49422632794457	25.8454155434784
+Schwann_cells-expression.csv.gz	spearman	Reactome	1e+05	924	421.98	420	15.0574522641405	2.2	33.3403016123496
+Schwann_cells-expression.csv.gz	spearman	STRING	20000	113	21.07	21	4.50421800071664	5.38095238095238	20.4097581390096
+Schwann_cells-expression.csv.gz	spearman	STRING	50000	197	56.1	57	6.9303898180624	3.45614035087719	20.3307467110692
+Schwann_cells-expression.csv.gz	spearman	STRING	1e+05	323	109.86	110.5	9.87908718639347	2.92307692307692	21.5748677968506
+Schwann_cells-expression.csv.gz	spearman	OmniPath	20000	125	11.81	12	3.12595843888177	10.4166666666667	36.2096944706951
+Schwann_cells-expression.csv.gz	spearman	OmniPath	50000	202	26.06	26	4.23267711449333	7.76923076923077	41.5670733299157
+Schwann_cells-expression.csv.gz	spearman	OmniPath	1e+05	288	47.91	48	6.3199140129683	6	37.9894409176045

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	HIPPIE	20000	160	53.69	54	7.24282298889631	2.96296296296296	14.6779784847676
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	HIPPIE	50000	320	129.45	129	12.2163783090529	2.48062015503876	15.5979125056068
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	HIPPIE	1e+05	529	248.6	248	15.2745910358717	2.13306451612903	18.3572836314565
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	Reactome	20000	235	58.67	59	7.81226050137949	3.98305084745763	22.5709319305038
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	Reactome	50000	464	144.43	145	10.9131141571075	3.2	29.2831171194035
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	Reactome	1e+05	772	278.64	279.5	14.4854646756218	2.76207513416816	34.0589695289718
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	STRING	20000	85	19.45	19	4.00851366695709	4.47368421052632	16.3526946509726
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	STRING	50000	172	46.18	46	7.05301712071157	3.73913043478261	17.8391740508502
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	STRING	1e+05	277	93.29	92.5	9.6476249236103	2.99459459459459	19.041992350927
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	OmniPath	20000	126	12.93	13	3.61326120916501	9.69230769230769	31.2930600514568
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	OmniPath	50000	206	26.19	25	5.49691373463879	8.24	32.7110827421081
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	weighted_rank	OmniPath	1e+05	290	46.04	46	6.61788211109594	6.30434782608696	36.8637573025005

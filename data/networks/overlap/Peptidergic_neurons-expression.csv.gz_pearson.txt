@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peptidergic_neurons-expression.csv.gz	pearson	HIPPIE	20000	529	105.7	105	9.59429544315293	5.03809523809524	44.1199671730031
+Peptidergic_neurons-expression.csv.gz	pearson	HIPPIE	50000	787	252.2	251	14.0992155380319	3.13545816733068	37.9311883386282
+Peptidergic_neurons-expression.csv.gz	pearson	HIPPIE	1e+05	1115	466.29	466	19.9364115389532	2.39270386266094	32.5389551039566
+Peptidergic_neurons-expression.csv.gz	pearson	Reactome	20000	890	69.95	71	6.81260714863379	12.5352112676056	120.372418680337
+Peptidergic_neurons-expression.csv.gz	pearson	Reactome	50000	1217	198.87	198	12.9401536218692	6.14646464646465	78.67990054456
+Peptidergic_neurons-expression.csv.gz	pearson	Reactome	1e+05	1656	427.65	428	19.4278645041579	3.86915887850467	63.2261975955778
+Peptidergic_neurons-expression.csv.gz	pearson	STRING	20000	340	31.37	31	4.52748062481562	10.9677419354839	68.1681547809095
+Peptidergic_neurons-expression.csv.gz	pearson	STRING	50000	535	80.34	80	8.58142226445058	6.6875	52.9818934424746
+Peptidergic_neurons-expression.csv.gz	pearson	STRING	1e+05	759	145.85	145.5	11.0127336765357	5.21649484536082	55.6764576361644
+Peptidergic_neurons-expression.csv.gz	pearson	OmniPath	20000	466	23.41	23	4.23571872665232	20.2608695652174	104.489941037657
+Peptidergic_neurons-expression.csv.gz	pearson	OmniPath	50000	511	42.62	42	5.50624989251195	12.1666666666667	85.0633387774424
+Peptidergic_neurons-expression.csv.gz	pearson	OmniPath	1e+05	590	71.51	70.5	7.0888944301932	8.36879432624113	73.1411653969107

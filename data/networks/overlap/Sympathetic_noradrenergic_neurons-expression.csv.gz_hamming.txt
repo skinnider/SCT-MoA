@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	HIPPIE	20000	289	141.22	140.5	10.5050060216618	2.05693950177936	14.0675787996
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	HIPPIE	50000	580	275.06	274	13.1662408830273	2.11678832116788	23.1607489722523
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	1016	512.56	511	18.615362397002	1.98825831702544	27.0443297994069
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	Reactome	20000	314	115.43	115	10.1585959023416	2.7304347826087	19.5469927053826
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	Reactome	50000	716	273.3	271	14.1067359796659	2.64206642066421	31.382170945719
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	Reactome	1e+05	1419	587.87	587.5	20.2213283740738	2.41531914893617	41.1016519105446
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	STRING	20000	175	44.8	44.5	6.03190172199766	3.93258426966292	21.5852323198794
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	STRING	50000	318	92.82	93	9.15674945633332	3.41935483870968	24.5916961115773
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	STRING	1e+05	545	165.42	166	11.8288980164184	3.28313253012048	32.0892106325665
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	OmniPath	20000	124	22.3	22	4.43015379261969	5.63636363636364	22.9563136542629
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	OmniPath	50000	279	42.5	42.5	6.4643544757291	6.56470588235294	36.5852461971195
+Sympathetic_noradrenergic_neurons-expression.csv.gz	hamming	OmniPath	1e+05	430	75.59	75.5	8.41126589398968	5.6953642384106	42.1351559285798

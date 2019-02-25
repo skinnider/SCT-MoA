@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocytes-expression.csv.gz	spearman	HIPPIE	20000	263	55.94	55	7.20244066377166	4.78181818181818	28.7485881059061
+Oligodendrocytes-expression.csv.gz	spearman	HIPPIE	50000	470	141.18	141	12.3438775565587	3.33333333333333	26.6383070063173
+Oligodendrocytes-expression.csv.gz	spearman	HIPPIE	1e+05	742	282.33	284	14.1721415445795	2.61267605633803	32.4347593166548
+Oligodendrocytes-expression.csv.gz	spearman	Reactome	20000	427	66.99	67	7.92833430478842	6.37313432835821	45.4080247073547
+Oligodendrocytes-expression.csv.gz	spearman	Reactome	50000	837	173.51	174.5	12.3546049158305	4.79656160458453	53.7038622052448
+Oligodendrocytes-expression.csv.gz	spearman	Reactome	1e+05	1327	366.21	365	18.058432094093	3.63561643835616	53.2045082869778
+Oligodendrocytes-expression.csv.gz	spearman	STRING	20000	213	23.57	23	4.11023605210703	9.26086956521739	46.0873773667798
+Oligodendrocytes-expression.csv.gz	spearman	STRING	50000	380	61.03	61	7.80889805855403	6.22950819672131	40.8469924448039
+Oligodendrocytes-expression.csv.gz	spearman	STRING	1e+05	582	117.7	118	11.2065096522449	4.93220338983051	41.4312764998146
+Oligodendrocytes-expression.csv.gz	spearman	OmniPath	20000	256	12.84	13	3.38958595248637	19.6923076923077	71.7373754223976
+Oligodendrocytes-expression.csv.gz	spearman	OmniPath	50000	395	28.18	27	4.71914219221068	14.6296296296296	77.73022830409
+Oligodendrocytes-expression.csv.gz	spearman	OmniPath	1e+05	507	53.2	53	6.32136029344918	9.56603773584906	71.7883460099992

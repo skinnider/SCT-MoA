@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	hamming	HIPPIE	20000	23	43.05	44	6.25772250176459	0.522727272727273	-3.20404108592961
+Cerebellum_neurons-expression.csv.gz	hamming	HIPPIE	50000	82	92.92	92	9.00581181596898	0.891304347826087	-1.21255032007629
+Cerebellum_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	173	180.4	180.5	11.508451001088	0.958448753462604	-0.643005735463477
+Cerebellum_neurons-expression.csv.gz	hamming	Reactome	20000	75	41.55	41	7.16807597136869	1.82926829268293	4.66652420169774
+Cerebellum_neurons-expression.csv.gz	hamming	Reactome	50000	174	96.87	97.5	9.8469653839509	1.78461538461538	7.83287002569447
+Cerebellum_neurons-expression.csv.gz	hamming	Reactome	1e+05	381	205.23	205.5	13.8628600544364	1.85401459854015	12.6792017887932
+Cerebellum_neurons-expression.csv.gz	hamming	STRING	20000	34	18.65	19	4.13014295249944	1.78947368421053	3.71657837913592
+Cerebellum_neurons-expression.csv.gz	hamming	STRING	50000	67	41.88	42	6.14024643337922	1.5952380952381	4.09104101481078
+Cerebellum_neurons-expression.csv.gz	hamming	STRING	1e+05	114	79.68	80	8.28516990797656	1.425	4.14234112048304
+Cerebellum_neurons-expression.csv.gz	hamming	OmniPath	20000	2	5.05	5	2.10038476513618	0.4	-1.45211489372151
+Cerebellum_neurons-expression.csv.gz	hamming	OmniPath	50000	10	11.6	11	3.03181780321958	0.909090909090909	-0.527736197835144
+Cerebellum_neurons-expression.csv.gz	hamming	OmniPath	1e+05	26	26.01	26	4.56046914120453	1	-0.00219275686127334

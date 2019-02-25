@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	binomial	HIPPIE	20000	146	73.01	73	7.27316223446782	2	10.0355248029664
+Vascular_endothelial_cells-expression.csv.gz	binomial	HIPPIE	50000	351	181.68	182	12.5004080741471	1.92857142857143	13.5451578057025
+Vascular_endothelial_cells-expression.csv.gz	binomial	HIPPIE	1e+05	653	358.94	360	18.4696420313897	1.81388888888889	15.9212614678853
+Vascular_endothelial_cells-expression.csv.gz	binomial	Reactome	20000	245	144.04	145	10.9053966808951	1.68965517241379	9.25780170627537
+Vascular_endothelial_cells-expression.csv.gz	binomial	Reactome	50000	557	353.51	352.5	14.983826297213	1.58014184397163	13.5806432858775
+Vascular_endothelial_cells-expression.csv.gz	binomial	Reactome	1e+05	1048	665.13	666	23.5044182392944	1.57357357357357	16.2892778754218
+Vascular_endothelial_cells-expression.csv.gz	binomial	STRING	20000	141	57.82	58.5	7.11149304529881	2.41025641025641	11.6965592837059
+Vascular_endothelial_cells-expression.csv.gz	binomial	STRING	50000	269	119.36	119	11.1305567214445	2.26050420168067	13.4440714642511
+Vascular_endothelial_cells-expression.csv.gz	binomial	STRING	1e+05	439	196.69	198	13.313390388491	2.21717171717172	18.2004728269269
+Vascular_endothelial_cells-expression.csv.gz	binomial	OmniPath	20000	70	15.05	14.5	3.8227786181829	4.82758620689655	14.3743610311705
+Vascular_endothelial_cells-expression.csv.gz	binomial	OmniPath	50000	126	35.29	35.5	6.12709663146528	3.54929577464789	14.804728153652
+Vascular_endothelial_cells-expression.csv.gz	binomial	OmniPath	1e+05	212	64.35	64	7.95489176735316	3.3125	18.5609062094289

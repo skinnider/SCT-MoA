@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	canberra	HIPPIE	20000	440	72.96	73	8.56693196146224	6.02739726027397	42.8438093883673
+Perivascular_macrophages-expression.csv.gz	canberra	HIPPIE	50000	622	184.64	186.5	13.6200387130674	3.33512064343164	32.1115093146091
+Perivascular_macrophages-expression.csv.gz	canberra	HIPPIE	1e+05	862	324.52	325.5	16.755207241242	2.64823348694316	32.078385678037
+Perivascular_macrophages-expression.csv.gz	canberra	Reactome	20000	761	137.51	136	11.4878020508536	5.59558823529412	54.2740897901938
+Perivascular_macrophages-expression.csv.gz	canberra	Reactome	50000	1195	377.59	376	18.8894150253522	3.1781914893617	43.2734417081167
+Perivascular_macrophages-expression.csv.gz	canberra	Reactome	1e+05	1859	724.7	726.5	21.6624704561282	2.55884377150723	52.362448793513
+Perivascular_macrophages-expression.csv.gz	canberra	STRING	20000	275	33.25	34	5.38680580378361	8.08823529411765	44.8781724839976
+Perivascular_macrophages-expression.csv.gz	canberra	STRING	50000	380	78.76	79	8.76070196901475	4.81012658227848	34.3853724353869
+Perivascular_macrophages-expression.csv.gz	canberra	STRING	1e+05	561	144.66	145	10.8722796435	3.86896551724138	38.2937170171951
+Perivascular_macrophages-expression.csv.gz	canberra	OmniPath	20000	458	22.39	22	4.74798202748634	20.8181818181818	91.7463456007686
+Perivascular_macrophages-expression.csv.gz	canberra	OmniPath	50000	493	44.13	43	7.10904247057822	11.4651162790698	63.140711545572
+Perivascular_macrophages-expression.csv.gz	canberra	OmniPath	1e+05	542	66.28	65	8.30124732017467	8.33846153846154	57.3070505734541

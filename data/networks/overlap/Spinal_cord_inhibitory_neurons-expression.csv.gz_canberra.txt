@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	HIPPIE	20000	378	109.23	108	10.3062744446911	3.5	26.0782886621506
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	HIPPIE	50000	640	261.37	261	14.8919712624222	2.45210727969349	25.4251094987955
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	930	454.52	451.5	20.0859164691094	2.05980066445183	23.6723079442878
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	Reactome	20000	550	63.93	64	7.27421765032106	8.59375	66.8209315923543
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	Reactome	50000	900	169.99	169.5	12.3308719902691	5.30973451327434	59.2018148088866
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	Reactome	1e+05	1319	372.63	372	18.6291045236623	3.54569892473118	50.8006167874543
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	STRING	20000	225	29.48	30	5.48916287706141	7.5	35.6192746287519
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	STRING	50000	381	63.41	63	7.91507320486575	6.04761904761905	40.124707855483
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	STRING	1e+05	556	125.37	126	10.8121284311703	4.41269841269841	39.8284207167329
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	OmniPath	20000	332	24.55	25	4.80608831051666	13.28	63.9709427159796
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	OmniPath	50000	452	46.32	46	6.35145732104138	9.82608695652174	63.8719555992364
+Spinal_cord_inhibitory_neurons-expression.csv.gz	canberra	OmniPath	1e+05	528	76.17	76	8.66323358577016	6.94736842105263	52.1548906106094

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	HIPPIE	20000	333	68.44	68	7.45534856477028	4.89705882352941	35.4859330454594
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	HIPPIE	50000	586	187.84	187	12.3523358932714	3.13368983957219	32.2335794169009
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	HIPPIE	1e+05	872	364.26	365	18.4290175231532	2.38904109589041	27.551116024612
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	Reactome	20000	558	98.27	98	9.12412165414271	5.69387755102041	50.3862198934255
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	Reactome	50000	1021	240.65	239.5	15.1939481572783	4.26304801670146	51.3592643546169
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	Reactome	1e+05	1601	455.5	454	18.4481254693623	3.52643171806167	62.0930295548124
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	STRING	20000	243	25.95	26	4.65881373898393	9.34615384615385	46.5891130576381
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	STRING	50000	447	73.42	72	8.59548859823711	6.20833333333333	43.4623344246677
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	STRING	1e+05	678	143.8	143.5	12.2424992496952	4.72473867595819	43.6348811712853
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	OmniPath	20000	311	27.53	28	4.75554965542917	11.1071428571429	59.6082515249055
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	OmniPath	50000	429	54.67	53.5	6.51812546641744	8.01869158878505	57.4290878456721
+Glutamatergic_neuroblasts-expression.csv.gz	pearson	OmniPath	1e+05	535	94.4	94	8.53394884143811	5.69148936170213	51.6290885012795

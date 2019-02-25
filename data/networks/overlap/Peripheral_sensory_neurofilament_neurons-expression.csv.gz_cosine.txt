@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	HIPPIE	20000	418	107.71	107.5	8.35487518721491	3.88837209302326	37.1387953795914
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	HIPPIE	50000	666	241.93	241	13.4819407828668	2.76348547717842	31.4546701272356
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	HIPPIE	1e+05	968	448.24	448.5	19.183915821923	2.15830546265329	27.0935300605328
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	Reactome	20000	660	104.77	105	9.18810715715229	6.28571428571429	60.4292038069879
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	Reactome	50000	1133	272.3	274	13.4918606215119	4.13503649635036	63.7940180487538
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	Reactome	1e+05	1684	540.68	543	20.2867723236875	3.10128913443831	56.3579056223264
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	STRING	20000	282	31.51	32	5.40388001272412	8.8125	46.353730913749
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	STRING	50000	439	85.69	86	9.06173551286124	5.1046511627907	38.9892200559761
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	STRING	1e+05	614	156.75	158	12.3814581148791	3.88607594936709	36.9302222531054
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	OmniPath	20000	353	27.98	28	4.99692834942557	12.6071428571429	65.0439584624749
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	OmniPath	50000	458	57.75	57	7.55501706340117	8.03508771929824	52.9780405048897
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	cosine	OmniPath	1e+05	543	99.49	99.5	9.61847443751089	5.4572864321608	46.1102228717648

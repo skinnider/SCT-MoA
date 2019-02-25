@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Schwann_cells-expression.csv.gz	weighted_rank	HIPPIE	20000	125	58.55	59	7.62422375581855	2.11864406779661	8.71564137257745
+Schwann_cells-expression.csv.gz	weighted_rank	HIPPIE	50000	275	145.45	145	11.4250964233493	1.89655172413793	11.3390727920021
+Schwann_cells-expression.csv.gz	weighted_rank	HIPPIE	1e+05	497	285.55	286	17.0094299454951	1.73776223776224	12.4313395967747
+Schwann_cells-expression.csv.gz	weighted_rank	Reactome	20000	225	86.64	87	8.13834917367934	2.58620689655172	17.0009908701727
+Schwann_cells-expression.csv.gz	weighted_rank	Reactome	50000	484	211.99	211	11.835996285941	2.29383886255924	22.9815888268822
+Schwann_cells-expression.csv.gz	weighted_rank	Reactome	1e+05	812	405.35	406	16.7237658269405	2	24.3156956518084
+Schwann_cells-expression.csv.gz	weighted_rank	STRING	20000	92	22.33	23	4.56170931989226	4	15.2727837559026
+Schwann_cells-expression.csv.gz	weighted_rank	STRING	50000	181	55.57	55	6.4858120213091	3.29090909090909	19.339135884281
+Schwann_cells-expression.csv.gz	weighted_rank	STRING	1e+05	293	110.29	110	8.79082970308758	2.66363636363636	20.7841587393994
+Schwann_cells-expression.csv.gz	weighted_rank	OmniPath	20000	86	10.59	11	3.14335920166739	7.81818181818182	23.9902585616047
+Schwann_cells-expression.csv.gz	weighted_rank	OmniPath	50000	142	22.44	22.5	4.07336755428764	6.31111111111111	29.3516355709543
+Schwann_cells-expression.csv.gz	weighted_rank	OmniPath	1e+05	216	42.64	44	6.47843353057674	4.90909090909091	26.759555250784

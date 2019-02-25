@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Hindbrain_neurons-expression.csv.gz	pearson	HIPPIE	20000	404	117.33	117	9.28238801563085	3.45299145299145	30.8832166374934
+Hindbrain_neurons-expression.csv.gz	pearson	HIPPIE	50000	713	259.6	259	13.3325757360525	2.75289575289575	34.0069322669561
+Hindbrain_neurons-expression.csv.gz	pearson	HIPPIE	1e+05	1024	469.85	469	19.977955022191	2.18336886993603	27.738074261578
+Hindbrain_neurons-expression.csv.gz	pearson	Reactome	20000	725	105.13	106	8.33109666953707	6.83962264150943	74.4043701073083
+Hindbrain_neurons-expression.csv.gz	pearson	Reactome	50000	1272	261.65	259.5	13.3252816598048	4.90173410404624	75.8220370716574
+Hindbrain_neurons-expression.csv.gz	pearson	Reactome	1e+05	1882	503.71	504	19.718880354225	3.73412698412698	69.8969705805169
+Hindbrain_neurons-expression.csv.gz	pearson	STRING	20000	346	46.85	47	5.95500807825827	7.36170212765957	50.2350284111615
+Hindbrain_neurons-expression.csv.gz	pearson	STRING	50000	577	102.57	104	8.47486479734829	5.54807692307692	55.9808340716473
+Hindbrain_neurons-expression.csv.gz	pearson	STRING	1e+05	852	188.92	189	12.3039617500818	4.50793650793651	53.8915849600714
+Hindbrain_neurons-expression.csv.gz	pearson	OmniPath	20000	289	25.78	25	4.58495563575245	11.56	57.4094976944749
+Hindbrain_neurons-expression.csv.gz	pearson	OmniPath	50000	460	56.6	56	6.75995337979262	8.21428571428571	59.6749677602622
+Hindbrain_neurons-expression.csv.gz	pearson	OmniPath	1e+05	581	98.9	98.5	8.2321125337107	5.89847715736041	58.5633393646879

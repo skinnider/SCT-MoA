@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	HIPPIE	20000	418	66.98	67.5	8.45663925414508	6.19259259259259	41.508214959973
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	HIPPIE	50000	565	127.07	128	11.6161286341209	4.4140625	37.700167912538
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	HIPPIE	1e+05	694	216.35	217	14.987789643034	3.19815668202765	31.869275682155
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	Reactome	20000	706	68.89	68	7.63947086855596	10.3823529411765	83.3971371790084
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	Reactome	50000	861	140.03	138	10.492378186093	6.23913043478261	68.7136878992412
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	Reactome	1e+05	1082	258.65	258.5	14.6331400553261	4.18568665377176	56.2661190207309
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	STRING	20000	267	27.58	27	4.51524913459653	9.88888888888889	53.0247596230133
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	STRING	50000	350	48.21	48	7.81127778318379	7.29166666666667	38.6351642300697
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	STRING	1e+05	433	78.12	78	9.08242836748548	5.55128205128205	39.073250637511
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	OmniPath	20000	459	21.88	22	4.43193188147338	20.8636363636364	98.6296747536383
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	OmniPath	50000	510	35.51	35.5	6.01764241227577	14.3661971830986	78.8498165048919
+Oligodendrocyte_precursor_cells-expression.csv.gz	phi_s	OmniPath	1e+05	539	50.34	51	7.04562332805324	10.5686274509804	69.3565320266731

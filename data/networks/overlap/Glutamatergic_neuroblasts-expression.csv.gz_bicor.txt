@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	HIPPIE	20000	318	60.53	60.5	7.24388282510412	5.25619834710744	35.5430928710942
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	HIPPIE	50000	536	152.65	154	12.9781284545122	3.48051948051948	29.5381573193413
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	HIPPIE	1e+05	796	311.84	315	17.7050583424368	2.52698412698413	27.345857360974
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	Reactome	20000	581	74.34	74	8.86625654098194	7.85135135135135	57.1447484807255
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	Reactome	50000	1004	184.07	184	12.3984806824192	5.45652173913043	66.1314898980035
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	Reactome	1e+05	1510	371	370	15.3984126166015	4.08108108108108	73.9686634174234
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	STRING	20000	224	24.26	25	4.7495241654275	8.96	42.0547391787029
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	STRING	50000	401	68.18	68.5	6.95059041166339	5.85401459854015	47.8837020005543
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	STRING	1e+05	599	129.29	129	10.498960987554	4.64341085271318	44.7387127694651
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	OmniPath	20000	321	24.13	24	4.92500320463414	13.375	60.2781333666266
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	OmniPath	50000	440	50.16	49.5	7.10344915509289	8.88888888888889	54.8803815566837
+Glutamatergic_neuroblasts-expression.csv.gz	bicor	OmniPath	1e+05	533	85.41	85	8.25244989642041	6.27058823529412	54.2372272013608

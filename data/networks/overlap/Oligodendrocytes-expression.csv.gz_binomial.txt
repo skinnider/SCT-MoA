@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocytes-expression.csv.gz	binomial	HIPPIE	20000	85	35.03	35	6.51409505176539	2.42857142857143	7.67105785268786
+Oligodendrocytes-expression.csv.gz	binomial	HIPPIE	50000	215	95.04	95	10.4038842785187	2.26315789473684	11.5303089489073
+Oligodendrocytes-expression.csv.gz	binomial	HIPPIE	1e+05	399	196.19	195	12.7546347290194	2.04615384615385	15.9008865646749
+Oligodendrocytes-expression.csv.gz	binomial	Reactome	20000	236	88.4	88	8.99494807706475	2.68181818181818	16.4092108965419
+Oligodendrocytes-expression.csv.gz	binomial	Reactome	50000	521	219.14	219.5	14.3068959850581	2.37357630979499	21.0989162369851
+Oligodendrocytes-expression.csv.gz	binomial	Reactome	1e+05	890	404.96	403	18.0089315663539	2.20843672456576	26.9333024123542
+Oligodendrocytes-expression.csv.gz	binomial	STRING	20000	102	13.98	14	3.82965567985721	7.28571428571429	22.9837894991337
+Oligodendrocytes-expression.csv.gz	binomial	STRING	50000	197	39.94	39.5	5.91833309865765	4.9873417721519	26.5378777067521
+Oligodendrocytes-expression.csv.gz	binomial	STRING	1e+05	312	80.26	82	8.66855457292843	3.80487804878049	26.733407288421
+Oligodendrocytes-expression.csv.gz	binomial	OmniPath	20000	29	6.34	6	2.47092180075666	4.83333333333333	9.17066658809716
+Oligodendrocytes-expression.csv.gz	binomial	OmniPath	50000	61	13.76	14	3.07850153762699	4.35714285714286	15.3451279535219
+Oligodendrocytes-expression.csv.gz	binomial	OmniPath	1e+05	106	26.48	26	4.64601491016275	4.07692307692308	17.1157436077222

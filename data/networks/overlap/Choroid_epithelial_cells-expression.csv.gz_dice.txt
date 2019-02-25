@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Choroid_epithelial_cells-expression.csv.gz	dice	HIPPIE	20000	387	117.51	117	10.7548391739052	3.30769230769231	25.0575574067042
+Choroid_epithelial_cells-expression.csv.gz	dice	HIPPIE	50000	672	258.05	258	15.6517498295645	2.6046511627907	26.4475221305986
+Choroid_epithelial_cells-expression.csv.gz	dice	HIPPIE	1e+05	1018	455.44	454	20.0279199059107	2.24229074889868	28.088788183838
+Choroid_epithelial_cells-expression.csv.gz	dice	Reactome	20000	569	96.79	97	8.92425477181839	5.8659793814433	52.9131016621328
+Choroid_epithelial_cells-expression.csv.gz	dice	Reactome	50000	989	238.72	238	13.0987546636073	4.15546218487395	57.2787275789299
+Choroid_epithelial_cells-expression.csv.gz	dice	Reactome	1e+05	1452	448.22	448	17.078298592901	3.24107142857143	58.7751756733687
+Choroid_epithelial_cells-expression.csv.gz	dice	STRING	20000	263	47.73	47.5	7.03218430941739	5.53684210526316	30.6121100540146
+Choroid_epithelial_cells-expression.csv.gz	dice	STRING	50000	472	125.53	126	10.2892068585376	3.74603174603175	33.6731494238073
+Choroid_epithelial_cells-expression.csv.gz	dice	STRING	1e+05	706	205.63	207.5	12.2413894702201	3.40240963855422	40.8752618497484
+Choroid_epithelial_cells-expression.csv.gz	dice	OmniPath	20000	321	22.73	22.5	3.96666666666667	14.2666666666667	75.1941176470588
+Choroid_epithelial_cells-expression.csv.gz	dice	OmniPath	50000	467	49.53	49	6.26752895421467	9.53061224489796	66.6083879388013
+Choroid_epithelial_cells-expression.csv.gz	dice	OmniPath	1e+05	544	81.18	81	8.68573659524742	6.71604938271605	53.28506050405

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	20000	50	43.59	43	6.63187131748778	1.16279069767442	0.966544688992573
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	50000	143	103.46	102	10.3703345357726	1.40196078431373	3.81279888933247
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	252	188.76	188	12.269795384923	1.34042553191489	5.15412018017093
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	20000	70	44.73	45	5.68687128837158	1.55555555555556	4.44356812711265
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	50000	214	127.73	129	10.0442002964875	1.65891472868217	8.5890362053183
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	1e+05	411	245.74	246.5	13.7536918826925	1.66734279918864	12.0156828733354
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	STRING	20000	24	11.98	11.5	3.19083282881039	2.08695652173913	3.7670415985037
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	STRING	50000	64	28.33	28	4.98493690628036	2.28571428571429	7.15555696503612
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	STRING	1e+05	117	53.5	53	6.70820393249937	2.20754716981132	9.46602110474911
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	20000	13	10.48	10	3.18290890396019	1.3	0.791728596713717
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	50000	31	20.92	20	4.45557192873386	1.55	2.26233582606856
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	53	33.97	33	5.56586820620906	1.60606060606061	3.41905328961453

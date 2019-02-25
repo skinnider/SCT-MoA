@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	HIPPIE	20000	137	53.29	53	6.90673072393367	2.58490566037736	12.1200613352309
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	HIPPIE	50000	302	132.01	131	11.4402223260165	2.30534351145038	14.8589769635352
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	549	261.32	262	14.8466096527732	2.09541984732824	19.3768144194634
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	Reactome	20000	280	90.15	90	7.65727356072894	3.11111111111111	24.7934200723432
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	Reactome	50000	587	242.72	242	11.6316183506228	2.42561983471074	29.5986327630467
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	Reactome	1e+05	1066	495.26	494	16.6257801518174	2.15789473684211	34.3286146447456
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	STRING	20000	120	23.01	23	3.8755775066564	5.21739130434783	25.0259477028694
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	STRING	50000	247	59.23	59	6.7672040389699	4.1864406779661	27.7470575615424
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	STRING	1e+05	392	111.73	112	9.33750447919517	3.5	30.0155143833631
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	OmniPath	20000	32	4.81	5	1.94206492209096	6.4	14.0005618199032
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	OmniPath	50000	82	12.83	13	2.98161030317512	6.30769230769231	23.198873416268
+Sympathetic_cholinergic_neurons-expression.csv.gz	spearman	OmniPath	1e+05	169	26.92	27.5	4.4623678997509	6.14545454545455	31.8395979874118

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	zi_kendall	HIPPIE	20000	454	73.48	72.5	8.67654448743417	6.26206896551724	43.8561688413042
+Perivascular_macrophages-expression.csv.gz	zi_kendall	HIPPIE	50000	631	190.76	190	12.8284091300551	3.32105263157895	34.3175833836311
+Perivascular_macrophages-expression.csv.gz	zi_kendall	HIPPIE	1e+05	893	340.3	341	17.4225559131103	2.61876832844575	31.7232444399331
+Perivascular_macrophages-expression.csv.gz	zi_kendall	Reactome	20000	830	154.97	154	11.7709237727821	5.38961038961039	57.3472407969264
+Perivascular_macrophages-expression.csv.gz	zi_kendall	Reactome	50000	1265	409.32	408	19.5049229734962	3.10049019607843	43.8699502255261
+Perivascular_macrophages-expression.csv.gz	zi_kendall	Reactome	1e+05	2004	782.91	784	24.9156536735402	2.55612244897959	49.0089489924467
+Perivascular_macrophages-expression.csv.gz	zi_kendall	STRING	20000	290	37.07	38	5.63405051916694	7.63157894736842	44.8931011781908
+Perivascular_macrophages-expression.csv.gz	zi_kendall	STRING	50000	406	85.7	85	8.36358146666217	4.77647058823529	38.2969905030206
+Perivascular_macrophages-expression.csv.gz	zi_kendall	STRING	1e+05	580	155.9	155	10.619688214716	3.74193548387097	39.9352590608369
+Perivascular_macrophages-expression.csv.gz	zi_kendall	OmniPath	20000	483	23.57	23	4.74662027556492	21	96.7909740674001
+Perivascular_macrophages-expression.csv.gz	zi_kendall	OmniPath	50000	503	46.98	46	7.16188000824681	10.9347826086957	63.6732253926203
+Perivascular_macrophages-expression.csv.gz	zi_kendall	OmniPath	1e+05	555	68.8	68	8.41595406524316	8.16176470588235	57.7712278644611

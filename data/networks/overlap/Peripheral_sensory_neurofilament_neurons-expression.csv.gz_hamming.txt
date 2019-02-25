@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	HIPPIE	20000	256	101.65	102	8.43678214305033	2.50980392156863	18.2948898505271
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	HIPPIE	50000	562	251.69	252	14.2861768323386	2.23015873015873	21.7209967118406
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	845	463.59	463	17.2890430649302	1.82505399568035	22.0607929870722
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	Reactome	20000	353	112.54	111	10.2142898515617	3.18018018018018	23.5415289260892
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	Reactome	50000	832	279.69	279	15.8048036426214	2.9820788530466	34.9457046407439
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	Reactome	1e+05	1414	547.31	549.5	21.1003829732107	2.57324840764331	41.0746099300832
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	STRING	20000	158	36.75	37	5.44276927434347	4.27027027027027	22.2772625272868
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	STRING	50000	318	81.31	81	8.08377224675298	3.92592592592593	29.2796472705019
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	STRING	1e+05	546	187.82	188.5	12.0917201824098	2.89655172413793	29.6219226542353
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	OmniPath	20000	130	15.4	15	3.75244028344331	8.66666666666667	30.5401262494818
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	OmniPath	50000	288	42.99	43	5.46151827042461	6.69767441860465	44.8611517655788
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	hamming	OmniPath	1e+05	413	91.3	91	9.71461462816397	4.53846153846154	33.1150552351658

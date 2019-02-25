@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	20000	181	48.19	48	6.73554569115048	3.77083333333333	19.7177787947446
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	50000	428	138.98	139	10.6732744684463	3.07913669064748	27.0788501555392
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	675	271.32	270.5	15.0116991413734	2.49537892791128	26.8910265385899
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	Reactome	20000	335	43.68	43	5.91160474888762	7.7906976744186	49.2793433212559
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	Reactome	50000	687	121.25	121	10.4392180132073	5.67768595041322	54.1946723676268
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	Reactome	1e+05	1049	247.64	250.5	15.7765456909741	4.187624750499	50.7943890694947
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	STRING	20000	183	28.68	29	5.0729625954613	6.31034482758621	30.4200941946758
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	STRING	50000	352	64.22	64.5	7.82069257311859	5.45736434108527	36.7972525846575
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	STRING	1e+05	546	115.56	115	10.8314170799391	4.74782608695652	39.7399524755833
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	20000	157	12.96	13	3.29039004780082	12.0769230769231	43.7759651310249
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	50000	328	34.65	35	5.51833491209261	9.37142857142857	53.1591512064929
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	1e+05	447	68.02	68	7.80698987504729	6.57352941176471	48.543677661386

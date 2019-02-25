@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	HIPPIE	20000	416	106.45	106	9.63932916061417	3.92452830188679	32.1132305829752
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	HIPPIE	50000	660	233.14	232	14.5546826787391	2.8448275862069	29.3280183032462
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	964	434.12	436	19.0603931192036	2.21100917431193	27.8000562048291
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	Reactome	20000	643	85.53	86	9.00555945014528	7.47674418604651	61.9028726739466
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	Reactome	50000	1119	221.96	223.5	12.909099445153	5.00671140939597	69.4889681353269
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	Reactome	1e+05	1650	458.2	456.5	18.9976075048699	3.6144578313253	62.7342153318247
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	STRING	20000	326	42.73	43	5.95751795650002	7.58139534883721	47.5483250018466
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	STRING	50000	560	96.61	97	10.0200758076932	5.77319587628866	46.2461571043422
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	STRING	1e+05	812	175.01	174.5	13.8465581180729	4.65329512893983	46.0034901502765
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	OmniPath	20000	351	25.37	25	4.03933937993116	14.04	80.614667244313
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	OmniPath	50000	455	56.04	55.5	6.45093368858691	8.1981981981982	61.8453109672862
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	spearman	OmniPath	1e+05	559	102.53	102.5	8.65436773011644	5.45365853658537	52.7444654808837

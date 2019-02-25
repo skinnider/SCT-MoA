@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	HIPPIE	20000	193	39.29	39	6.052455883542	4.94871794871795	25.3963024196463
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	HIPPIE	50000	425	116.62	117	9.72010308795149	3.63247863247863	31.7260009703242
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	HIPPIE	1e+05	675	249.35	249.5	15.227815458442	2.70541082164329	27.9521380569417
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	Reactome	20000	335	36.53	36	5.69858213802683	9.30555555555556	52.3761863513908
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	Reactome	50000	689	110.35	112	10.5460749556267	6.15178571428571	54.8687547200932
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	Reactome	1e+05	1033	235.51	237	15.2683041334364	4.35864978902954	52.2317339915675
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	STRING	20000	174	22.68	23	4.59001991589174	7.56521739130435	32.9671772177053
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	STRING	50000	343	59.03	59	7.80242774960966	5.8135593220339	36.3950822888692
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	STRING	1e+05	539	113.72	113	9.59595874534818	4.76991150442478	44.3186565601027
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	OmniPath	20000	174	13.66	14	3.42073298306286	12.4285714285714	46.8729949966555
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	OmniPath	50000	346	34.44	34	5.3263590763392	10.1764705882353	58.4939910236271
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	kendall	OmniPath	1e+05	449	65.48	65	7.79468868635379	6.90769230769231	49.2027347636643

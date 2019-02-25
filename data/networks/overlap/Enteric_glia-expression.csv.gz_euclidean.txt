@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_glia-expression.csv.gz	euclidean	HIPPIE	20000	45	36.41	36	6.09867513348911	1.25	1.40850263573321
+Enteric_glia-expression.csv.gz	euclidean	HIPPIE	50000	125	92.77	94	9.32776348956017	1.32978723404255	3.45527628740507
+Enteric_glia-expression.csv.gz	euclidean	HIPPIE	1e+05	229	185.82	186.5	13.307080214622	1.22788203753351	3.24488913447394
+Enteric_glia-expression.csv.gz	euclidean	Reactome	20000	81	38.84	39	5.71321346361293	2.07692307692308	7.37938469628593
+Enteric_glia-expression.csv.gz	euclidean	Reactome	50000	220	108.6	107	10.0181653192407	2.05607476635514	11.1198005273528
+Enteric_glia-expression.csv.gz	euclidean	Reactome	1e+05	398	217.38	215	13.3838286258779	1.85116279069767	13.4953909713673
+Enteric_glia-expression.csv.gz	euclidean	STRING	20000	29	12.64	12	3.36506112331357	2.41666666666667	4.86172446813993
+Enteric_glia-expression.csv.gz	euclidean	STRING	50000	69	32.7	33	5.73047849994953	2.09090909090909	6.33454954945206
+Enteric_glia-expression.csv.gz	euclidean	STRING	1e+05	137	68	68	8.26334244012847	2.01470588235294	8.35013198350851
+Enteric_glia-expression.csv.gz	euclidean	OmniPath	20000	10	4.72	5	2.07476419494999	2	2.54486751451158
+Enteric_glia-expression.csv.gz	euclidean	OmniPath	50000	25	11.52	11	3.15741871301431	2.27272727272727	4.26931022624205
+Enteric_glia-expression.csv.gz	euclidean	OmniPath	1e+05	53	23.84	23	4.47601915486825	2.30434782608696	6.51471742883065

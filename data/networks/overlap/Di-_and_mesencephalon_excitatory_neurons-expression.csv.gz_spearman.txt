@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	HIPPIE	20000	450	109.97	108	10.2518340315331	4.16666666666667	33.1677238388875
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	HIPPIE	50000	678	245.25	243	14.9574311790076	2.79012345679012	28.9321070457176
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	974	450.47	449	19.6507151539227	2.16926503340757	26.6417784746879
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	Reactome	20000	739	95.56	95.5	9.24997406493771	7.73821989528796	69.5612761163275
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	Reactome	50000	1198	238.58	238	14.4475225935421	5.03361344537815	66.4072330593795
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	Reactome	1e+05	1771	482.86	482	17.0115943824894	3.67427385892116	75.7212975478612
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	STRING	20000	327	42.41	42	5.64630029937366	7.78571428571429	50.4029160531135
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	STRING	50000	534	99.7	100	9.42219601673505	5.34	46.0932885739828
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	STRING	1e+05	782	188.54	190	12.7377748877466	4.11578947368421	46.5905548834036
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	OmniPath	20000	402	24.38	24	4.7583631851741	16.75	79.3592219224821
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	OmniPath	50000	481	49.64	49	6.54050317775183	9.81632653061224	65.9521122881361
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	spearman	OmniPath	1e+05	567	91.73	92	9.09418173417166	6.16304347826087	52.260886563786

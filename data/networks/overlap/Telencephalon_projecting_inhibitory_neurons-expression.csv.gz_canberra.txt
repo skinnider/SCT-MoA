@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	HIPPIE	20000	322	85.62	87	8.89646394401004	3.70114942528736	26.5701071220722
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	HIPPIE	50000	536	223.16	221	14.7947028467365	2.42533936651584	21.1454061119591
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	856	427.92	428.5	17.12324900729	1.99766627771295	24.9999284491951
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	Reactome	20000	404	59.16	59	7.09491210500721	6.84745762711864	48.6038438385488
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	Reactome	50000	725	160.18	160	11.1693845629538	4.53125	50.5685874469191
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	Reactome	1e+05	1122	350.71	349	18.3876852729475	3.21489971346705	41.9460083502052
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	STRING	20000	170	24.5	24	4.49129348536891	7.08333333333333	32.3960125237839
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	STRING	50000	317	63.46	64	8.15310562381791	4.953125	31.0973525547524
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	STRING	1e+05	483	129.22	128.5	11.9524140666311	3.75875486381323	29.5990415013889
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	OmniPath	20000	280	19.92	20	3.47772130202313	14	74.7846010112142
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	OmniPath	50000	348	50.14	51	6.01348652630237	6.82352941176471	49.5319975686635
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	canberra	OmniPath	1e+05	480	91.92	91	8.81880451826171	5.27472527472527	44.00596466294

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Choroid_epithelial_cells-expression.csv.gz	canberra	HIPPIE	20000	455	128.3	127	11.0677436496763	3.58267716535433	29.5182116916446
+Choroid_epithelial_cells-expression.csv.gz	canberra	HIPPIE	50000	674	255.31	256.5	16.1142981870327	2.62768031189084	25.9825153500586
+Choroid_epithelial_cells-expression.csv.gz	canberra	HIPPIE	1e+05	999	438.09	439	21.7799347004429	2.27562642369021	25.7535207389118
+Choroid_epithelial_cells-expression.csv.gz	canberra	Reactome	20000	631	102.12	101	10.1933628633855	6.24752475247525	51.8847417764097
+Choroid_epithelial_cells-expression.csv.gz	canberra	Reactome	50000	1016	236.4	235	12.689771590943	4.32340425531915	61.4353059401339
+Choroid_epithelial_cells-expression.csv.gz	canberra	Reactome	1e+05	1431	441.05	441	15.9071643855176	3.24489795918367	62.2329647200531
+Choroid_epithelial_cells-expression.csv.gz	canberra	STRING	20000	299	52.85	53	6.96365020965472	5.64150943396226	35.3478409439243
+Choroid_epithelial_cells-expression.csv.gz	canberra	STRING	50000	475	121.72	121	10.5897606348317	3.92561983471074	33.3605274172107
+Choroid_epithelial_cells-expression.csv.gz	canberra	STRING	1e+05	680	200.1	201	12.7884891424067	3.38308457711443	37.5259340377159
+Choroid_epithelial_cells-expression.csv.gz	canberra	OmniPath	20000	365	24.39	24	3.82943147928586	15.2083333333333	88.9453178213075
+Choroid_epithelial_cells-expression.csv.gz	canberra	OmniPath	50000	463	49.64	49.5	6.16854189342255	9.35353535353535	67.0109739289865
+Choroid_epithelial_cells-expression.csv.gz	canberra	OmniPath	1e+05	532	76.83	77	8.04413959464788	6.90909090909091	56.5840503691463

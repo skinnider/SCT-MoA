@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	MI	HIPPIE	20000	485	88.42	89	9.65483078959738	5.44943820224719	41.0758105079683
+Perivascular_macrophages-expression.csv.gz	MI	HIPPIE	50000	652	200.97	201.5	15.0979662822046	3.23573200992556	29.8735598934019
+Perivascular_macrophages-expression.csv.gz	MI	HIPPIE	1e+05	886	369.67	368	18.2253320209188	2.40760869565217	28.3303480785625
+Perivascular_macrophages-expression.csv.gz	MI	Reactome	20000	1103	245.22	244.5	13.4296370582064	4.51124744376278	63.872165441421
+Perivascular_macrophages-expression.csv.gz	MI	Reactome	50000	1658	549.47	545	20.8871208686554	3.04220183486239	53.072417542407
+Perivascular_macrophages-expression.csv.gz	MI	Reactome	1e+05	2370	963.41	966.5	28.8328849150627	2.45214692188308	48.784226904231
+Perivascular_macrophages-expression.csv.gz	MI	STRING	20000	383	46.13	46	6.05472517705775	8.32608695652174	55.6375376501729
+Perivascular_macrophages-expression.csv.gz	MI	STRING	50000	541	112.68	111.5	9.88098878624702	4.85201793721973	43.3478884821894
+Perivascular_macrophages-expression.csv.gz	MI	STRING	1e+05	740	210.28	212.5	13.7833745556527	3.48235294117647	38.4318076724366
+Perivascular_macrophages-expression.csv.gz	MI	OmniPath	20000	492	29.4	29	5.11089151921777	16.9655172413793	90.5125844014787
+Perivascular_macrophages-expression.csv.gz	MI	OmniPath	50000	522	53.29	52	7.05432742035237	10.0384615384615	66.442904060241
+Perivascular_macrophages-expression.csv.gz	MI	OmniPath	1e+05	572	84.32	84	9.72228513688157	6.80952380952381	50.1610468252964

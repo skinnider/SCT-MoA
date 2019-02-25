@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peptidergic_neurons-expression.csv.gz	canberra	HIPPIE	20000	451	117.3	116.5	10.1349480372211	3.87124463519313	32.9256744854014
+Peptidergic_neurons-expression.csv.gz	canberra	HIPPIE	50000	697	267.41	268.5	15.3459072291888	2.59590316573557	27.9937832012235
+Peptidergic_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	954	459.02	459.5	20.3107077297875	2.07616974972797	24.3703964719096
+Peptidergic_neurons-expression.csv.gz	canberra	Reactome	20000	585	64.95	65	8.50593969535466	9	61.1396293209102
+Peptidergic_neurons-expression.csv.gz	canberra	Reactome	50000	936	196.99	197	13.1882217117848	4.75126903553299	56.0356063273968
+Peptidergic_neurons-expression.csv.gz	canberra	Reactome	1e+05	1374	398.91	399.5	18.6493940649529	3.43929912390488	52.2853448537747
+Peptidergic_neurons-expression.csv.gz	canberra	STRING	20000	247	33.57	33.5	4.99141687542149	7.37313432835821	42.7594018546041
+Peptidergic_neurons-expression.csv.gz	canberra	STRING	50000	409	74.55	75	8.07211811788522	5.45333333333333	41.4327435644142
+Peptidergic_neurons-expression.csv.gz	canberra	STRING	1e+05	569	128.65	129	10.3449348363185	4.41085271317829	42.5667253556822
+Peptidergic_neurons-expression.csv.gz	canberra	OmniPath	20000	394	25.52	25	4.84607515876967	15.76	76.0367901709454
+Peptidergic_neurons-expression.csv.gz	canberra	OmniPath	50000	457	45.2	44.5	5.98651683689137	10.2696629213483	68.7879131087246
+Peptidergic_neurons-expression.csv.gz	canberra	OmniPath	1e+05	509	68.95	68	8.62387454229316	7.48529411764706	51.0269482518454

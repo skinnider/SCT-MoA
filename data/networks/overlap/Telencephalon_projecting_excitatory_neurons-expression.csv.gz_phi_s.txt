@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	HIPPIE	20000	384	88.89	88	9.5281560427901	4.36363636363636	30.972414670235
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	HIPPIE	50000	535	166.94	164	13.6713369699329	3.26219512195122	26.9220194637486
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	HIPPIE	1e+05	731	276.22	274.5	17.5985421802116	2.66302367941712	25.8419132302544
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	Reactome	20000	617	86.92	86	8.95519712544372	7.17441860465116	59.1924435134905
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	Reactome	50000	884	170.81	171.5	11.4923734043341	5.15451895043732	62.0576772880556
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	Reactome	1e+05	1278	317.82	317.5	15.5539984790686	4.0251968503937	61.7320363822934
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	STRING	20000	324	42.33	43	5.98998322117007	7.53488372093023	47.0235040065737
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	STRING	50000	427	71.24	71.5	7.38018093999535	5.97202797202797	48.2047801934005
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	STRING	1e+05	557	111.97	112	9.84573434785262	4.97321428571429	45.2002851465378
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	OmniPath	20000	338	21.56	21	3.8620662287894	16.0952380952381	81.9354152036878
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	OmniPath	50000	405	38.64	38	5.32294442707581	10.6578947368421	68.8265686443137
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	phi_s	OmniPath	1e+05	460	58.87	58	6.30160313096612	7.93103448275862	63.6552305283785

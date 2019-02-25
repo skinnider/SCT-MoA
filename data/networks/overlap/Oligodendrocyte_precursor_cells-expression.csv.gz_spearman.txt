@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	HIPPIE	20000	580	136.65	137	12.4724949915056	4.23357664233577	35.5462159176608
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	HIPPIE	50000	840	306.67	306	16.135821871685	2.74509803921569	33.0525463308369
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	HIPPIE	1e+05	1172	540.98	541.5	18.5314256702969	2.16435826408126	34.0513466814068
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	Reactome	20000	876	124.48	125	9.52029199110823	7.008	78.9387553135875
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	Reactome	50000	1256	301.63	301.5	16.4412974739302	4.16583747927031	58.0471219812961
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	Reactome	1e+05	1785	573.47	574	22.8996294796014	3.10975609756098	52.9060961916091
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	STRING	20000	384	62.97	63.5	7.73350966361145	6.04724409448819	41.511553481409
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	STRING	50000	575	127.71	126	12.6205660280626	4.56349206349206	35.4413580979985
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	STRING	1e+05	751	206.22	205	16.1967573759364	3.66341463414634	33.6351275354277
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	OmniPath	20000	525	39.08	39	5.6491350906778	13.4615384615385	86.016707372048
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	OmniPath	50000	564	70.79	72	7.32684975093166	7.83333333333333	67.3154243318945
+Oligodendrocyte_precursor_cells-expression.csv.gz	spearman	OmniPath	1e+05	618	109.94	111	9.32122591321831	5.56756756756757	54.5057060873856

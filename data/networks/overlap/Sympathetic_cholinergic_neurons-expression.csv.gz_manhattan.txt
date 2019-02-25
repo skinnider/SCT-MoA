@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	HIPPIE	20000	39	30.31	31	5.28710075026326	1.25806451612903	1.64362292501562
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	HIPPIE	50000	88	78.95	78	8.14437278621307	1.12820512820513	1.11119667991131
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	182	152.9	153	9.37059660897217	1.18954248366013	3.10545861851926
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	Reactome	20000	66	33.92	34	6.03806109758603	1.94117647058824	5.31296379442489
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	Reactome	50000	174	93.04	92	9.1672671979597	1.89130434782609	8.83142143146201
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	Reactome	1e+05	337	201.27	200	12.7325678018333	1.685	10.6600649698057
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	STRING	20000	21	9.39	10	3.01140928114826	2.1	3.85533778908096
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	STRING	50000	40	24.4	24	4.6839506764476	1.66666666666667	3.33052183457904
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	STRING	1e+05	80	49.28	49	6.57985907558403	1.63265306122449	4.66879300105273
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	OmniPath	20000	7	6.07	6	2.12847458063376	1.16666666666667	0.43693263168926
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	OmniPath	50000	15	15.98	16	3.99236645349471	0.9375	-0.245468448704693
+Sympathetic_cholinergic_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	35	30.05	30	5.42045322194677	1.16666666666667	0.913207770146975

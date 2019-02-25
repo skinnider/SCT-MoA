@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	HIPPIE	20000	425	95.85	97	8.78517461006285	4.38144329896907	37.4665290799092
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	HIPPIE	50000	638	213.26	212	12.9088647013898	3.00943396226415	32.9029709292926
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	HIPPIE	1e+05	907	406.25	405.5	16.4791726525676	2.2367447595561	30.3868410482355
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	Reactome	20000	619	53.94	54	7.99598384038872	11.462962962963	70.6679767342463
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	Reactome	50000	860	140.33	141	12.2359422533895	6.09929078014184	58.8160670503853
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	Reactome	1e+05	1198	293.2	292	15.1704124578541	4.1027397260274	59.6424126577761
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	STRING	20000	263	30.46	30	5.05608943789965	8.76666666666667	45.9920661721125
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	STRING	50000	412	67.74	68	8.21875165629664	6.05882352941176	41.887139847601
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	STRING	1e+05	607	128.29	129	10.6593677679364	4.70542635658915	44.9097930029181
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	OmniPath	20000	456	33.06	33	4.53453638225786	13.8181818181818	93.2708361663663
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	OmniPath	50000	520	59.66	60	6.55700720102879	8.66666666666667	70.2058097370661
+Dentate_gyrus_granule_neurons-expression.csv.gz	dice	OmniPath	1e+05	563	96.57	97	8.15661719344509	5.80412371134021	57.1842454951592

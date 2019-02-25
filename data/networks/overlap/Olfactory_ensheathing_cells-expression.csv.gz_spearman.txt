@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	HIPPIE	20000	416	68.39	69	7.95936015904634	6.02898550724638	43.6731085230411
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	HIPPIE	50000	611	174.24	176	11.0947435001145	3.47159090909091	39.3663900382638
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	HIPPIE	1e+05	828	334.48	334.5	17.7669992577887	2.47533632286996	27.777341172773
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	Reactome	20000	677	73.34	73	9.57080999918001	9.27397260273973	63.0730314416146
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	Reactome	50000	927	201.28	201	14.1236101488381	4.61194029850746	51.3834630347469
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	Reactome	1e+05	1297	412.29	413.5	19.0158333814724	3.136638452237	46.5249133315396
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	STRING	20000	281	28.63	28.5	4.69612993470542	9.85964912280702	53.7399951681342
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	STRING	50000	417	74.08	74	8.07625275643715	5.63513513513514	42.4602857713532
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	STRING	1e+05	583	138.46	138.5	11.3345988598243	4.20938628158845	39.2197382102051
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	OmniPath	20000	440	20.47	21	4.3865151488984	20.952380952381	95.6408414787666
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	OmniPath	50000	492	41.71	41.5	6.55712273683043	11.855421686747	68.6718882766651
+Olfactory_ensheathing_cells-expression.csv.gz	spearman	OmniPath	1e+05	524	71.7	72	7.78693544575551	7.27777777777778	58.0844676510756

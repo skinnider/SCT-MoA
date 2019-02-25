@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	HIPPIE	20000	438	109.75	108	10.5278610641411	4.05555555555556	31.1791728633322
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	HIPPIE	50000	648	241.07	240	15.4803590123587	2.7	26.286858055109
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	921	431.23	429.5	20.5159976997504	2.14435389988359	23.8725899255662
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	Reactome	20000	699	97.85	98.5	8.80240440063527	7.09644670050761	68.2938402553528
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	Reactome	50000	1174	254.83	255.5	13.7326971020616	4.59491193737769	66.932955206739
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	Reactome	1e+05	1725	498.56	496.5	18.0908593471729	3.47432024169184	67.7933522373917
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	STRING	20000	306	36.23	36	5.15782234214511	8.5	52.3030810494733
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	STRING	50000	499	88.56	88	9.26633964977814	5.67045454545455	44.2936494357647
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	STRING	1e+05	722	172.05	172	13.3252816598048	4.19767441860465	41.2711726506241
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	OmniPath	20000	413	26.34	26	4.87877282135828	15.8846153846154	79.2535365260872
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	OmniPath	50000	497	52.88	52.5	6.89206834416244	9.46666666666667	64.4392913451254
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	bicor	OmniPath	1e+05	579	95.17	95	8.9047201193547	6.09473684210526	54.3341052290211

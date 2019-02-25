@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	HIPPIE	20000	282	140.74	140.5	10.6482985789403	2.00711743772242	13.2659691079077
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	HIPPIE	50000	578	274.82	274	12.8796919468776	2.10948905109489	23.5393828711484
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	HIPPIE	1e+05	1014	512.7	511.5	18.7506228852766	1.98240469208211	26.7351118449314
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	Reactome	20000	302	115.67	115	10.2366493492251	2.62608695652174	18.2022450553223
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	Reactome	50000	714	275.58	274	14.0842917012987	2.60583941605839	31.1282959269845
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	Reactome	1e+05	1421	587.06	586	20.1633831536779	2.42491467576792	41.3591307393217
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	STRING	20000	170	45.14	45	5.76303090851726	3.77777777777778	21.6656828641102
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	STRING	50000	318	92.38	92.5	8.90213911417255	3.43783783783784	25.3444702566829
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	STRING	1e+05	543	164.9	165	11.8257551491854	3.29090909090909	31.9725882389883
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	OmniPath	20000	119	22.05	22	4.3794169622557	5.40909090909091	22.1376500195277
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	OmniPath	50000	275	42.56	42.5	6.6016832870278	6.47058823529412	35.2092019404719
+Sympathetic_noradrenergic_neurons-expression.csv.gz	dice	OmniPath	1e+05	431	75.84	76	8.57141125539376	5.67105263157895	41.4354170413311

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Choroid_epithelial_cells-expression.csv.gz	euclidean	HIPPIE	20000	57	43.37	43	6.4755250167399	1.32558139534884	2.10484863617468
+Choroid_epithelial_cells-expression.csv.gz	euclidean	HIPPIE	50000	150	112.68	112	10.4242142353389	1.33928571428571	3.58012596033207
+Choroid_epithelial_cells-expression.csv.gz	euclidean	HIPPIE	1e+05	278	233.52	234.5	15.544319174086	1.18550106609808	2.8614955407087
+Choroid_epithelial_cells-expression.csv.gz	euclidean	Reactome	20000	89	54.57	54.5	6.99675971179849	1.63302752293578	4.92084928140971
+Choroid_epithelial_cells-expression.csv.gz	euclidean	Reactome	50000	245	146.39	146	11.0242111882543	1.67808219178082	8.9448576697318
+Choroid_epithelial_cells-expression.csv.gz	euclidean	Reactome	1e+05	491	303.48	302.5	14.5397261447263	1.62314049586777	12.8970792251143
+Choroid_epithelial_cells-expression.csv.gz	euclidean	STRING	20000	33	18.39	18	3.63455636907725	1.83333333333333	4.01974780864638
+Choroid_epithelial_cells-expression.csv.gz	euclidean	STRING	50000	73	43.21	43	6.39806631141414	1.69767441860465	4.65609428693396
+Choroid_epithelial_cells-expression.csv.gz	euclidean	STRING	1e+05	124	84.73	83.5	9.42686361287558	1.48502994011976	4.16575455131901
+Choroid_epithelial_cells-expression.csv.gz	euclidean	OmniPath	20000	6	5.34	5	2.31909073090766	1.2	0.284594298620514
+Choroid_epithelial_cells-expression.csv.gz	euclidean	OmniPath	50000	26	15.41	15	3.70937932132789	1.73333333333333	2.85492506498607
+Choroid_epithelial_cells-expression.csv.gz	euclidean	OmniPath	1e+05	51	34.51	35	5.23873490781347	1.45714285714286	3.14770651506063

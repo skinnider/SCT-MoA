@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	HIPPIE	20000	50	33.81	34	5.70609279187562	1.47058823529412	2.83731803714294
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	HIPPIE	50000	118	93.32	92	10.8477805764287	1.28260869565217	2.2751197653857
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	HIPPIE	1e+05	248	201.82	201	14.7890076568628	1.23383084577114	3.12258949832717
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	Reactome	20000	94	52.23	51	6.57644250028813	1.84313725490196	6.35145825393744
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	Reactome	50000	205	127.39	127	10.3630023729525	1.61417322834646	7.48914235536247
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	Reactome	1e+05	403	247.27	248	14.5510977058243	1.625	10.7022853635068
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	STRING	20000	33	18.46	19	4.1106415238225	1.73684210526316	3.53716078518061
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	STRING	50000	80	37.8	37	5.74192450052219	2.16216216216216	7.34945226050294
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	STRING	1e+05	125	69.17	69	8.15389229729947	1.81159420289855	6.84703672361366
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	OmniPath	20000	5	1.58	1	1.34974745112491	5	2.53380734088418
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	OmniPath	50000	14	6.87	7	2.48492424126944	2	2.86930276649304
+Vascular_and_leptomeningeal_cells-expression.csv.gz	euclidean	OmniPath	1e+05	25	18.01	18	4.11573722792077	1.38888888888889	1.69835915485092

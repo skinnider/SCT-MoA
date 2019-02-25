@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocytes-expression.csv.gz	manhattan	HIPPIE	20000	81	61.57	61	7.17354145242759	1.32786885245902	2.70856453940539
+Oligodendrocytes-expression.csv.gz	manhattan	HIPPIE	50000	163	145.31	146	11.2901986633799	1.11643835616438	1.56684576839006
+Oligodendrocytes-expression.csv.gz	manhattan	HIPPIE	1e+05	307	261.48	260.5	14.7569398158044	1.17850287907869	3.08465037929131
+Oligodendrocytes-expression.csv.gz	manhattan	Reactome	20000	91	46.78	46	6.27256331215959	1.97826086956522	7.0497494882639
+Oligodendrocytes-expression.csv.gz	manhattan	Reactome	50000	226	126.62	125	9.96740141205775	1.808	9.97050243002937
+Oligodendrocytes-expression.csv.gz	manhattan	Reactome	1e+05	470	277.56	277.5	14.9911219517999	1.69369369369369	12.8369311262186
+Oligodendrocytes-expression.csv.gz	manhattan	STRING	20000	53	34.96	35	5.27797022509314	1.51428571428571	3.41798063093121
+Oligodendrocytes-expression.csv.gz	manhattan	STRING	50000	112	66.6	67	7.47115665865613	1.67164179104478	6.07670298914148
+Oligodendrocytes-expression.csv.gz	manhattan	STRING	1e+05	166	107.93	107.5	8.57793151586728	1.54418604651163	6.76969732068662
+Oligodendrocytes-expression.csv.gz	manhattan	OmniPath	20000	33	18.59	19	4.0078080358876	1.73684210526316	3.59548158768254
+Oligodendrocytes-expression.csv.gz	manhattan	OmniPath	50000	52	32.54	33	5.31895789899799	1.57575757575758	3.65861139898587
+Oligodendrocytes-expression.csv.gz	manhattan	OmniPath	1e+05	85	53.25	53	7.19058728161653	1.60377358490566	4.41549469556848

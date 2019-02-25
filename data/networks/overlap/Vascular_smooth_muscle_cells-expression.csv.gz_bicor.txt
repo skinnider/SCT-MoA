@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	HIPPIE	20000	495	117.91	117.5	9.26718441980665	4.21276595744681	40.6908919600272
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	HIPPIE	50000	741	279.91	279.5	15.4828644284283	2.65116279069767	29.7806650785746
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	HIPPIE	1e+05	1075	523.19	524	20.4759997474254	2.05152671755725	26.9491114869438
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	Reactome	20000	710	81.45	82	8.44755059831613	8.65853658536585	74.4061835066476
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	Reactome	50000	1037	217.46	216	15.0073517337539	4.80092592592593	54.6092351628386
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	Reactome	1e+05	1471	447.22	446.5	18.8339796081122	3.29451287793953	54.3581346747893
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	STRING	20000	371	51.34	52	6.21373519314309	7.13461538461539	51.4440976423886
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	STRING	50000	546	124.07	126	10.4873709524813	4.33333333333333	40.2321994627424
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	STRING	1e+05	752	223.35	222.5	13.3955932751006	3.37977528089888	39.4644708258382
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	OmniPath	20000	482	36.09	36	5.16807409960325	13.3888888888889	86.2816576167576
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	OmniPath	50000	560	76.52	75	8.60875757997094	7.46666666666667	56.1614141772165
+Vascular_smooth_muscle_cells-expression.csv.gz	bicor	OmniPath	1e+05	620	135.05	134	11.0721919394235	4.62686567164179	43.7989155763543

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	HIPPIE	20000	338	68.85	69	7.99794796914632	4.89855072463768	33.6523819657617
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	HIPPIE	50000	503	143.99	145	11.2065051454839	3.46896551724138	32.0358573292296
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	HIPPIE	1e+05	722	283.04	286	15.9822628958708	2.52447552447552	27.4654473437182
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	Reactome	20000	467	69.93	70	9.04115729608357	6.67142857142857	43.9180502004983
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	Reactome	50000	783	168.27	167.5	14.5615066098077	4.67462686567164	42.2160986821209
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	Reactome	1e+05	1133	352.89	353	18.8903775408636	3.20963172804533	41.2966865438485
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	STRING	20000	192	23.11	24	4.55914000396539	8	37.0442670883335
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	STRING	50000	313	57.42	58	7.33908865065835	5.39655172413793	34.8244873669803
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	STRING	1e+05	441	106.32	106	9.70876933602823	4.16037735849057	34.4719282554214
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	OmniPath	20000	333	17.37	17.5	3.9991286929818	19.0285714285714	78.9246919094925
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	OmniPath	50000	455	32.14	32	5.1306565236465	14.21875	82.4183022291778
+Olfactory_ensheathing_cells-expression.csv.gz	canberra	OmniPath	1e+05	492	57.24	57	6.55068814335678	8.63157894736842	66.3685998303706

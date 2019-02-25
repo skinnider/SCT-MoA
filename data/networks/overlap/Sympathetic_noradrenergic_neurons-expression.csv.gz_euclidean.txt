@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	HIPPIE	20000	45	34.95	35	5.99557917944294	1.28571428571429	1.67623505573214
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	HIPPIE	50000	95	73.21	73	8.01046663794162	1.3013698630137	2.72019109308708
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	199	148.79	148	11.3068272930271	1.34459459459459	4.44067983871694
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	Reactome	20000	68	32.29	32	5.57826771561483	2.125	6.4016289322292
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	Reactome	50000	147	87.02	86	8.18594508714156	1.7093023255814	7.3271930560854
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	Reactome	1e+05	350	206.35	207	12.4975755224521	1.69082125603865	11.4942294000889
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	STRING	20000	14	8	7.5	3.2597948748752	1.86666666666667	1.84060661185919
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	STRING	50000	28	18.4	18	4.52155332208351	1.55555555555556	2.12316416863052
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	STRING	1e+05	56	38.26	38	6.1834252218934	1.47368421052632	2.86896006071016
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	OmniPath	20000	7	4.17	4	2.16517431122296	1.75	1.30705411815159
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	OmniPath	50000	10	8.27	8	2.96053162029178	1.25	0.584354508542455
+Sympathetic_noradrenergic_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	18	19.48	19	3.47132554078424	0.947368421052632	-0.426350102464213

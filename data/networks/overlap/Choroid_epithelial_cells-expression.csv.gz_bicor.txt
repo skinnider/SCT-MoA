@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Choroid_epithelial_cells-expression.csv.gz	bicor	HIPPIE	20000	424	79.07	79	7.89483273023462	5.36708860759494	43.6906026747129
+Choroid_epithelial_cells-expression.csv.gz	bicor	HIPPIE	50000	653	182.75	182.5	12.1042400117738	3.57808219178082	38.8500227641378
+Choroid_epithelial_cells-expression.csv.gz	bicor	HIPPIE	1e+05	926	352.64	352	16.8813566403948	2.63068181818182	33.9640949607111
+Choroid_epithelial_cells-expression.csv.gz	bicor	Reactome	20000	681	65.5	66	6.69916322228291	10.3181818181818	91.8771463804181
+Choroid_epithelial_cells-expression.csv.gz	bicor	Reactome	50000	1058	192.35	192.5	12.8325462174988	5.4961038961039	67.4573841643038
+Choroid_epithelial_cells-expression.csv.gz	bicor	Reactome	1e+05	1462	395.7	397.5	17.6866667808884	3.67798742138365	60.2883524187953
+Choroid_epithelial_cells-expression.csv.gz	bicor	STRING	20000	300	29.16	28.5	5.34226524798217	10.5263157894737	50.6975950140812
+Choroid_epithelial_cells-expression.csv.gz	bicor	STRING	50000	496	72.48	72.5	7.71261592745577	6.84137931034483	54.9126267901311
+Choroid_epithelial_cells-expression.csv.gz	bicor	STRING	1e+05	688	141.97	142.5	10.5672019747783	4.8280701754386	51.6721456922335
+Choroid_epithelial_cells-expression.csv.gz	bicor	OmniPath	20000	413	19.53	19	3.72123309637756	21.7368421052632	105.736456118007
+Choroid_epithelial_cells-expression.csv.gz	bicor	OmniPath	50000	515	35.51	35.5	5.62730536372122	14.5070422535211	85.2077449166403
+Choroid_epithelial_cells-expression.csv.gz	bicor	OmniPath	1e+05	584	60.7	60.5	6.69312929786806	9.65289256198347	78.1846542493486

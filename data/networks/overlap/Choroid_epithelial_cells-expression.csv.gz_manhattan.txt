@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Choroid_epithelial_cells-expression.csv.gz	manhattan	HIPPIE	20000	43	39.46	39	5.9669459897375	1.1025641025641	0.593268316168508
+Choroid_epithelial_cells-expression.csv.gz	manhattan	HIPPIE	50000	122	104.24	103	10.2524892271846	1.18446601941748	1.73226224446149
+Choroid_epithelial_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	258	220.99	222	14.6683848855801	1.16216216216216	2.5231135049083
+Choroid_epithelial_cells-expression.csv.gz	manhattan	Reactome	20000	85	55.49	56	6.64313270386887	1.51785714285714	4.44218131948708
+Choroid_epithelial_cells-expression.csv.gz	manhattan	Reactome	50000	222	146.8	146	11.4996706145187	1.52054794520548	6.53931773533216
+Choroid_epithelial_cells-expression.csv.gz	manhattan	Reactome	1e+05	479	301.49	300.5	13.7278710820158	1.59400998336106	12.9306284229714
+Choroid_epithelial_cells-expression.csv.gz	manhattan	STRING	20000	28	15.42	15	3.4087824776301	1.86666666666667	3.69046722181758
+Choroid_epithelial_cells-expression.csv.gz	manhattan	STRING	50000	61	39.4	39	5.85687888751597	1.56410256410256	3.68797108747472
+Choroid_epithelial_cells-expression.csv.gz	manhattan	STRING	1e+05	112	78.74	78	9.2699362010597	1.43589743589744	3.58794270840805
+Choroid_epithelial_cells-expression.csv.gz	manhattan	OmniPath	20000	5	4.51	4	1.98221893825882	1.25	0.247197718951478
+Choroid_epithelial_cells-expression.csv.gz	manhattan	OmniPath	50000	19	13.48	13	3.12526362524391	1.46153846153846	1.76625099892787
+Choroid_epithelial_cells-expression.csv.gz	manhattan	OmniPath	1e+05	49	31.2	32	4.77154867602509	1.53125	3.73044502080364

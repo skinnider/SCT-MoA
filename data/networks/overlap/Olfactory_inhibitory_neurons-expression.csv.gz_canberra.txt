@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	HIPPIE	20000	441	106.42	105.5	9.46677336687628	4.18009478672986	35.3425593952293
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	HIPPIE	50000	699	256.83	256	15.3003961129155	2.73046875	28.8992518060856
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	988	464.31	462	22.3691232900996	2.13852813852814	23.4112885520096
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	Reactome	20000	587	54.49	54	7.63232757698621	10.8703703703704	69.7703282031132
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	Reactome	50000	961	152.93	153	10.9399231803482	6.28104575163399	73.8643212277367
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	Reactome	1e+05	1303	341.45	341.5	16.8944285837585	3.81551976573938	56.9152129196241
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	STRING	20000	259	25.73	26	4.94179250184719	9.96153846153846	47.2035197578219
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	STRING	50000	420	70.14	70	8.23152354051058	6	42.5024599976178
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	STRING	1e+05	600	146.43	147.5	11.5673303451199	4.06779661016949	39.2112947817173
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	OmniPath	20000	412	25.78	26	4.31951175692136	15.8461538461538	89.4128831530882
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	OmniPath	50000	492	53.16	52	7.18685669057823	9.46153846153846	61.0614652404725
+Olfactory_inhibitory_neurons-expression.csv.gz	canberra	OmniPath	1e+05	544	94.09	94	8.76643622234281	5.78723404255319	51.321881388166

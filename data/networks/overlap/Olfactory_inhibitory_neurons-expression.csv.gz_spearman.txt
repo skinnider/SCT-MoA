@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	HIPPIE	20000	408	60.62	60.5	6.75364473241798	6.74380165289256	51.4359303403318
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	HIPPIE	50000	637	159.4	160	12.4194373561134	3.98125	38.4558483855072
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	903	325.82	324.5	18.0058239736397	2.78274268104777	32.0551839696415
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	Reactome	20000	704	46.43	46	6.19425442477042	15.304347826087	106.158054691848
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	Reactome	50000	1073	130.92	131	11.1759843531846	8.19083969465649	84.2950356969278
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	Reactome	1e+05	1435	285.7	286.5	14.241424852106	5.0087260034904	80.7011947143789
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	STRING	20000	355	24.51	24	4.29351166578623	14.7916666666667	76.9742871863097
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	STRING	50000	565	72.05	72	8.20491968703577	7.84722222222222	60.0798080667247
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	STRING	1e+05	774	147.93	149	12.1972467501001	5.19463087248322	51.3287968036607
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	OmniPath	20000	437	24.83	25	4.48804247445646	17.48	91.837366144784
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	OmniPath	50000	527	49.63	49	6.73398586697104	10.7551020408163	70.8896646696887
+Olfactory_inhibitory_neurons-expression.csv.gz	spearman	OmniPath	1e+05	591	88.39	87	8.87158100312168	6.79310344827586	56.6539379872815

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	HIPPIE	20000	48	32.54	32	5.64330299442345	1.5	2.73953038057271
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	HIPPIE	50000	93	78.59	78	9.83715385462665	1.19230769230769	1.46485459239032
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	HIPPIE	1e+05	181	151.3	151.5	13.0124260736894	1.19471947194719	2.28243371618857
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	Reactome	20000	114	60.97	61	8.42129935510446	1.86885245901639	6.29712800410741
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	Reactome	50000	215	146.13	147	12.0852652583068	1.46258503401361	5.6986750830862
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	Reactome	1e+05	428	288.55	290	16.1216179602596	1.47586206896552	8.64987623101784
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	STRING	20000	31	19.67	20	3.77138347736389	1.55	3.00420258719472
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	STRING	50000	64	39.57	39.5	4.99546258765357	1.62025316455696	4.8904379867401
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	STRING	1e+05	117	73.45	73	7.30348609164891	1.6027397260274	5.96290585803905
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	OmniPath	20000	16	4.78	5	2.20916365179315	3.2	5.07884510542842
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	OmniPath	50000	33	11.48	11	3.12526362524391	3	6.88581911176228
+Olfactory_ensheathing_cells-expression.csv.gz	euclidean	OmniPath	1e+05	49	21.65	21.5	4.52908669188682	2.27906976744186	6.03874508496237

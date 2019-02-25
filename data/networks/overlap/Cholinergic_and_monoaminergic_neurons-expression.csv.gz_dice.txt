@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	HIPPIE	20000	511	152.86	153.5	10.2079588675907	3.32899022801303	35.0843890189506
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	HIPPIE	50000	721	292.31	294	14.0242898954174	2.45238095238095	30.5676795899719
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	HIPPIE	1e+05	932	496.51	496.5	20.6625093570286	1.87713997985901	21.0763364930728
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	Reactome	20000	667	114.99	114	9.78505869871887	5.85087719298246	56.4135604084085
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	Reactome	50000	968	268.81	269	14.2081887044981	3.59851301115242	49.2103542922856
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	Reactome	1e+05	1504	543.42	545	21.0517304166511	2.75963302752294	45.6295031804235
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	STRING	20000	274	39.92	40	5.70075309573971	6.85	41.0612415708607
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	STRING	50000	396	84.41	85	8.82157021227519	4.65882352941177	35.321376183848
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	STRING	1e+05	572	157.19	158.5	13.8218791571314	3.60883280757098	30.0111146454336
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	OmniPath	20000	433	37.91	38	5.91026328696211	11.3947368421053	66.8481217869868
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	OmniPath	50000	496	70.04	70	7.95939188581133	7.08571428571429	53.5166512858011
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	dice	OmniPath	1e+05	542	110.86	110.5	10.1314790967	4.90497737556561	42.5544973132729

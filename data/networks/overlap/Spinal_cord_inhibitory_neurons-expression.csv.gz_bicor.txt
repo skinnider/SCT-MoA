@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	20000	373	111.2	111	9.58323451859464	3.36036036036036	27.3185425538759
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	50000	615	245.87	244.5	14.1261667078718	2.51533742331288	26.1309389612613
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	940	449.39	451	19.0744924605155	2.08425720620843	25.7207367910612
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	Reactome	20000	594	80.42	80.5	7.70042632953304	7.37888198757764	66.6950085646939
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	Reactome	50000	1018	219.17	219	14.2148414402594	4.64840182648402	56.1968983866077
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	Reactome	1e+05	1497	447.18	448	19.8256949895377	3.34151785714286	52.9524942532407
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	STRING	20000	255	29.21	29	4.73818573299993	8.79310344827586	47.6532607042915
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	STRING	50000	423	71.05	70	7.89498626223048	6.04285714285714	44.5789249417348
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	STRING	1e+05	632	134.72	135	11.2789067455023	4.68148148148148	44.0893795135154
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	20000	314	21.02	21	4.1729770396849	14.952380952381	70.2088694027712
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	50000	433	43.11	43	6.61020790027428	10.0697674418605	58.9830162503395
+Spinal_cord_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	1e+05	535	76.71	77	8.2306338354548	6.94805194805195	55.68100940487

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	HIPPIE	20000	67	45.99	46	6.13895493359967	1.45652173913043	3.42240661924529
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	HIPPIE	50000	151	113.21	114.5	10.9001853380592	1.31877729257642	3.46691352742894
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	270	216.68	215	16.0245266558939	1.25581395348837	3.32739937627977
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	Reactome	20000	101	48.19	48	5.95894201171566	2.10416666666667	8.86231144659105
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	Reactome	50000	231	118.42	119	9.86799745325128	1.94117647058824	11.408596377668
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	Reactome	1e+05	411	228.34	228	14.1715463966614	1.80263157894737	12.8892073516431
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	STRING	20000	30	14.89	15	3.49861444436266	2	4.31885257443753
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	STRING	50000	63	32.29	32	5.12331765932817	1.96875	5.99416277538158
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	STRING	1e+05	115	59.4	59.5	6.43067145433005	1.9327731092437	8.64606447318376
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	OmniPath	20000	12	7.23	7	2.47759658711519	1.71428571428571	1.92525289419856
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	OmniPath	50000	27	18.68	19	3.80823138249585	1.42105263157895	2.18474119987615
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	46	33.76	33	5.59603033904888	1.39393939393939	2.18726476777471

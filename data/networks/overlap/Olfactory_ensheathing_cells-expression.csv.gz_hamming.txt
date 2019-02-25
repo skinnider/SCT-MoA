@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	HIPPIE	20000	49	41.53	41	6.78896162899747	1.19512195121951	1.10031554282081
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	HIPPIE	50000	114	95.12	96	9.5444520878134	1.1875	1.97811250203733
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	HIPPIE	1e+05	215	178.4	179.5	14.5484214145922	1.19777158774373	2.51573685948427
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	Reactome	20000	84	57.24	57	8.02662236975595	1.47368421052632	3.33390544207372
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	Reactome	50000	203	138.16	136.5	11.2301182342643	1.48717948717949	5.77375933604743
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	Reactome	1e+05	385	269.95	269	15.5195380281135	1.43122676579926	7.41323612800768
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	STRING	20000	48	24.37	25	4.53862213772979	1.92	5.20642593344854
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	STRING	50000	87	49.39	49	5.97958648615893	1.77551020408163	6.28973259054896
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	STRING	1e+05	133	81.55	81	8.05583419929089	1.64197530864198	6.38667563497383
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	OmniPath	20000	18	6.64	6	2.57226858173202	3	4.41633509061904
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	OmniPath	50000	44	14.74	15	3.46882217369632	2.93333333333333	8.43513980678376
+Olfactory_ensheathing_cells-expression.csv.gz	hamming	OmniPath	1e+05	69	25.1	26	4.78950873674889	2.65384615384615	9.16586698405299

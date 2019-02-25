@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	cosine	HIPPIE	20000	326	75.66	76	7.2226076043255	4.28947368421053	34.660612027445
+Cerebellum_neurons-expression.csv.gz	cosine	HIPPIE	50000	597	185.31	185	13.259412513457	3.22702702702703	31.0488869384051
+Cerebellum_neurons-expression.csv.gz	cosine	HIPPIE	1e+05	830	341.93	341	18.5696912829329	2.43401759530792	26.2831509993156
+Cerebellum_neurons-expression.csv.gz	cosine	Reactome	20000	567	70.76	71.5	8.16263969979607	7.93006993006993	60.7940590606244
+Cerebellum_neurons-expression.csv.gz	cosine	Reactome	50000	926	164.46	164	11.6830361350692	5.64634146341463	65.1833984929712
+Cerebellum_neurons-expression.csv.gz	cosine	Reactome	1e+05	1290	314.72	317.5	15.4724127257372	4.06299212598425	63.0334788302081
+Cerebellum_neurons-expression.csv.gz	cosine	STRING	20000	252	38.95	39	6.30756320105899	6.46153846153846	33.7769108622218
+Cerebellum_neurons-expression.csv.gz	cosine	STRING	50000	460	92.71	93	8.12689138824702	4.94623655913978	45.1944024416481
+Cerebellum_neurons-expression.csv.gz	cosine	STRING	1e+05	664	165.96	167	12.229224807564	3.97604790419162	40.7253941142657
+Cerebellum_neurons-expression.csv.gz	cosine	OmniPath	20000	286	15.27	15	3.62052231289655	19.0666666666667	74.7765036651316
+Cerebellum_neurons-expression.csv.gz	cosine	OmniPath	50000	436	35.12	35	5.20931566493812	12.4571428571429	76.954445801426
+Cerebellum_neurons-expression.csv.gz	cosine	OmniPath	1e+05	506	61.03	60	6.68702195497088	8.43333333333333	66.5423267631454

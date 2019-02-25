@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	HIPPIE	20000	441	122.29	122	10.6118810868771	3.61475409836066	30.0333180696987
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	HIPPIE	50000	739	278.05	276.5	14.8883894835587	2.67269439421338	30.9603668354478
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	HIPPIE	1e+05	1106	504.28	502	19.5288339010642	2.20318725099602	30.8118755604353
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	Reactome	20000	651	99.86	100	10.1424400865418	6.51	54.3399808426097
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	Reactome	50000	1132	263.27	260.5	14.2961851236933	4.34548944337812	60.7665606232421
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	Reactome	1e+05	1712	542.89	540	18.9746747752968	3.17037037037037	61.6142312764207
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	STRING	20000	290	39.37	39.5	5.83901022469052	7.34177215189873	42.9233706322691
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	STRING	50000	493	96.81	97	8.25563168664001	5.08247422680412	47.9902707676688
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	STRING	1e+05	713	178.42	179	12.1007387703346	3.98324022346369	44.1774680162952
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	OmniPath	20000	342	24.88	25	4.46598818908542	13.68	71.0078008658912
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	OmniPath	50000	455	53.16	53	6.58084149235299	8.58490566037736	61.0620998039449
+Spinal_cord_excitatory_neurons-expression.csv.gz	MI	OmniPath	1e+05	579	94.7	94	9.1104335791443	6.15957446808511	53.158831113007

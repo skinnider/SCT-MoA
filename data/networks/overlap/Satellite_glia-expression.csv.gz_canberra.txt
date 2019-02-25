@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Satellite_glia-expression.csv.gz	canberra	HIPPIE	20000	306	104.26	105	10.1758478166627	2.91428571428571	19.8253751072865
+Satellite_glia-expression.csv.gz	canberra	HIPPIE	50000	477	211.8	210.5	14.4515910836311	2.26603325415677	18.3509205640606
+Satellite_glia-expression.csv.gz	canberra	HIPPIE	1e+05	754	399.68	399.5	18.5150116544834	1.88735919899875	19.1369039680945
+Satellite_glia-expression.csv.gz	canberra	Reactome	20000	391	118.65	119	10.4285689576783	3.28571428571429	26.115759612394
+Satellite_glia-expression.csv.gz	canberra	Reactome	50000	686	274.89	276.5	16.9818054744399	2.48101265822785	24.2088510917629
+Satellite_glia-expression.csv.gz	canberra	Reactome	1e+05	1159	498.44	499.5	22.6668092687136	2.32032032032032	29.142169600013
+Satellite_glia-expression.csv.gz	canberra	STRING	20000	168	42.52	42	6.80682960657377	4	18.4344264881871
+Satellite_glia-expression.csv.gz	canberra	STRING	50000	279	91.95	92.5	9.53396374266573	3.01621621621622	19.6193320059449
+Satellite_glia-expression.csv.gz	canberra	STRING	1e+05	454	158.81	158.5	12.7918021412232	2.86435331230284	23.0764982713978
+Satellite_glia-expression.csv.gz	canberra	OmniPath	20000	204	20.76	20	4.8889072543273	10.2	37.4807682918937
+Satellite_glia-expression.csv.gz	canberra	OmniPath	50000	283	40.15	41	6.51397099946094	6.90243902439024	37.2814063833101
+Satellite_glia-expression.csv.gz	canberra	OmniPath	1e+05	399	70.76	71	7.87800928553847	5.61971830985915	41.6653481993915

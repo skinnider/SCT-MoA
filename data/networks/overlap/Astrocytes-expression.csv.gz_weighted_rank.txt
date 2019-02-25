@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Astrocytes-expression.csv.gz	weighted_rank	HIPPIE	20000	375	62.47	62	8.19516363904389	6.04838709677419	38.1359071966575
+Astrocytes-expression.csv.gz	weighted_rank	HIPPIE	50000	527	149.69	150.5	13.2334859925551	3.50166112956811	28.5117617695192
+Astrocytes-expression.csv.gz	weighted_rank	HIPPIE	1e+05	702	287.03	286.5	17.1172162137741	2.45026178010471	24.2428438606785
+Astrocytes-expression.csv.gz	weighted_rank	Reactome	20000	639	80.55	81	8.84704481848046	7.88888888888889	63.1227727967945
+Astrocytes-expression.csv.gz	weighted_rank	Reactome	50000	883	197.76	196.5	13.5304519995871	4.49363867684478	50.6442800300322
+Astrocytes-expression.csv.gz	weighted_rank	Reactome	1e+05	1157	378.27	376.5	17.4835304896877	3.0730411686587	44.5407751288745
+Astrocytes-expression.csv.gz	weighted_rank	STRING	20000	276	29.94	30	5.41941888121789	9.2	45.4033920228553
+Astrocytes-expression.csv.gz	weighted_rank	STRING	50000	419	70.27	70	8.14372783375667	5.98571428571429	42.8219124114727
+Astrocytes-expression.csv.gz	weighted_rank	STRING	1e+05	572	136.24	136	11.5672124576496	4.20588235294118	37.6719976049047
+Astrocytes-expression.csv.gz	weighted_rank	OmniPath	20000	421	23.64	24	4.32404599158863	17.5416666666667	91.8954147973833
+Astrocytes-expression.csv.gz	weighted_rank	OmniPath	50000	485	47.14	47	6.39605307588164	10.3191489361702	68.4578434239533
+Astrocytes-expression.csv.gz	weighted_rank	OmniPath	1e+05	514	81.22	80.5	9.43620793550143	6.38509316770186	45.8637625366193

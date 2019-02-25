@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Satellite_glia-expression.csv.gz	weighted_rank	HIPPIE	20000	423	134.66	133.5	12.0069171982679	3.1685393258427	24.0144905839441
+Satellite_glia-expression.csv.gz	weighted_rank	HIPPIE	50000	706	279.07	279	14.660642702298	2.53046594982079	29.1208242823542
+Satellite_glia-expression.csv.gz	weighted_rank	HIPPIE	1e+05	1016	475.43	474	21.736835096214	2.14345991561181	24.8688457913615
+Satellite_glia-expression.csv.gz	weighted_rank	Reactome	20000	540	125.5	124	10.6472360903493	4.35483870967742	38.9302910617061
+Satellite_glia-expression.csv.gz	weighted_rank	Reactome	50000	910	292.2	291.5	15.1324121999732	3.12178387650086	40.8262735534717
+Satellite_glia-expression.csv.gz	weighted_rank	Reactome	1e+05	1357	538.31	537.5	21.5808065679022	2.5246511627907	37.9360241900162
+Satellite_glia-expression.csv.gz	weighted_rank	STRING	20000	244	60.02	60.5	7.17315421653135	4.03305785123967	25.6484099527649
+Satellite_glia-expression.csv.gz	weighted_rank	STRING	50000	400	119.72	120	9.7318388225806	3.33333333333333	28.8003125729612
+Satellite_glia-expression.csv.gz	weighted_rank	STRING	1e+05	586	204.43	204.5	13.1565976075147	2.86552567237164	29.0021790878561
+Satellite_glia-expression.csv.gz	weighted_rank	OmniPath	20000	323	32.75	33	4.91416217670824	9.78787878787879	59.0639847776502
+Satellite_glia-expression.csv.gz	weighted_rank	OmniPath	50000	414	59.35	59	7.18215380880508	7.01694915254237	49.3793379313613
+Satellite_glia-expression.csv.gz	weighted_rank	OmniPath	1e+05	489	94.17	94	9.83403181905478	5.20212765957447	40.1493514831794

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_neurons-expression.csv.gz	binomial	HIPPIE	20000	86	47.31	47.5	6.42076020547113	1.81052631578947	6.02576622734365
+Enteric_neurons-expression.csv.gz	binomial	HIPPIE	50000	205	116.7	116	10.7219212811695	1.76724137931034	8.2354643057376
+Enteric_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	368	229.12	228	13.4361791105548	1.6140350877193	10.3362718565506
+Enteric_neurons-expression.csv.gz	binomial	Reactome	20000	218	104.04	103	8.07154873552152	2.11650485436893	14.1187278593117
+Enteric_neurons-expression.csv.gz	binomial	Reactome	50000	465	231.71	230	12.4090997890966	2.02173913043478	18.7999132866175
+Enteric_neurons-expression.csv.gz	binomial	Reactome	1e+05	805	424.24	424	16.723611808434	1.89858490566038	22.7678090332124
+Enteric_neurons-expression.csv.gz	binomial	STRING	20000	79	10.89	11	3.25015928125613	7.18181818181818	20.9558960364788
+Enteric_neurons-expression.csv.gz	binomial	STRING	50000	154	29.15	29	4.84377138313951	5.31034482758621	25.7753700834407
+Enteric_neurons-expression.csv.gz	binomial	STRING	1e+05	254	60.63	60	7.0990894280232	4.23333333333333	27.2387046198748
+Enteric_neurons-expression.csv.gz	binomial	OmniPath	20000	43	5.29	5	2.29753930732139	8.6	16.4132121177785
+Enteric_neurons-expression.csv.gz	binomial	OmniPath	50000	76	11.85	12	3.63311091896393	6.33333333333333	17.657044178077
+Enteric_neurons-expression.csv.gz	binomial	OmniPath	1e+05	107	23.56	23.5	4.49987654151632	4.5531914893617	18.5427309460991

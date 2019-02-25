@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	HIPPIE	20000	49	45.88	46	6.24464214791813	1.06521739130435	0.499628309532542
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	HIPPIE	50000	114	103.15	103.5	9.99229501145556	1.10144927536232	1.08583663588406
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	210	199.3	198	14.3643076176102	1.06060606060606	0.744901897456035
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	Reactome	20000	59	34.16	34	5.11626442007854	1.73529411764706	4.85510481094694
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	Reactome	50000	146	92.9	92.5	8.30540775517963	1.57837837837838	6.39342481010453
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	Reactome	1e+05	311	199.94	200	13.3339545309838	1.555	8.32911194814205
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	STRING	20000	18	9.35	9	3.22983253154373	2	2.67815743247395
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	STRING	50000	55	27.29	27	5.35090854175459	2.03703703703704	5.17855982470479
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	STRING	1e+05	95	56.58	56	6.99087428240011	1.69642857142857	5.49573607649109
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	OmniPath	20000	3	3.08	3	1.56140315036822	1	-0.0512359668168557
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	OmniPath	50000	9	9.2	9	2.90245455162392	1	-0.0689071943910713
+Olfactory_inhibitory_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	26	22.6	23	4.36005745490825	1.1304347826087	0.77980623768444

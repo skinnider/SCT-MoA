@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	HIPPIE	20000	410	121.97	121	9.95591799033635	3.38842975206612	28.9305315973449
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	HIPPIE	50000	632	251.13	252	14.8185353493181	2.50793650793651	25.7022702326331
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	HIPPIE	1e+05	914	445.99	447	19.8740961296281	2.04474272930649	23.5487438999702
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	Reactome	20000	646	108.34	109	8.08942444669507	5.92660550458716	66.4645554875861
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	Reactome	50000	989	252.06	252.5	13.4995847298644	3.91683168316832	54.5898273722234
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	Reactome	1e+05	1519	499.9	497	16.7985689626206	3.05633802816901	60.6658818538446
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	STRING	20000	264	40.91	41	5.8449581139248	6.4390243902439	38.1679381873617
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	STRING	50000	383	84.59	85	9.44531843846677	4.50588235294118	31.5934292680597
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	STRING	1e+05	565	159.18	159	12.3651350844447	3.55345911949686	32.819698064643
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	OmniPath	20000	383	37.17	36	6.17596350803057	10.6388888888889	55.996121018254
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	OmniPath	50000	473	68.86	69	8.7882152495673	6.85507246376812	45.9865841383321
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	kendall	OmniPath	1e+05	552	111.6	111.5	10.6988151897603	4.95067264573991	41.1634365290747

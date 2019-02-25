@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Choroid_epithelial_cells-expression.csv.gz	kendall	HIPPIE	20000	429	78.84	77.5	7.9018218075826	5.53548387096774	44.313831484277
+Choroid_epithelial_cells-expression.csv.gz	kendall	HIPPIE	50000	671	190.39	189	11.4167120105271	3.55026455026455	42.0970590794303
+Choroid_epithelial_cells-expression.csv.gz	kendall	HIPPIE	1e+05	930	366.11	364	18.0414197967574	2.55494505494505	31.2553006555144
+Choroid_epithelial_cells-expression.csv.gz	kendall	Reactome	20000	720	67.61	68	6.35625040349412	10.5882352941176	102.637554939839
+Choroid_epithelial_cells-expression.csv.gz	kendall	Reactome	50000	1073	184.63	185	10.5988897836738	5.8	83.8172693680067
+Choroid_epithelial_cells-expression.csv.gz	kendall	Reactome	1e+05	1426	380.84	379.5	16.6112533354271	3.75757575757576	62.9187923930442
+Choroid_epithelial_cells-expression.csv.gz	kendall	STRING	20000	322	32.3	32	5.06223889462584	10.0625	57.2276429521235
+Choroid_epithelial_cells-expression.csv.gz	kendall	STRING	50000	491	75.75	75	7.25909391346086	6.54666666666667	57.2041090734456
+Choroid_epithelial_cells-expression.csv.gz	kendall	STRING	1e+05	670	149.09	149	10.6960721573837	4.49664429530201	48.701055147651
+Choroid_epithelial_cells-expression.csv.gz	kendall	OmniPath	20000	425	19.18	19	3.54588963919259	22.3684210526316	114.448006366156
+Choroid_epithelial_cells-expression.csv.gz	kendall	OmniPath	50000	516	35.79	35.5	5.47223478437773	14.5352112676056	87.7539102252914
+Choroid_epithelial_cells-expression.csv.gz	kendall	OmniPath	1e+05	563	61.03	61.5	6.67795256834387	9.15447154471545	75.1682487802528

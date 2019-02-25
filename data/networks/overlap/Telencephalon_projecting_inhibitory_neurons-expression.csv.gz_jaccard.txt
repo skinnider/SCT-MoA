@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	HIPPIE	20000	276	72.74	73	8.35164049692628	3.78082191780822	24.3377334159447
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	HIPPIE	50000	496	193.34	191.5	13.6235239215265	2.59007832898172	22.2159847733499
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	HIPPIE	1e+05	824	385.71	385	16.8500786797911	2.14025974025974	26.0111545072876
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	Reactome	20000	351	51.16	51	7.15869182790185	6.88235294117647	41.8847475500116
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	Reactome	50000	641	146.04	147	11.930709039358	4.36054421768707	41.4862183267722
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	Reactome	1e+05	1067	310.09	308.5	15.9520082013697	3.45867098865478	47.4491982730431
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	STRING	20000	167	27.31	27	4.99230721341659	6.18518518518519	27.9810504498981
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	STRING	50000	304	66.43	66.5	7.60283705685787	4.57142857142857	31.2475459125759
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	STRING	1e+05	503	130.19	130.5	11.6659696761499	3.8544061302682	31.9570520367612
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	OmniPath	20000	258	18.22	18	3.78348351056899	14.3333333333333	63.3754579160145
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	OmniPath	50000	337	46.96	47	5.58301898708047	7.17021276595745	51.950387536058
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	jaccard	OmniPath	1e+05	492	89.41	88	8.12166948056341	5.59090909090909	49.569857646075

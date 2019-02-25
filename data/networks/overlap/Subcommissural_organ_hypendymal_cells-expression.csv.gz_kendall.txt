@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	HIPPIE	20000	133	49.8	49	6.812051115783	2.71428571428571	12.2136488094213
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	HIPPIE	50000	281	120.35	120	11.2917016101439	2.34166666666667	14.2272622450172
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	HIPPIE	1e+05	507	243.59	245.5	15.6683396914564	2.06517311608961	16.8116089634967
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	Reactome	20000	213	59.85	60	6.73356585257092	3.55	22.7442640872854
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	Reactome	50000	424	141.95	142	10.8937708083217	2.98591549295775	25.8909430869009
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	Reactome	1e+05	756	279.74	280	14.2471829574208	2.7	33.4283627453478
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	STRING	20000	67	15.35	15	4.08341063625034	4.46666666666667	12.648740134406
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	STRING	50000	152	43.26	43	6.68424954046391	3.53488372093023	16.2680940233798
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	STRING	1e+05	268	91.95	91.5	8.44276631385135	2.92896174863388	20.8521701839798
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	OmniPath	20000	90	10.3	10	3.49458455501097	9	22.8067167199364
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	OmniPath	50000	173	23.28	23	4.92792496335369	7.52173913043478	30.3819561201493
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	kendall	OmniPath	1e+05	270	44.98	46	7.19705326905226	5.8695652173913	31.2655737824811

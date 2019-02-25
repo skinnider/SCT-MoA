@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	20000	34	36.72	37	5.35804879304835	0.918918918918919	-0.507647486064141
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	50000	97	93.25	94	9.78080474266517	1.03191489361702	0.383404034602797
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	197	181.69	182	12.3449535757685	1.08241758241758	1.24018287359553
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	20000	52	29.96	29	5.03105507339317	1.79310344827586	4.38079084376535
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	50000	139	95.88	95.5	9.16876559991925	1.45549738219895	4.70292315035077
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	1e+05	359	215.79	215.5	13.5216212942177	1.66589327146172	10.5911855452749
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	STRING	20000	24	9.91	10	2.99189139866643	2.4	4.70939553697715
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	STRING	50000	55	26.49	26	4.76836163973253	2.11538461538462	5.97899281850594
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	STRING	1e+05	104	52.25	51	6.36177822799744	2.03921568627451	8.13451807739137
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	20000	2	2.25	2	1.6598344812211	1	-0.150617427718505
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	50000	16	9.59	9	3.15938556870116	1.77777777777778	2.02887550778906
+Olfactory_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	38	25.47	25	4.85643382482964	1.52	2.58008251568002

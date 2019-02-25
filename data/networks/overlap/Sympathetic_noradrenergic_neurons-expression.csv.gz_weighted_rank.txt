@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	HIPPIE	20000	524	128.92	128	10.7456169124105	4.09375	36.7666187265347
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	HIPPIE	50000	722	272.86	273	16.1332957675496	2.64468864468864	27.8393210210277
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	985	460.84	462	18.7512800909833	2.13203463203463	27.9532915863194
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	Reactome	20000	734	97.36	97	9.11378132835159	7.56701030927835	69.8546494658051
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	Reactome	50000	1087	243.27	244	13.5838994118892	4.45491803278689	62.1125035173283
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1578	472.74	471.5	16.6858192983313	3.34676564156946	66.23948037784
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	STRING	20000	314	32.94	33	5.42686917945413	9.51515151515152	51.7904505721421
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	STRING	50000	433	73.47	73	8.04840783552056	5.93150684931507	44.6709470180255
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	STRING	1e+05	590	135.82	136.5	11.4604105555172	4.32234432234432	39.6303428921533
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	OmniPath	20000	425	40.22	40	6.01274740140739	10.625	63.9940403799327
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	OmniPath	50000	497	67.2	67	7.57854494176444	7.41791044776119	56.7127335527727
+Sympathetic_noradrenergic_neurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	563	99.28	100	8.8683753195318	5.63	52.2891717244644

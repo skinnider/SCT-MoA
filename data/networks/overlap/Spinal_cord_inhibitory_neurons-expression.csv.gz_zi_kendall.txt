@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	HIPPIE	20000	385	105.84	106	8.94621414201267	3.63207547169811	31.2042608827153
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	HIPPIE	50000	649	258.11	257	14.5954849805747	2.52529182879377	26.7815698156135
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	HIPPIE	1e+05	948	463.26	460	20.0416838341765	2.06086956521739	24.1865905085973
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	Reactome	20000	619	73.33	72	8.21067917563782	8.59722222222222	66.4585703968407
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	Reactome	50000	980	184.46	184	12.5990379623112	5.32608695652174	63.142916338516
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	Reactome	1e+05	1355	385.79	385.5	17.4357666764602	3.51491569390402	55.5874609923817
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	STRING	20000	262	25.86	26	4.70336221884049	10.0769230769231	50.2066370848671
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	STRING	50000	425	64.3	64	7.71002233748025	6.640625	46.7832626432937
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	STRING	1e+05	599	133.08	134	12.7141693008274	4.47014925373134	36.6457287909231
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	OmniPath	20000	337	20.28	20.5	4.72491782836998	16.4390243902439	67.0318535696659
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	OmniPath	50000	466	45.6	45	6.12331197106186	10.3555555555556	68.6556559565749
+Spinal_cord_inhibitory_neurons-expression.csv.gz	zi_kendall	OmniPath	1e+05	534	75.84	74.5	7.9184224528257	7.16778523489933	57.8600097089421

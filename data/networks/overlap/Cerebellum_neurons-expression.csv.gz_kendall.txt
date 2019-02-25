@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	kendall	HIPPIE	20000	130	36.27	36	5.20072838721421	3.61111111111111	18.0224755113979
+Cerebellum_neurons-expression.csv.gz	kendall	HIPPIE	50000	394	125.58	126	9.75475020260137	3.12698412698413	27.5168501935004
+Cerebellum_neurons-expression.csv.gz	kendall	HIPPIE	1e+05	725	269.64	267.5	14.9568537716819	2.71028037383178	30.4449055229879
+Cerebellum_neurons-expression.csv.gz	kendall	Reactome	20000	229	32.74	32	5.12198667264446	7.15625	38.3171633476101
+Cerebellum_neurons-expression.csv.gz	kendall	Reactome	50000	693	103.69	105	9.11619161135556	6.6	64.6443191547145
+Cerebellum_neurons-expression.csv.gz	kendall	Reactome	1e+05	1118	231.14	231	13.3098429439238	4.83982683982684	66.6318906794363
+Cerebellum_neurons-expression.csv.gz	kendall	STRING	20000	189	36.96	37	6.1953387495941	5.10810810810811	24.541030950077
+Cerebellum_neurons-expression.csv.gz	kendall	STRING	50000	420	96.48	97	9.11816922967599	4.32989690721649	35.4808067114034
+Cerebellum_neurons-expression.csv.gz	kendall	STRING	1e+05	637	174.47	177	11.4481307194536	3.59887005649718	40.4022290917793
+Cerebellum_neurons-expression.csv.gz	kendall	OmniPath	20000	120	8.48	8	2.38886304895586	15	46.6832956576327
+Cerebellum_neurons-expression.csv.gz	kendall	OmniPath	50000	329	26.39	27	4.46963944493029	12.1851851851852	67.703447611023
+Cerebellum_neurons-expression.csv.gz	kendall	OmniPath	1e+05	470	52.42	52	6.27513934007634	9.03846153846154	66.5451358718227

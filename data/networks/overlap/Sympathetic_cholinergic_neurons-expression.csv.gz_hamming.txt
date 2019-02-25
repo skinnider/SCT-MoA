@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	HIPPIE	20000	294	107.61	108	9.59786908168115	2.72222222222222	19.4199356559
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	HIPPIE	50000	644	272.22	273	13.9055835017899	2.35897435897436	26.7360229761048
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	946	461.34	460.5	16.7634884631614	2.0542888165038	28.9116433649872
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	Reactome	20000	346	87.94	88	8.41093564259283	3.93181818181818	30.6814855047979
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	Reactome	50000	895	252.14	251.5	14.1357202101126	3.55864811133201	45.4776969581007
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	Reactome	1e+05	1399	493.54	493	17.4665163074722	2.83772819472617	51.8397592319336
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	STRING	20000	182	45.98	45.5	6.43064003915095	4	21.1518603392329
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	STRING	50000	368	86.82	85	8.63207549044419	4.32941176470588	32.5738578527574
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	STRING	1e+05	517	153.02	154	10.4446400153622	3.35714285714286	34.8484964024275
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	OmniPath	20000	194	19.59	19.5	4.24048548773807	9.94871794871795	41.1297245337426
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	OmniPath	50000	405	53.92	54	6.90290525866472	7.5	50.8597448240094
+Sympathetic_cholinergic_neurons-expression.csv.gz	hamming	OmniPath	1e+05	493	86.93	87	8.64362321149078	5.66666666666667	46.9791417400255

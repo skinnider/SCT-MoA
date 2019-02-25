@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	HIPPIE	20000	306	53.74	54	6.25973181727799	5.66666666666667	40.2988510312402
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	HIPPIE	50000	395	98.59	98	10.0323668113952	4.03061224489796	29.545371054747
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	HIPPIE	1e+05	517	177.08	176	13.7324212700963	2.9375	24.7531002227705
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	Reactome	20000	482	44.49	45	6.10926602081881	10.7111111111111	71.6141674808526
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	Reactome	50000	620	87.36	87.5	7.9639592204284	7.08571428571429	66.8813068045002
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	Reactome	1e+05	825	164.03	165	10.240003748421	5	64.5478279343324
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	STRING	20000	207	18.33	18	4.18041368597159	11.5	45.1318970256768
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	STRING	50000	280	33.92	33.5	6.03471439073779	8.35820895522388	40.7774061979949
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	STRING	1e+05	364	60.14	60	7.88813198815957	6.06666666666667	38.5211607077705
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	OmniPath	20000	347	15.57	16	3.91385779356926	21.6875	84.681155392146
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	OmniPath	50000	394	22.06	22.5	4.79650546194463	17.5111111111111	77.5439542289619
+Dentate_gyrus_granule_neurons-expression.csv.gz	phi_s	OmniPath	1e+05	444	32.59	32	5.63017663034552	13.875	73.0723078531111

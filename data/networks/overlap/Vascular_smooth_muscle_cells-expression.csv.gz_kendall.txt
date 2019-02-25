@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	HIPPIE	20000	507	105.78	104	9.00008978630859	4.875	44.5795552629216
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	HIPPIE	50000	733	258.34	258	15.7308292819861	2.84108527131783	30.1738701432321
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	HIPPIE	1e+05	1034	498.16	498.5	22.0420718012833	2.07422266800401	24.3098745358775
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	Reactome	20000	736	74.78	75	7.85420173209759	9.81333333333333	84.1867859464071
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	Reactome	50000	993	197.9	198	12.8302829904941	5.01515151515152	61.9705738828277
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	Reactome	1e+05	1392	420.7	420.5	18.1060289083024	3.31034482758621	53.6451148354577
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	STRING	20000	370	44.03	44	6.08102696005279	8.40909090909091	53.6044326297758
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	STRING	50000	514	106.79	106.5	9.01210745653206	4.82629107981221	45.1847697072065
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	STRING	1e+05	701	200.36	200	12.2264161766747	3.505	40.9474037825664
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	OmniPath	20000	492	32.9	33	4.98178500320737	14.9090909090909	92.1557232406503
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	OmniPath	50000	542	71.53	71	7.7361214932016	7.63380281690141	60.8147119216577
+Vascular_smooth_muscle_cells-expression.csv.gz	kendall	OmniPath	1e+05	601	133.99	135.5	10.4112361602184	4.43542435424354	44.8563448963399

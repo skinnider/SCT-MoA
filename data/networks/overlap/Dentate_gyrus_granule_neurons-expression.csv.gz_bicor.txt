@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	HIPPIE	20000	445	105.47	105	9.39208241665352	4.23809523809524	36.1506623278736
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	HIPPIE	50000	671	236.03	235	14.312850057472	2.85531914893617	30.3901737427148
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	941	421.45	420.5	16.6917235887621	2.23781212841855	31.1262043872925
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	Reactome	20000	663	71.25	71	8.48810814009693	9.33802816901408	69.7151815496595
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	Reactome	50000	971	191.89	191	13.6580867376559	5.08376963350785	57.0438608983174
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	Reactome	1e+05	1369	390.81	390	17.248448912844	3.51025641025641	56.7117660806934
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	STRING	20000	342	36.54	36	6.19941346199197	9.5	49.2724032479438
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	STRING	50000	497	93.45	93	10.5585189885856	5.34408602150538	38.2203224179699
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	STRING	1e+05	685	166.54	167.5	12.8844279984982	4.08955223880597	40.239271782995
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	OmniPath	20000	458	31.15	31	4.75750337717572	14.7741935483871	89.7214286904823
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	OmniPath	50000	521	58.75	59	6.55724597277506	8.83050847457627	70.4945341259439
+Dentate_gyrus_granule_neurons-expression.csv.gz	bicor	OmniPath	1e+05	584	92.31	91.5	9.18243272270866	6.38251366120219	53.5468121409726

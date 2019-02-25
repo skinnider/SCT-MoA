@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	HIPPIE	20000	65	47.12	47	6.82135683650321	1.38297872340426	2.62117939708396
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	HIPPIE	50000	131	103.29	104	10.162612206942	1.25961538461538	2.72666116110103
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	235	183.31	183	13.0884288475344	1.28415300546448	3.94928991112157
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	Reactome	20000	78	46.46	47	6.43604119491371	1.65957446808511	4.90052798681984
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	Reactome	50000	198	119.56	119.5	9.56986009418227	1.65690376569038	8.19656705824628
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	Reactome	1e+05	397	237.29	238	13.2385227592993	1.66806722689076	12.0640348552344
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	STRING	20000	22	10.16	10	3.31119923955663	2.2	3.57574375427357
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	STRING	50000	48	26.96	27	4.97452094033773	1.77777777777778	4.22955300668039
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	STRING	1e+05	103	50.57	50.5	6.43264244994923	2.03960396039604	8.15061623709767
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	OmniPath	20000	13	10.01	10	3.04011895035757	1.3	0.98351414823697
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	OmniPath	50000	23	19.99	19	4.53603974471747	1.21052631578947	0.66357443263264
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	43	30.63	30	5.0365432269333	1.43333333333333	2.45604960438947

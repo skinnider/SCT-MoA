@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	HIPPIE	20000	447	143.58	145	12.1082491289904	3.08275862068966	25.0589492145095
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	HIPPIE	50000	676	280.69	280	15.1988137495641	2.41428571428571	26.0092666778904
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	957	466.02	466	20.2793520905408	2.05364806866953	24.2108326640778
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	Reactome	20000	559	87.49	86	9.15025528153022	6.5	51.5297098816185
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	Reactome	50000	936	226.79	225.5	13.2438626914469	4.15077605321508	53.5500870496052
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	Reactome	1e+05	1359	420.47	420.5	19.9881050486119	3.23186682520809	46.9544260307547
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	STRING	20000	244	36.07	36	4.6909648810401	6.77777777777778	44.3256356150543
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	STRING	50000	387	75.84	77	7.96040707552577	5.02597402597403	39.0884532722779
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	STRING	1e+05	545	138.88	140	12.0799357814869	3.89285714285714	33.6193840220904
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	OmniPath	20000	361	28.97	29	4.93279071544944	12.448275862069	67.3107818987912
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	OmniPath	50000	434	50.25	50	6.63990842093352	8.68	57.7944718017734
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	canberra	OmniPath	1e+05	511	85.38	85	9.44818939417933	6.01176470588235	45.0477845270765

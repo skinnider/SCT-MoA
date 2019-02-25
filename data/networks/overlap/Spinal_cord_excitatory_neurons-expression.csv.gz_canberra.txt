@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	HIPPIE	20000	391	102.47	103	9.27629214501117	3.79611650485437	31.1040225436596
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	HIPPIE	50000	644	251.1	249	14.3234638325238	2.5863453815261	27.4305157323647
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	985	473.52	472	20.1165693803979	2.08686440677966	25.4258064746566
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	Reactome	20000	572	68.13	68	7.79361950896405	8.41176470588235	64.6516037151236
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	Reactome	50000	924	169.68	167.5	12.1363299662833	5.51641791044776	62.1538802995326
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	Reactome	1e+05	1325	361.43	360	18.5729547047487	3.68055555555556	51.8802751268023
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	STRING	20000	235	30.41	30.5	4.84110138566242	7.70491803278689	42.2610442751563
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	STRING	50000	379	62.32	62.5	7.02215829148753	6.064	45.0972460110859
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	STRING	1e+05	527	120.15	120.5	10.3790533033966	4.37344398340249	39.1991435159946
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	OmniPath	20000	354	22.81	23	4.82563650483205	15.3913043478261	68.6313607890627
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	OmniPath	50000	457	41.34	41	5.72292924924983	11.1463414634146	72.6306375453594
+Spinal_cord_excitatory_neurons-expression.csv.gz	canberra	OmniPath	1e+05	512	68.25	67	8.37670531409527	7.64179104477612	52.9742880238742

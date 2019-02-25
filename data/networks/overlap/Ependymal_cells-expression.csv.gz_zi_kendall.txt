@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Ependymal_cells-expression.csv.gz	zi_kendall	HIPPIE	20000	385	94.73	95	9.33317640560714	4.05263157894737	31.1008800632562
+Ependymal_cells-expression.csv.gz	zi_kendall	HIPPIE	50000	643	213.87	213	14.5849341112774	3.018779342723	29.4228274688047
+Ependymal_cells-expression.csv.gz	zi_kendall	HIPPIE	1e+05	877	385.65	386	20.1866917857415	2.2720207253886	24.3402933583726
+Ependymal_cells-expression.csv.gz	zi_kendall	Reactome	20000	546	68.63	68	9.03713438982723	8.02941176470588	52.823160463051
+Ependymal_cells-expression.csv.gz	zi_kendall	Reactome	50000	819	174.12	174	13.89955307762	4.70689655172414	46.3957363520081
+Ependymal_cells-expression.csv.gz	zi_kendall	Reactome	1e+05	1114	342.38	342	17.7774002485166	3.25730994152047	43.4045467398634
+Ependymal_cells-expression.csv.gz	zi_kendall	STRING	20000	226	35.88	36	5.52182080934406	6.27777777777778	34.4306717954842
+Ependymal_cells-expression.csv.gz	zi_kendall	STRING	50000	365	85.83	85	7.94686266791029	4.29411764705882	35.1295865634244
+Ependymal_cells-expression.csv.gz	zi_kendall	STRING	1e+05	513	163.57	164	12.374831903766	3.1280487804878	28.2371512370733
+Ependymal_cells-expression.csv.gz	zi_kendall	OmniPath	20000	352	21.63	22	3.90714186788215	16	84.5554144618445
+Ependymal_cells-expression.csv.gz	zi_kendall	OmniPath	50000	490	45.41	45	5.96470257160211	10.8888888888889	74.5368263820377
+Ependymal_cells-expression.csv.gz	zi_kendall	OmniPath	1e+05	524	76.47	75.5	8.57816702419284	6.94039735099338	52.1708190966484

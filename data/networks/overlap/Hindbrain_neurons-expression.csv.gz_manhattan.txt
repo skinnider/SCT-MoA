@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Hindbrain_neurons-expression.csv.gz	manhattan	HIPPIE	20000	61	44.06	44.5	6.67093802560136	1.37078651685393	2.53937301395825
+Hindbrain_neurons-expression.csv.gz	manhattan	HIPPIE	50000	142	104.02	104	9.58742863748085	1.36538461538462	3.96143756956083
+Hindbrain_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	280	199.97	198.5	13.0279071088323	1.41057934508816	6.14296673528961
+Hindbrain_neurons-expression.csv.gz	manhattan	Reactome	20000	53	29.43	30	4.6455257066245	1.76666666666667	5.07369918680878
+Hindbrain_neurons-expression.csv.gz	manhattan	Reactome	50000	149	79.32	79	8.35437343883762	1.88607594936709	8.34054169473359
+Hindbrain_neurons-expression.csv.gz	manhattan	Reactome	1e+05	298	173.6	173	12.4794781035656	1.72254335260116	9.96836558128634
+Hindbrain_neurons-expression.csv.gz	manhattan	STRING	20000	38	11.42	11	2.64834615821599	3.45454545454545	10.0364523412246
+Hindbrain_neurons-expression.csv.gz	manhattan	STRING	50000	72	28.56	28	4.8996392363586	2.57142857142857	8.86595888073681
+Hindbrain_neurons-expression.csv.gz	manhattan	STRING	1e+05	123	58.75	59	6.86430527210779	2.08474576271186	9.36001495461915
+Hindbrain_neurons-expression.csv.gz	manhattan	OmniPath	20000	14	8.55	8	2.76111161921016	1.75	1.97384269512401
+Hindbrain_neurons-expression.csv.gz	manhattan	OmniPath	50000	35	20.33	20.5	4.54396036047584	1.70731707317073	3.22846126203085
+Hindbrain_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	55	35.89	35	5.93209895229319	1.57142857142857	3.22145671434098

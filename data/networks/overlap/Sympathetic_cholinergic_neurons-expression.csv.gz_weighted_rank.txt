@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	HIPPIE	20000	287	85.81	85	9.3686507119017	3.37647058823529	21.4748106410257
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	HIPPIE	50000	567	202.57	202	12.8646842561371	2.80693069306931	28.327939710308
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	873	364.72	364	17.8433588358654	2.39835164835165	28.4856682351952
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	Reactome	20000	457	87.03	86	7.84503317102901	5.31395348837209	47.1597751002845
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	Reactome	50000	857	234.46	233.5	12.6685963442417	3.67023554603854	49.1404085412325
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1411	491.51	492	18.1338987211323	2.86788617886179	50.7055881440694
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	STRING	20000	187	23.94	24	4.65544104388954	7.79166666666667	35.0256825213205
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	STRING	50000	321	58.57	58	6.69275954319519	5.53448275862069	39.2110307125592
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	STRING	1e+05	479	109.73	110	8.8612822566671	4.35454545454545	41.6722985798321
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	OmniPath	20000	229	16.55	16.5	3.96034637807647	13.8787878787879	53.6442976745853
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	OmniPath	50000	361	38.06	38	6.30667435453436	9.5	51.2060686576933
+Sympathetic_cholinergic_neurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	485	68.41	69	7.4780419302857	7.02898550724638	55.7084332882423

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	HIPPIE	20000	37	38.7	39	6.47996134169788	0.948717948717949	-0.26234724412022
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	HIPPIE	50000	105	103.15	102.5	9.84360018725185	1.02439024390244	0.187939368199439
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	260	221.23	219.5	14.8798928800315	1.18451025056948	2.60552950969348
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	Reactome	20000	83	41.39	41	5.78904398869367	2.02439024390244	7.18771529137914
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	Reactome	50000	217	111.7	113	9.91835356164204	1.92035398230089	10.6166814225331
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	Reactome	1e+05	468	252.51	252	14.2584336198942	1.85714285714286	15.1131607962417
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	STRING	20000	40	16.41	16.5	3.88754810941682	2.42424242424242	6.06809210742829
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	STRING	50000	83	43.98	44	6.79569085093003	1.88636363636364	5.74187391038541
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	STRING	1e+05	178	95.58	95.5	10.5286333971756	1.86387434554974	7.82817644900714
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	OmniPath	20000	11	8.57	9	2.56729626280453	1.22222222222222	0.946521067788824
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	OmniPath	50000	26	22.86	23	4.29944793261327	1.1304347826087	0.730326323103408
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	binomial	OmniPath	1e+05	69	52.48	53	6.01929557273268	1.30188679245283	2.7445071936383

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Ependymal_cells-expression.csv.gz	binomial	HIPPIE	20000	41	36.14	36	6.55207577563759	1.13888888888889	0.74174966322441
+Ependymal_cells-expression.csv.gz	binomial	HIPPIE	50000	100	102.89	102	9.39470622481113	0.980392156862745	-0.307620050147773
+Ependymal_cells-expression.csv.gz	binomial	HIPPIE	1e+05	246	230.35	231.5	12.8270350542449	1.06263498920086	1.22007930389345
+Ependymal_cells-expression.csv.gz	binomial	Reactome	20000	52	31.71	32	5.14299562904773	1.625	3.9451715427098
+Ependymal_cells-expression.csv.gz	binomial	Reactome	50000	114	81.25	80	9.28273623018515	1.425	3.52805457226127
+Ependymal_cells-expression.csv.gz	binomial	Reactome	1e+05	254	170.93	170	14.3416149436498	1.49411764705882	5.79223471878122
+Ependymal_cells-expression.csv.gz	binomial	STRING	20000	50	21.04	20	4.72243730942128	2.5	6.13242656333937
+Ependymal_cells-expression.csv.gz	binomial	STRING	50000	101	53.64	54	7.06180507441907	1.87037037037037	6.7065006044359
+Ependymal_cells-expression.csv.gz	binomial	STRING	1e+05	182	105.84	105	10.2707980668151	1.73333333333333	7.4151978750388
+Ependymal_cells-expression.csv.gz	binomial	OmniPath	20000	16	10.8	11	3.31814722550115	1.45454545454545	1.56713962540183
+Ependymal_cells-expression.csv.gz	binomial	OmniPath	50000	36	27.6	27	5.30294372223694	1.33333333333333	1.58402586185784
+Ependymal_cells-expression.csv.gz	binomial	OmniPath	1e+05	69	56.15	56	6.75602985442926	1.23214285714286	1.90200462059467

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	HIPPIE	20000	83	61.19	61	7.43414861679303	1.36065573770492	2.9337589445997
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	HIPPIE	50000	195	138.97	138	11.1757809932049	1.41304347826087	5.01351986353948
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	HIPPIE	1e+05	320	253.29	253	15.0018820368134	1.26482213438735	4.44677540033304
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	Reactome	20000	103	45.71	46	6.33778950088876	2.23913043478261	9.03942928239667
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	Reactome	50000	247	121.18	122	10.7368712407481	2.02459016393443	11.7184976124603
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	Reactome	1e+05	491	260.42	259	14.5866827322498	1.8957528957529	15.8075694270233
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	STRING	20000	26	10.59	10.5	3.49052107481639	2.47619047619048	4.41481362515784
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	STRING	50000	67	25.06	25	4.6402281378955	2.68	9.03834870908334
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	STRING	1e+05	124	59.57	60	7.78921165342284	2.06666666666667	8.27169717126473
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	OmniPath	20000	9	5.77	6	2.246681053816	1.5	1.43767625338445
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	OmniPath	50000	36	14.38	14.5	3.74106342575952	2.48275862068966	5.77910544128523
+Telencephalon_inhibitory_interneurons-expression.csv.gz	euclidean	OmniPath	1e+05	65	30.51	31	5.24644179565079	2.09677419354839	6.57397934512332

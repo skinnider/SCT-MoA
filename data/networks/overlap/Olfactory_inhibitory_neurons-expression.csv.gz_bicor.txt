@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	20000	403	68.41	67.5	7.73042656969814	5.97037037037037	43.2822169621961
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	50000	650	168.38	167.5	12.5872951820477	3.88059701492537	38.2623902144521
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	954	328.79	329	18.4354155216134	2.89969604863222	33.9135290586216
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	Reactome	20000	711	47.3	47	5.95012944430963	15.1276595744681	111.543791813593
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	Reactome	50000	1101	140.11	139	11.9213711841	7.92086330935252	80.6023053188355
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	Reactome	1e+05	1518	307.03	307.5	15.6020297824781	4.93658536585366	77.6161830789468
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	STRING	20000	340	28.58	29	4.56419973181709	11.7241379310345	68.2310193020449
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	STRING	50000	581	83.68	84	8.47441783108182	6.91666666666667	58.6848571681193
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	STRING	1e+05	804	160.22	160	11.1541811701154	5.025	57.716473327942
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	20000	395	23.44	24	4.08574758561188	16.4583333333333	90.9405175465227
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	50000	481	43.2	42	6.94131242502585	11.452380952381	63.071645993282
+Olfactory_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	1e+05	575	81.3	81	8.78186837302929	7.09876543209877	56.2181051945896

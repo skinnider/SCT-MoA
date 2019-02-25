@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	HIPPIE	20000	211	66.18	66	7.41875864265578	3.1969696969697	19.5207860203627
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	HIPPIE	50000	319	131.1	130	11.3079037344986	2.45384615384615	16.616696110239
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	HIPPIE	1e+05	470	230.52	229	14.6835164918236	2.05240174672489	16.3094446846811
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	Reactome	20000	344	67.46	67	7.45006270734914	5.13432835820895	37.1191506518739
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	Reactome	50000	508	150.19	151	11.4765417308966	3.36423841059603	31.177510472229
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	Reactome	1e+05	742	286.88	289	17.3579545413216	2.56747404844291	26.2196792206456
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	STRING	20000	158	34.02	34	5.29528091794949	4.64705882352941	23.4132998647424
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	STRING	50000	213	61.42	61	7.43073062193467	3.49180327868852	20.3990707929249
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	STRING	1e+05	283	104.08	104	9.29502962650339	2.72115384615385	19.2489972802062
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	OmniPath	20000	215	19.68	20	3.98451548326313	10.75	49.0197618306259
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	OmniPath	50000	271	33.26	32	5.41531684813147	8.46875	43.9014016478151
+Oligodendrocyte_precursor_cells-expression.csv.gz	hamming	OmniPath	1e+05	320	54.55	54	7.01423516496952	5.92592592592593	37.8444682501821

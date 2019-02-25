@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	HIPPIE	20000	504	117.85	118.5	11.1422165613037	4.25316455696202	34.6564795142358
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	HIPPIE	50000	749	261.01	262	14.639434084111	2.8587786259542	33.3339388118591
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	HIPPIE	1e+05	1094	500.1	498.5	19.9906543821422	2.19458375125376	29.7088823930914
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	Reactome	20000	719	71.26	71	8.15706919044934	10.1267605633803	79.4084229122885
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	Reactome	50000	1001	179.78	179	11.9015999263998	5.59217877094972	69.0008070409416
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	Reactome	1e+05	1502	407.01	407	21.0326801992432	3.69041769041769	52.0613630610616
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	STRING	20000	337	40.69	41	5.93516314991944	8.21951219512195	49.9244911243968
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	STRING	50000	478	87.61	87	9.10643573068913	5.49425287356322	42.8696815686478
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	STRING	1e+05	639	148.53	149.5	11.8879065958782	4.2742474916388	41.2578948231355
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	OmniPath	20000	489	32.15	32	5.35294688970855	15.28125	85.3455133056391
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	OmniPath	50000	528	49.6	49	6.44165735622049	10.7755102040816	74.2666015195648
+Non-glutamatergic_neuroblasts-expression.csv.gz	canberra	OmniPath	1e+05	575	76.5	76.5	8.00694143297621	7.51633986928105	62.2584796170672

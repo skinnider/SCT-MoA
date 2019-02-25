@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	dice	HIPPIE	20000	385	87.05	88	8.98862918055109	4.375	33.1474348329645
+Cerebellum_neurons-expression.csv.gz	dice	HIPPIE	50000	642	221.43	221	14.2085868190309	2.90497737556561	29.5997065265273
+Cerebellum_neurons-expression.csv.gz	dice	HIPPIE	1e+05	943	424.13	424	18.0765236445149	2.22405660377358	28.704081061374
+Cerebellum_neurons-expression.csv.gz	dice	Reactome	20000	590	60.44	60	7.56162560685081	9.83333333333333	70.0325601310147
+Cerebellum_neurons-expression.csv.gz	dice	Reactome	50000	900	145.06	144	11.2822556667225	6.25	66.913924156738
+Cerebellum_neurons-expression.csv.gz	dice	Reactome	1e+05	1257	292.68	292	15.7280422536091	4.30479452054795	61.312144540985
+Cerebellum_neurons-expression.csv.gz	dice	STRING	20000	251	31.42	31.5	5.63929216849209	7.96825396825397	38.9375108505354
+Cerebellum_neurons-expression.csv.gz	dice	STRING	50000	443	71.89	72	8.15245516715825	6.15277777777778	45.5212561603525
+Cerebellum_neurons-expression.csv.gz	dice	STRING	1e+05	628	146.27	147	10.2305296721987	4.27210884353742	47.0874935546197
+Cerebellum_neurons-expression.csv.gz	dice	OmniPath	20000	356	20.92	21	4.3546793594055	16.952380952381	76.9471119099214
+Cerebellum_neurons-expression.csv.gz	dice	OmniPath	50000	473	45.81	45	6.36546077743716	10.5111111111111	67.1106169586664
+Cerebellum_neurons-expression.csv.gz	dice	OmniPath	1e+05	512	79.45	79	8.04956238223262	6.48101265822785	53.7358404668985

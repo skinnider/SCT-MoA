@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	HIPPIE	20000	48	35.86	35	6.30699467402517	1.37142857142857	1.92484703530789
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	HIPPIE	50000	112	93.95	95	10.1008800496678	1.17894736842105	1.78697300742558
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	242	196.13	196.5	13.2951384750482	1.23155216284987	3.45013330143849
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	Reactome	20000	81	47.12	47	6.0340448266231	1.72340425531915	5.61480747549578
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	Reactome	50000	211	120.23	120	9.65762900404639	1.75833333333333	9.39878721391854
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	Reactome	1e+05	454	263.02	263.5	13.8957009557095	1.72296015180266	13.7438190853935
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	STRING	20000	19	8.32	8	2.49799919935936	2.375	4.27542170659583
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	STRING	50000	50	22.02	22	4.4129744429742	2.27272727272727	6.34039475223936
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	STRING	1e+05	109	49.7	50	6.79943550835827	2.18	8.72131222174325
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	OmniPath	20000	10	7.41	7.5	2.64420464068464	1.33333333333333	0.979500587870308
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	OmniPath	50000	21	17.72	18	4.09009644004746	1.16666666666667	0.801937080965735
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	binomial	OmniPath	1e+05	45	38.9	39	5.87152003102667	1.15384615384615	1.03891325717463

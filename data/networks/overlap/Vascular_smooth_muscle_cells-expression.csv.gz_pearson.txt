@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	HIPPIE	20000	545	126.07	127	10.4274840801808	4.29133858267717	40.1755588192407
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	HIPPIE	50000	800	293.52	294.5	14.9656036607045	2.71646859083192	33.8429382123672
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	HIPPIE	1e+05	1094	551.74	554	21.8376100368427	1.97472924187726	24.8314719003198
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	Reactome	20000	761	78.6	78.5	8.47098434407571	9.69426751592357	80.5573440207389
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	Reactome	50000	991	204.19	204.5	13.71992210715	4.84596577017115	57.3479932214749
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	Reactome	1e+05	1380	428.8	427	20.7637018166635	3.23185011709602	45.8107137349004
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	STRING	20000	363	45.57	46	6.15499304580756	7.89130434782609	51.5727633869897
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	STRING	50000	532	105.03	106	9.55521434673871	5.0188679245283	44.6845025664683
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	STRING	1e+05	710	203.54	203	12.336543398793	3.49753694581281	41.0536390646955
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	OmniPath	20000	514	38.05	37	5.7636530924143	13.8918918918919	82.5778360301404
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	OmniPath	50000	553	82.3	82	8.30905554442886	6.74390243902439	56.6490376051944
+Vascular_smooth_muscle_cells-expression.csv.gz	pearson	OmniPath	1e+05	607	153.4	153	11.9713462615168	3.96732026143791	37.8904753142216

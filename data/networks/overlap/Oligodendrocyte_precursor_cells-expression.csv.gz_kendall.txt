@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	HIPPIE	20000	573	131.55	132	11.7794333694389	4.34090909090909	37.4763357586723
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	HIPPIE	50000	826	299.5	297.5	16.11856323647	2.77647058823529	32.6642016584169
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	HIPPIE	1e+05	1144	523.96	522.5	19.6607181553431	2.18947368421053	31.5369965176727
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	Reactome	20000	871	122.99	123	9.63840696842009	7.08130081300813	77.6072231075975
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	Reactome	50000	1257	300.05	298	15.8288669936616	4.21812080536913	60.4560010759578
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	Reactome	1e+05	1800	573.7	571.5	20.3273712073652	3.1496062992126	60.3275252608992
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	STRING	20000	402	66.21	66	8.18509979083081	6.09090909090909	41.02454564771
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	STRING	50000	567	127.4	126	12.1080989674705	4.5	36.3062774082888
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	STRING	1e+05	751	203.17	202	15.7749673837887	3.71782178217822	34.7278055587604
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	OmniPath	20000	528	38.66	39	5.7703876591936	13.5384615384615	84.8019282067411
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	OmniPath	50000	570	68.34	69	7.54276695472778	8.26086956521739	66.5087497745852
+Oligodendrocyte_precursor_cells-expression.csv.gz	kendall	OmniPath	1e+05	627	107.92	108.5	8.66046398085209	5.77880184331797	59.9367425518614

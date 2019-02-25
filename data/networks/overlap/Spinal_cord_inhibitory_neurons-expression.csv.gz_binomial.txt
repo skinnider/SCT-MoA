@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	HIPPIE	20000	98	55.96	56	6.84890317842753	1.75	6.13820912703458
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	HIPPIE	50000	239	143.14	142	11.837297671412	1.6830985915493	8.09813207887044
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	464	280.22	280	18.2378117595773	1.65714285714286	10.07686680961
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	Reactome	20000	137	61.15	62.5	7.21722826564214	2.192	10.5095747575404
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	Reactome	50000	359	165.91	166.5	11.5497124893159	2.15615615615616	16.7181650780155
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	Reactome	1e+05	705	343.62	343	16.3267024264305	2.05539358600583	22.1342920671463
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	STRING	20000	58	15.31	15	3.59487570204191	3.86666666666667	11.8752367364891
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	STRING	50000	143	39.73	40	5.83416444295794	3.575	17.7009066181963
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	STRING	1e+05	249	82.45	82	8.50593969535466	3.03658536585366	19.5804350800838
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	OmniPath	20000	28	8.56	8	2.67166198793518	3.5	7.27636957361675
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	OmniPath	50000	61	24.74	25	4.644144787588	2.44	7.80768078051936
+Spinal_cord_inhibitory_neurons-expression.csv.gz	binomial	OmniPath	1e+05	111	48.67	49	5.50491974638517	2.26530612244898	11.322599215171

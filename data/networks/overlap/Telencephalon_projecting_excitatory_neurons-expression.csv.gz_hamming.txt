@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	HIPPIE	20000	329	105.08	106	9.62706622187694	3.10377358490566	23.2594224283152
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	HIPPIE	50000	537	229.41	229	13.9270066831145	2.34497816593886	22.0858657569922
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	843	438	436	17.0210802159314	1.93348623853211	23.7940245191329
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	Reactome	20000	397	65.7	65.5	7.85795614313765	6.06106870229008	42.1610904878012
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	Reactome	50000	709	173.31	172.5	12.0098402414962	4.11014492753623	44.6042569449917
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	Reactome	1e+05	1227	374.46	373	16.4822647262156	3.28954423592493	51.724687969852
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	STRING	20000	206	34.39	34	5.78206037863859	6.05882352941176	29.6797315769999
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	STRING	50000	355	77.25	77	8.5083144124682	4.61038961038961	32.6445388046522
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	STRING	1e+05	582	136.62	137	10.4376745736323	4.24817518248175	42.6704240353613
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	OmniPath	20000	278	25.95	26	4.2411524067609	10.6923076923077	59.4296021048908
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	OmniPath	50000	407	54.63	54	6.66614391889905	7.53703703703704	52.8596448392005
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	hamming	OmniPath	1e+05	508	109.95	109	9.30230231087059	4.6605504587156	42.7904820438745

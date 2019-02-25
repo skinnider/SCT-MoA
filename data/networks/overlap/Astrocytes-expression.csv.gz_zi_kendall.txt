@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Astrocytes-expression.csv.gz	zi_kendall	HIPPIE	20000	264	49.41	49	7.95326627521325	5.38775510204082	26.9813674752448
+Astrocytes-expression.csv.gz	zi_kendall	HIPPIE	50000	516	145.35	146.5	12.1874044932803	3.5221843003413	30.4125460186674
+Astrocytes-expression.csv.gz	zi_kendall	HIPPIE	1e+05	714	281.6	280.5	17.2556534433668	2.54545454545455	25.0584541129747
+Astrocytes-expression.csv.gz	zi_kendall	Reactome	20000	491	68.11	68	8.00617816994406	7.22058823529412	52.8204582790286
+Astrocytes-expression.csv.gz	zi_kendall	Reactome	50000	851	185.96	187	12.973103489197	4.55080213903743	51.2629842623083
+Astrocytes-expression.csv.gz	zi_kendall	Reactome	1e+05	1184	362.5	363	17.5933297736742	3.26170798898072	46.6938328655244
+Astrocytes-expression.csv.gz	zi_kendall	STRING	20000	204	19.96	20	4.80092583663702	10.2	38.3342726512346
+Astrocytes-expression.csv.gz	zi_kendall	STRING	50000	379	65.27	66	8.75693664439451	5.74242424242424	35.8264553850375
+Astrocytes-expression.csv.gz	zi_kendall	STRING	1e+05	559	138.75	140	10.7086059981793	3.99285714285714	39.2441369186102
+Astrocytes-expression.csv.gz	zi_kendall	OmniPath	20000	291	14.93	15	3.2760378878188	19.4	84.2694771713427
+Astrocytes-expression.csv.gz	zi_kendall	OmniPath	50000	468	39.27	39	5.84627136634016	12	73.3339205683143
+Astrocytes-expression.csv.gz	zi_kendall	OmniPath	1e+05	518	73.06	72	9.27233312689755	7.19444444444444	47.9857651694265

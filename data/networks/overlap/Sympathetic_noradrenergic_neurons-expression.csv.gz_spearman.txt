@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	HIPPIE	20000	250	73.35	73	8.552127740445	3.42465753424658	20.655678371662
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	HIPPIE	50000	544	190.06	189	12.8839576076749	2.87830687830688	27.4713725997639
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	910	360.49	363	18.628475541764	2.5068870523416	29.4983880333111
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	Reactome	20000	439	90.1	91	8.6087810467633	4.82417582417582	40.5283858544849
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	Reactome	50000	893	246.8	249.5	13.7179378254101	3.57915831663327	47.1062056282997
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	Reactome	1e+05	1502	511.56	510	16.2799498671454	2.94509803921569	60.8380251832844
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	STRING	20000	194	25.45	25	4.56020334474841	7.76	36.9610710877848
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	STRING	50000	386	76.19	76	7.89923279742272	5.07894736842105	39.2202645427897
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	STRING	1e+05	583	138.18	139	10.1676651273247	4.19424460431655	43.7484903790337
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	OmniPath	20000	152	10.38	10	2.93285120004684	15.2	48.2874821599331
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	OmniPath	50000	339	29.27	29	4.93974808174578	11.6896551724138	62.7015780712722
+Sympathetic_noradrenergic_neurons-expression.csv.gz	spearman	OmniPath	1e+05	502	58.34	59	6.84344410897958	8.50847457627119	64.8299296282488

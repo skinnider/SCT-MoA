@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	HIPPIE	20000	170	59.61	59.5	7.78615061594248	2.85714285714286	14.1777375554451
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	HIPPIE	50000	332	138.44	139.5	11.3940618948927	2.37992831541219	16.9877960805849
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	HIPPIE	1e+05	555	270.75	270	16.142280889739	2.05555555555556	17.6090356710796
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	Reactome	20000	269	60.57	60	6.83315594743894	4.48333333333333	30.5027430375154
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	Reactome	50000	514	148.31	148.5	11.3330614940661	3.46127946127946	32.2675386691825
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	Reactome	1e+05	811	292.31	291	16.2652849636732	2.78694158075601	31.8893890367392
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	STRING	20000	91	20.38	20	4.79642122479423	4.55	14.7234775033816
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	STRING	50000	188	49.01	49	7.30641754717983	3.83673469387755	19.0230026004534
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	STRING	1e+05	291	98.24	98	9.08113818345865	2.96938775510204	21.2264141460939
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	OmniPath	20000	133	13.2	13	3.64040179822575	10.2307692307692	32.9084553409428
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	OmniPath	50000	213	28.11	28	5.77856540863026	7.60714285714286	31.9958306128832
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	bicor	OmniPath	1e+05	287	51.98	52.5	6.96162642090499	5.46666666666667	33.7593524545157

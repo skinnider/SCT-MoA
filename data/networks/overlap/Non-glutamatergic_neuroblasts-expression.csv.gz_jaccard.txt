@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	HIPPIE	20000	524	129.89	131	10.8654721410754	4	36.271778610533
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	HIPPIE	50000	737	288.74	289	16.3858894704369	2.55017301038062	27.3564642803641
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	HIPPIE	1e+05	1143	557.41	559.5	21.4904700514043	2.04289544235925	27.2488223198141
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	Reactome	20000	725	86.16	87	9.40526394626913	8.33333333333333	67.9236652633672
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	Reactome	50000	993	209.02	209	14.584466622632	4.7511961722488	53.7544512449588
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	Reactome	1e+05	1499	460.22	460.5	23.0083779207804	3.25515743756786	45.1479023674159
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	STRING	20000	348	41.4	42	6.16113593094617	8.28571428571429	49.7635506563016
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	STRING	50000	475	88.75	89	9.55512977674846	5.33707865168539	40.4233128198744
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	STRING	1e+05	642	162.16	163	12.8068163668628	3.93865030674847	37.4675474571158
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	OmniPath	20000	485	39.14	39	5.78751704406592	12.4358974358974	77.0382180484723
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	OmniPath	50000	514	60.56	61	7.03285220241476	8.42622950819672	64.4745527062704
+Non-glutamatergic_neuroblasts-expression.csv.gz	jaccard	OmniPath	1e+05	576	96.98	97	8.98818528666798	5.93814432989691	53.2944064593909

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	HIPPIE	20000	437	109.96	109	10.2827893869201	4.00917431192661	31.8045996756483
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	HIPPIE	50000	721	270.41	272	15.2713470396046	2.65073529411765	29.5055831572318
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	1073	493.3	495	19.5026545719688	2.16767676767677	29.7241587221262
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	Reactome	20000	667	74.07	74	8.15414005275847	9.01351351351351	72.715209226682
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	Reactome	50000	1068	215.68	215	12.4955588069918	4.96744186046512	68.2098346432567
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	Reactome	1e+05	1588	464.95	465	18.6441287099595	3.41505376344086	60.2361213801361
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	STRING	20000	282	32.6	32	5.15614764973411	8.8125	48.3694449698043
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	STRING	50000	480	88.91	89	8.75490627239286	5.39325842696629	44.6709522445988
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	STRING	1e+05	679	157.06	156.5	12.141272793678	4.33865814696486	42.9889031298083
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	OmniPath	20000	369	23.08	23	4.18192358233443	16.0434782608696	82.7179151386838
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	OmniPath	50000	450	50.06	49.5	6.35136189960846	9.09090909090909	62.9691720172102
+Spinal_cord_excitatory_neurons-expression.csv.gz	spearman	OmniPath	1e+05	541	86.82	87	8.28090172223613	6.2183908045977	54.8466840006592

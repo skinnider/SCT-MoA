@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	HIPPIE	20000	528	125.52	126	11.4631425169382	4.19047619047619	35.1107909026941
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	HIPPIE	50000	765	279.62	281	14.8519835086568	2.72241992882562	32.681156676284
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	HIPPIE	1e+05	1150	537.17	536.5	22.6158320339062	2.14352283317801	27.0973890804119
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	Reactome	20000	749	83.99	85	9.10488269495488	8.81176470588235	73.0388322705672
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	Reactome	50000	1036	201.64	201.5	13.5590887927209	5.14143920595533	61.5351084984355
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	Reactome	1e+05	1596	447.28	448	21.7762172188752	3.5625	52.7511269957535
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	STRING	20000	350	40.95	41	5.64322244785367	8.53658536585366	54.7648090883859
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	STRING	50000	508	95.94	95.5	9.50685026810678	5.31937172774869	43.3434826866226
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	STRING	1e+05	691	164.78	164.5	12.4839937924568	4.20060790273556	42.1515749485518
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	OmniPath	20000	495	35.02	35	5.24352414455636	14.1428571428571	87.7234446374268
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	OmniPath	50000	535	55.38	55	6.90305158695205	9.72727272727273	69.4794170315291
+Non-glutamatergic_neuroblasts-expression.csv.gz	zi_kendall	OmniPath	1e+05	597	83.73	84	8.44932009696698	7.10714285714286	60.7468996451261

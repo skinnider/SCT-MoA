@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	HIPPIE	20000	483	106.24	105	10.0182863108448	4.6	37.607230249764
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	HIPPIE	50000	653	206.62	206	14.2536757619665	3.16990291262136	31.3168341594445
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	HIPPIE	1e+05	890	375.1	375.5	19.3273240399558	2.37017310252996	26.6410393355819
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	Reactome	20000	674	100.54	101	7.79720229546237	6.67326732673267	73.5468926250289
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	Reactome	50000	946	224.04	223	12.978552626654	4.24215246636771	55.6271581869085
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	Reactome	1e+05	1271	399.02	400	15.7761999495596	3.1775	55.2718653914082
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	STRING	20000	263	28.51	28.5	5.5276988472107	9.2280701754386	42.4209072312839
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	STRING	50000	348	57.6	57	7.30158416462697	6.10526315789474	39.7721910002576
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	STRING	1e+05	453	106.19	106.5	9.67418203156205	4.25352112676056	35.849025671476
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	OmniPath	20000	434	27.56	27	4.88311872524604	16.0740740740741	83.2336920047999
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	OmniPath	50000	469	42.31	42	6.30166724772184	11.1666666666667	67.7106523125695
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	spearman	OmniPath	1e+05	510	65.55	66	7.68886772344842	7.72727272727273	57.8043498712534

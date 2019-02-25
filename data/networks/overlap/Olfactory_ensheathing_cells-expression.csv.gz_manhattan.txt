@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	HIPPIE	20000	48	39.97	40	6.82309654516529	1.2	1.17688500328929
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	HIPPIE	50000	103	94.42	93	9.83724113414494	1.10752688172043	0.872195759258043
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	204	176.72	177	13.0508562356977	1.15254237288136	2.09028430834919
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	Reactome	20000	98	59.46	59	7.81014621107594	1.66101694915254	4.93460672289907
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	Reactome	50000	206	140.96	141	11.1816227296706	1.46099290780142	5.81668703840412
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	Reactome	1e+05	388	269.82	269	15.2959887789993	1.44237918215613	7.72620859674373
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	STRING	20000	30	22.49	22	4.25095354721809	1.36363636363636	1.76666244798528
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	STRING	50000	68	44.26	44	5.75706855820203	1.54545454545455	4.12362641854905
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	STRING	1e+05	121	74.57	74	7.63597942756408	1.63513513513514	6.08042497238779
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	OmniPath	20000	13	5.92	6	2.42328769078771	2.16666666666667	2.9216506265084
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	OmniPath	50000	38	13.39	13	3.43450994842912	2.92307692307692	7.16550552175752
+Olfactory_ensheathing_cells-expression.csv.gz	manhattan	OmniPath	1e+05	59	23.22	24	4.54290433511204	2.45833333333333	7.87601881101851

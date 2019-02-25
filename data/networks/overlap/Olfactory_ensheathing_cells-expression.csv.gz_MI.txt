@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_ensheathing_cells-expression.csv.gz	MI	HIPPIE	20000	470	83.13	84	8.39270366136412	5.59523809523809	46.0959919007934
+Olfactory_ensheathing_cells-expression.csv.gz	MI	HIPPIE	50000	710	194.71	196	13.5178856454415	3.62244897959184	38.1191270229281
+Olfactory_ensheathing_cells-expression.csv.gz	MI	HIPPIE	1e+05	948	358.67	360	16.6969754715933	2.63333333333333	35.2956139273625
+Olfactory_ensheathing_cells-expression.csv.gz	MI	Reactome	20000	703	101.2	102	10.3679771168222	6.8921568627451	58.0441095904396
+Olfactory_ensheathing_cells-expression.csv.gz	MI	Reactome	50000	1004	245.61	245	15.0433011367488	4.09795918367347	50.4138016719848
+Olfactory_ensheathing_cells-expression.csv.gz	MI	Reactome	1e+05	1368	470.99	470.5	21.0667505752069	2.90754516471838	42.5794190137551
+Olfactory_ensheathing_cells-expression.csv.gz	MI	STRING	20000	296	32.65	32	4.60209657974416	9.25	57.2239185850897
+Olfactory_ensheathing_cells-expression.csv.gz	MI	STRING	50000	423	78.42	79	8.9388268952154	5.35443037974684	38.5486825105026
+Olfactory_ensheathing_cells-expression.csv.gz	MI	STRING	1e+05	557	145.41	145	11.8799508552532	3.84137931034483	34.6457662169534
+Olfactory_ensheathing_cells-expression.csv.gz	MI	OmniPath	20000	442	22.72	23	4.36024278816182	19.2173913043478	96.1597829227209
+Olfactory_ensheathing_cells-expression.csv.gz	MI	OmniPath	50000	495	44.83	45	5.69255228479735	11	79.0805209118999
+Olfactory_ensheathing_cells-expression.csv.gz	MI	OmniPath	1e+05	540	77.45	78	7.55635393880441	6.92307692307692	61.2133846225295

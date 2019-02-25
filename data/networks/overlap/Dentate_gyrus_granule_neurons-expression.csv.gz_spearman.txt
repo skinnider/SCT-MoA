@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	HIPPIE	20000	473	113.86	113.5	10.2651907636508	4.16740088105727	34.9861983346399
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	HIPPIE	50000	685	247.16	247.5	13.0838168217941	2.76767676767677	33.4642410516384
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	1002	444.99	443	18.1522711938465	2.26185101580135	30.6854163895933
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	Reactome	20000	708	85.28	85	8.81697169661953	8.32941176470588	70.6274241799771
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	Reactome	50000	977	193.19	192.5	13.2822468283074	5.07532467532468	59.0118532001326
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	Reactome	1e+05	1377	394.89	393	17.6233860927387	3.50381679389313	55.7276561287307
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	STRING	20000	351	37.84	37	6.24697098317628	9.48648648648649	50.1298950872945
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	STRING	50000	501	88.12	88	8.94119961219134	5.69318181818182	46.177248904838
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	STRING	1e+05	692	162.23	163.5	12.5278316422502	4.23241590214067	42.2874456752233
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	OmniPath	20000	471	34.09	34	5.54885555585996	13.8529411764706	78.738758938966
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	OmniPath	50000	515	62.02	62	7.23065863130215	8.30645161290323	62.6471284426304
+Dentate_gyrus_granule_neurons-expression.csv.gz	spearman	OmniPath	1e+05	571	102.85	103	10.087871505682	5.54368932038835	46.4072128333824

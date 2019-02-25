@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	euclidean	HIPPIE	20000	48	41.7	41	6.53119940413441	1.17073170731707	0.96460077394237
+Perivascular_macrophages-expression.csv.gz	euclidean	HIPPIE	50000	123	106.58	107	9.59816901730994	1.14953271028037	1.71074295215964
+Perivascular_macrophages-expression.csv.gz	euclidean	HIPPIE	1e+05	297	225.67	227	13.5348819833433	1.30837004405286	5.2700865872183
+Perivascular_macrophages-expression.csv.gz	euclidean	Reactome	20000	98	61.63	62	7.48824668289169	1.58064516129032	4.85694469482344
+Perivascular_macrophages-expression.csv.gz	euclidean	Reactome	50000	223	151.79	151	11.9437190289467	1.47682119205298	5.9621295366557
+Perivascular_macrophages-expression.csv.gz	euclidean	Reactome	1e+05	446	293.59	295	15.1984149891302	1.51186440677966	10.028019376297
+Perivascular_macrophages-expression.csv.gz	euclidean	STRING	20000	22	20.98	21	4.89481275629537	1.04761904761905	0.20838386487576
+Perivascular_macrophages-expression.csv.gz	euclidean	STRING	50000	62	45.89	46	6.43050652292758	1.34782608695652	2.50524588421779
+Perivascular_macrophages-expression.csv.gz	euclidean	STRING	1e+05	111	75.43	75	8.23426568147587	1.48	4.31975374319287
+Perivascular_macrophages-expression.csv.gz	euclidean	OmniPath	20000	10	10.14	10	2.91294567839027	1	-0.0480613150593891
+Perivascular_macrophages-expression.csv.gz	euclidean	OmniPath	50000	31	22.76	23	4.36959189551305	1.34782608695652	1.88575963088482
+Perivascular_macrophages-expression.csv.gz	euclidean	OmniPath	1e+05	62	39.35	40	6.27545322118754	1.55	3.60930106586211

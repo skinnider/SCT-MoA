@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	HIPPIE	20000	404	106.01	106	9.12372310147142	3.81132075471698	32.6610087445488
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	HIPPIE	50000	662	231.04	230.5	13.7208239585314	2.87201735357918	31.4091924291496
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	HIPPIE	1e+05	962	427.76	429	19.8977791766221	2.24242424242424	26.849227507142
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	Reactome	20000	733	104.17	104	8.48415635705219	7.04807692307692	74.1181531240056
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	Reactome	50000	1200	249.73	251	13.462897012144	4.7808764940239	70.5843622767687
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	Reactome	1e+05	1767	487.14	490	19.9185310399105	3.60612244897959	64.2547383356514
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	STRING	20000	308	43.84	45	6.29047700974266	6.84444444444444	41.9936357117068
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	STRING	50000	541	107.34	107.5	9.67994907741844	5.03255813953488	44.7998224506831
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	STRING	1e+05	795	196.94	198	13.4613700955172	4.01515151515152	44.4278699535318
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	OmniPath	20000	279	17.68	17.5	4.28264055239406	15.9428571428571	61.0184293552066
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	OmniPath	50000	417	38.51	39	5.16103309679977	10.6923076923077	73.3360923871409
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	pearson	OmniPath	1e+05	517	74.82	76	7.2549251818292	6.80263157894737	60.9489400535089

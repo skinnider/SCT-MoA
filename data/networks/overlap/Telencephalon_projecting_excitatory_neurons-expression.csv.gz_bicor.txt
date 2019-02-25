@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	HIPPIE	20000	423	95.57	94.5	9.96889607172674	4.47619047619048	32.8451613542887
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	HIPPIE	50000	643	214.93	215	13.9720174895136	2.9906976744186	30.6376656285522
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	952	413.31	412	18.0463460584298	2.31067961165049	29.8503640712557
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	Reactome	20000	640	74.82	75	8.00805150388588	8.53333333333333	70.5764691605378
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	Reactome	50000	1048	200.17	200	11.591580887642	5.24	73.1418784217679
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	Reactome	1e+05	1581	436.18	436	18.3211419519702	3.62614678899083	62.4862796762998
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	STRING	20000	297	31.84	32	4.93742663927089	9.28125	53.7040890675707
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	STRING	50000	509	78.73	79	8.48153669133516	6.44303797468354	50.7301937913643
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	STRING	1e+05	741	149.81	150.5	12.2108537578234	4.92358803986711	48.4151240957439
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	OmniPath	20000	356	23.09	23	4.28786165538927	15.4782608695652	77.6400982017638
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	OmniPath	50000	448	49.97	50	6.13065653049896	8.96	64.9245310057527
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	bicor	OmniPath	1e+05	550	95.74	94.5	9.07390531005022	5.82010582010582	50.0622372041797

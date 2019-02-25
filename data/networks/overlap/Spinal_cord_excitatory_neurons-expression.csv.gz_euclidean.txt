@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	HIPPIE	20000	45	35.42	35	5.7122586592257	1.28571428571429	1.67709492365645
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	HIPPIE	50000	124	85.19	86	9.30264977999779	1.44186046511628	4.17192960262224
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	223	167.99	168	13.0844151260925	1.32738095238095	4.20423836066625
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	Reactome	20000	42	21.81	21	4.74755652196927	2	4.25271398172323
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	Reactome	50000	113	64.48	64	8.49418101473657	1.765625	5.71214575199452
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	Reactome	1e+05	264	143.38	143	11.9795954468716	1.84615384615385	10.0687874256638
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	STRING	20000	8	6.68	6	2.24679345024878	1.33333333333333	0.587503938047283
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	STRING	50000	36	20.11	20	4.0198874299531	1.8	3.95284700800325
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	STRING	1e+05	73	50.42	51.5	6.43880282491876	1.41747572815534	3.50686309458232
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	OmniPath	20000	4	3.13	3	1.82936209006464	1.33333333333333	0.4755756144314
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	OmniPath	50000	8	7.61	8	2.9844546732979	1	0.13067713960924
+Spinal_cord_excitatory_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	17	15.97	16	4.47316352475426	1.0625	0.230262093996795

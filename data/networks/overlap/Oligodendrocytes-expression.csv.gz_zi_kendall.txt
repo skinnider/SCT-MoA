@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocytes-expression.csv.gz	zi_kendall	HIPPIE	20000	346	83.82	83	8.91868994320524	4.16867469879518	29.396694096283
+Oligodendrocytes-expression.csv.gz	zi_kendall	HIPPIE	50000	460	174	174	13.191671691647	2.64367816091954	21.6803455001912
+Oligodendrocytes-expression.csv.gz	zi_kendall	HIPPIE	1e+05	686	306.16	307	15.950504250919	2.23452768729642	23.8136672060455
+Oligodendrocytes-expression.csv.gz	zi_kendall	Reactome	20000	504	70.51	72	8.41174623651206	7	51.5338893746451
+Oligodendrocytes-expression.csv.gz	zi_kendall	Reactome	50000	712	159.96	159	11.4467762653372	4.47798742138365	48.2266786039727
+Oligodendrocytes-expression.csv.gz	zi_kendall	Reactome	1e+05	1099	351.69	352	17.4545267781887	3.12215909090909	42.8146812283588
+Oligodendrocytes-expression.csv.gz	zi_kendall	STRING	20000	221	28.3	28	4.86899072776594	7.89285714285714	39.5769905457218
+Oligodendrocytes-expression.csv.gz	zi_kendall	STRING	50000	317	62.61	62.5	6.8973644505446	5.072	36.8822036045832
+Oligodendrocytes-expression.csv.gz	zi_kendall	STRING	1e+05	425	105.11	105	9.74202082203532	4.04761904761905	32.8361030882264
+Oligodendrocytes-expression.csv.gz	zi_kendall	OmniPath	20000	371	24.12	24.5	4.05587241048101	15.1428571428571	85.5253728158726
+Oligodendrocytes-expression.csv.gz	zi_kendall	OmniPath	50000	420	42.61	42.5	5.9286924308311	9.88235294117647	63.6548453816648
+Oligodendrocytes-expression.csv.gz	zi_kendall	OmniPath	1e+05	471	70.13	70.5	7.44088487189311	6.68085106382979	53.8739688762327

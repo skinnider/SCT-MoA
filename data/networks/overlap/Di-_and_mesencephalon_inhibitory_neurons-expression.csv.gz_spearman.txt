@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	HIPPIE	20000	353	102.96	103	8.26691104233124	3.42718446601942	30.2458800777769
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	HIPPIE	50000	619	227.29	227	13.6835040405695	2.72687224669604	28.6264394586824
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	894	413.78	415.5	19.508392392439	2.15162454873646	24.6160724235853
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	Reactome	20000	609	100.84	101	8.5051618313691	6.02970297029703	59.747246445774
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	Reactome	50000	1063	234.9	236	14.0234291689503	4.50423728813559	59.0511771424298
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	Reactome	1e+05	1584	457.8	459	19.1084094872209	3.45098039215686	58.9374013966556
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	STRING	20000	269	41.4	42	6.38179228173972	6.40476190476191	35.6639624030437
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	STRING	50000	482	101.54	102	9.74463851551097	4.72549019607843	39.0430080494423
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	STRING	1e+05	732	186.79	186.5	12.4505445907422	3.92493297587131	43.7900523970171
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	OmniPath	20000	281	18.18	18	4.35166286572957	15.6111111111111	60.3953036136538
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	OmniPath	50000	410	40.53	40	5.71451280212553	10.25	64.6546805989436
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	spearman	OmniPath	1e+05	507	75.26	75	7.55267027499733	6.76	57.163888304412

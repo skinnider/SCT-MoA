@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	HIPPIE	20000	404	80.64	81	8.25052186901599	4.98765432098765	39.1926723101415
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	HIPPIE	50000	597	177.05	177	13.1620628698506	3.3728813559322	31.9060928482533
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	HIPPIE	1e+05	887	334.92	336.5	18.8039755091708	2.63595839524517	29.3597489387682
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	Reactome	20000	624	67.68	67	8.49703453915517	9.3134328358209	65.4722535769888
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	Reactome	50000	858	173.7	174	13.6947236023753	4.93103448275862	49.9681497683759
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	Reactome	1e+05	1179	326.64	326	17.8436079152828	3.61656441717791	47.7683663554367
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	STRING	20000	231	19.73	19	4.15569464467711	12.1578947368421	50.8386727284231
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	STRING	50000	348	53.39	52.5	7.12641267228874	6.62857142857143	41.3405753424299
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	STRING	1e+05	502	99.89	99	9.55462234108748	5.07070707070707	42.085389212174
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	OmniPath	20000	435	22.18	22	4.57348528769555	19.7727272727273	90.2637647289794
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	OmniPath	50000	474	39.55	39	6.28671036971859	12.1538461538462	69.10609435622
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	canberra	OmniPath	1e+05	510	60.01	60	7.59783993758566	8.5	59.2260436777498

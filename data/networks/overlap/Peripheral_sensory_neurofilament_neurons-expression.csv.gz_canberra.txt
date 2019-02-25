@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	HIPPIE	20000	344	105.99	105.5	9.31111532990912	3.260663507109	25.5619215923
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	HIPPIE	50000	543	227.97	227.5	12.5000646462975	2.38681318681319	25.2022696613263
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	793	406.69	405.5	18.86619284125	1.95561035758323	20.4763093036637
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	Reactome	20000	448	108.19	108	10.67205829645	4.14814814814815	31.8410929326571
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	Reactome	50000	855	265.99	267	15.4713779397161	3.20224719101124	38.0709463820911
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	Reactome	1e+05	1406	533.41	533.5	21.7771518669073	2.63542642924086	40.0690597803101
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	STRING	20000	162	28.34	27.5	5.52902351325268	5.89090909090909	24.1742506031357
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	STRING	50000	303	76.45	77	7.78158276336057	3.93506493506493	29.1136144007497
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	STRING	1e+05	466	159.3	160.5	12.2106924496938	2.90342679127726	25.1173306725689
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	OmniPath	20000	239	20.35	21	4.38633092571673	11.3809523809524	49.8480401280422
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	OmniPath	50000	312	47.68	48	6.66799986669333	6.5	39.6400727780873
+Peripheral_sensory_neurofilament_neurons-expression.csv.gz	canberra	OmniPath	1e+05	408	84.56	85	8.08954931258893	4.8	39.9824498871233

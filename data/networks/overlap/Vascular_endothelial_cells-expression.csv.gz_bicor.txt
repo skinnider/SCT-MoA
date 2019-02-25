@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_endothelial_cells-expression.csv.gz	bicor	HIPPIE	20000	522	125.9	125	9.6184796883474	4.176	41.1811443007846
+Vascular_endothelial_cells-expression.csv.gz	bicor	HIPPIE	50000	742	277	276	15.901845391925	2.68840579710145	29.2418891354665
+Vascular_endothelial_cells-expression.csv.gz	bicor	HIPPIE	1e+05	1029	513.52	513	20.5099039884677	2.00584795321637	25.1332234558409
+Vascular_endothelial_cells-expression.csv.gz	bicor	Reactome	20000	782	137.03	138	11.7597627612984	5.66666666666667	54.8454941729445
+Vascular_endothelial_cells-expression.csv.gz	bicor	Reactome	50000	1093	314.08	313.5	17.8798910804989	3.48644338118022	43.5640237679941
+Vascular_endothelial_cells-expression.csv.gz	bicor	Reactome	1e+05	1545	608.38	610	24.518300730415	2.5327868852459	38.2008529179234
+Vascular_endothelial_cells-expression.csv.gz	bicor	STRING	20000	345	50.71	50	6.65649982340493	6.9	44.210922828428
+Vascular_endothelial_cells-expression.csv.gz	bicor	STRING	50000	515	117.26	117	10.8642867815944	4.4017094017094	36.6098583363821
+Vascular_endothelial_cells-expression.csv.gz	bicor	STRING	1e+05	729	219.69	220.5	13.766226421899	3.30612244897959	36.9970669078784
+Vascular_endothelial_cells-expression.csv.gz	bicor	OmniPath	20000	487	38.01	38.5	5.55867690092605	12.6493506493506	80.7728184246866
+Vascular_endothelial_cells-expression.csv.gz	bicor	OmniPath	50000	532	73.22	73	7.18525426048924	7.28767123287671	63.8502109135887
+Vascular_endothelial_cells-expression.csv.gz	bicor	OmniPath	1e+05	588	123.42	124	9.26618703794728	4.74193548387097	50.1371273963532

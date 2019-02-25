@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Ependymal_cells-expression.csv.gz	manhattan	HIPPIE	20000	44	41.73	41	5.34818953601416	1.07317073170732	0.424442698732731
+Ependymal_cells-expression.csv.gz	manhattan	HIPPIE	50000	122	99.06	98	9.73364466085743	1.24489795918367	2.35677393199386
+Ependymal_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	260	193.14	192.5	13.157952620819	1.35064935064935	5.08133764626966
+Ependymal_cells-expression.csv.gz	manhattan	Reactome	20000	51	35.69	35.5	5.02859500027271	1.43661971830986	3.0445880010559
+Ependymal_cells-expression.csv.gz	manhattan	Reactome	50000	129	91.11	92	8.38456373885422	1.40217391304348	4.51901866097303
+Ependymal_cells-expression.csv.gz	manhattan	Reactome	1e+05	285	191.76	193	11.5933802079663	1.47668393782383	8.04252067364537
+Ependymal_cells-expression.csv.gz	manhattan	STRING	20000	19	8.51	8	2.6723235454026	2.375	3.9254228845331
+Ependymal_cells-expression.csv.gz	manhattan	STRING	50000	43	20.94	21	4.53676340822642	2.04761904761905	4.86249733896175
+Ependymal_cells-expression.csv.gz	manhattan	STRING	1e+05	86	43.43	43	5.98694708123726	2	7.11046872844623
+Ependymal_cells-expression.csv.gz	manhattan	OmniPath	20000	9	6.6	7	2.20192753025272	1.28571428571429	1.0899541274751
+Ependymal_cells-expression.csv.gz	manhattan	OmniPath	50000	20	15.85	16	3.81484341789153	1.25	1.08785592104163
+Ependymal_cells-expression.csv.gz	manhattan	OmniPath	1e+05	40	29.28	29	5.16413427674793	1.37931034482759	2.07585616978783

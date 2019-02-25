@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	HIPPIE	20000	336	122.62	123	9.37520908857746	2.73170731707317	22.7600257214505
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	HIPPIE	50000	573	297.61	298	14.8432176805136	1.92281879194631	18.5532548216642
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	HIPPIE	1e+05	1014	571.41	568.5	21.2037232293736	1.78364116094987	20.8732209533313
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	Reactome	20000	477	137.51	137	9.54044553519913	3.48175182481752	35.5842920278161
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	Reactome	50000	856	333.6	332	14.8534932802443	2.57831325301205	35.1701778257652
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	Reactome	1e+05	1511	668.42	671	21.5562126318679	2.25186289120715	39.0875713832197
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	STRING	20000	155	35.26	35	5.64902780587201	4.42857142857143	21.1965676422293
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	STRING	50000	295	91.27	90.5	9.67226065936119	3.25966850828729	21.063328127207
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	STRING	1e+05	514	175.65	175.5	13.3721971480253	2.92877492877493	25.3024986286539
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	OmniPath	20000	278	31.6	31	5.00504795686366	8.96774193548387	49.2302975163505
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	OmniPath	50000	357	69.98	69	7.59316545428595	5.17391304347826	37.7997821498795
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	jaccard	OmniPath	1e+05	512	129.4	129	10.7946863097198	3.96899224806202	35.4433643574707

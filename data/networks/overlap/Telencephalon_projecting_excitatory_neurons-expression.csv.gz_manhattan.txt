@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	HIPPIE	20000	37	33.94	34	5.96254301384226	1.08823529411765	0.513203844885664
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	HIPPIE	50000	96	80.43	80.5	8.9614832376221	1.19254658385093	1.73743559934744
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	205	162.69	162	12.778371088553	1.26543209876543	3.31106364862902
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	Reactome	20000	77	31.51	32	5.00604684861269	2.40625	9.08701044469979
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	Reactome	50000	177	90.59	90.5	9.1199581338752	1.95580110497238	9.47482419672942
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	Reactome	1e+05	398	194.12	194	12.1316682174124	2.05154639175258	16.8056030173471
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	STRING	20000	24	10.91	11	3.35175214242378	2.18181818181818	3.90542004413671
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	STRING	50000	58	28.71	29	4.99958584143313	2	5.85848526837256
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	STRING	1e+05	109	53.97	53	6.86000706775853	2.05660377358491	8.02185762440924
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	OmniPath	20000	9	5.28	5	2.11812762752027	1.8	1.75626810758097
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	OmniPath	50000	21	11.05	11	2.94177504307185	1.90909090909091	3.38231165004719
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	43	21.41	21.5	3.88494894211343	2	5.55734459363446

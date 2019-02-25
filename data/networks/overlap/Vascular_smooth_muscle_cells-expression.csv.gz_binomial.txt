@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	HIPPIE	20000	116	72.8	73	7.42504633866437	1.58904109589041	5.81814550773173
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	HIPPIE	50000	279	188.29	189	11.7295233139168	1.47619047619048	7.73347710493699
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	HIPPIE	1e+05	571	387.24	387.5	18.5145970258686	1.47354838709677	9.92514175400363
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	Reactome	20000	164	67.55	68	7.20742462305154	2.41176470588235	13.3820338115675
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	Reactome	50000	364	186	188	14.0338695643609	1.93617021276596	12.6836008546091
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	Reactome	1e+05	716	399.19	398.5	17.6106573564206	1.79673776662484	17.9896748649473
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	STRING	20000	125	49.9	50	6.13731754650732	2.5	12.2366163117531
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	STRING	50000	241	113.05	113	8.55567033899127	2.13274336283186	14.9549941653182
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	STRING	1e+05	416	193.38	192.5	11.4968419027737	2.16103896103896	19.3635784402924
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	OmniPath	20000	44	21.3	21	4.65474668125631	2.0952380952381	4.87674229220854
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	OmniPath	50000	90	52.12	51	6.83762614604888	1.76470588235294	5.53993435600291
+Vascular_smooth_muscle_cells-expression.csv.gz	binomial	OmniPath	1e+05	164	97.61	96	9.23420846963106	1.70833333333333	7.18957127926445

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	HIPPIE	20000	488	108.84	108	9.38698863084193	4.51851851851852	40.3920804542397
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	HIPPIE	50000	672	239.34	239	14.247608340853	2.81171548117155	30.367201964656
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	HIPPIE	1e+05	1001	481.43	481	21.2542354661965	2.08108108108108	24.4454805643959
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	Reactome	20000	654	69.94	70	7.85579629022643	9.34285714285714	74.3476508837992
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	Reactome	50000	920	178.02	178	12.4648840080176	5.1685393258427	59.5256241071113
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	Reactome	1e+05	1299	392.73	392	19.0776483526316	3.31377551020408	47.5042826688326
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	STRING	20000	292	29.39	29	5.02296745163673	10.0689655172414	52.2818438559518
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	STRING	50000	410	69.54	69	7.93333333333333	5.94202898550725	42.9151260504202
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	STRING	1e+05	562	126.12	126	11.7870670437963	4.46031746031746	36.9795130867105
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	OmniPath	20000	471	31.5	31	5.84047182264508	15.1935483870968	75.2507696888358
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	OmniPath	50000	499	53.09	53	7.63179817830264	9.41509433962264	58.4279077593707
+Vascular_smooth_muscle_cells-expression.csv.gz	canberra	OmniPath	1e+05	539	92.14	91.5	9.56003888247027	5.89071038251366	46.7424877130346

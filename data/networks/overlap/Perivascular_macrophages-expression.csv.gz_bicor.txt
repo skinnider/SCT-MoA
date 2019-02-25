@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Perivascular_macrophages-expression.csv.gz	bicor	HIPPIE	20000	456	82.29	83	9.4647618655578	5.49397590361446	39.4843531520775
+Perivascular_macrophages-expression.csv.gz	bicor	HIPPIE	50000	606	187.92	187.5	14.9434489548654	3.232	27.9774770377811
+Perivascular_macrophages-expression.csv.gz	bicor	HIPPIE	1e+05	821	349.22	351.5	19.5471871442549	2.33570412517781	24.1354419190006
+Perivascular_macrophages-expression.csv.gz	bicor	Reactome	20000	1036	212.61	212	13.1070919194861	4.88679245283019	62.8201896391585
+Perivascular_macrophages-expression.csv.gz	bicor	Reactome	50000	1603	508.81	511.5	20.0033810273477	3.13391984359726	54.7002528474599
+Perivascular_macrophages-expression.csv.gz	bicor	Reactome	1e+05	2278	901.59	902	28.5671616943778	2.52549889135255	48.1815454655716
+Perivascular_macrophages-expression.csv.gz	bicor	STRING	20000	350	38.67	39	5.70141750937095	8.97435897435897	54.6057185758266
+Perivascular_macrophages-expression.csv.gz	bicor	STRING	50000	475	92.49	93	8.42134733336008	5.10752688172043	45.4214729375591
+Perivascular_macrophages-expression.csv.gz	bicor	STRING	1e+05	636	165.16	165	11.9702661928327	3.85454545454545	39.3341294516843
+Perivascular_macrophages-expression.csv.gz	bicor	OmniPath	20000	486	27.03	27	4.9552645201489	18	92.6227042237109
+Perivascular_macrophages-expression.csv.gz	bicor	OmniPath	50000	522	47.03	47	6.54812024842846	11.1063829787234	72.5353203637322
+Perivascular_macrophages-expression.csv.gz	bicor	OmniPath	1e+05	555	74.44	73	8.87889336993904	7.6027397260274	54.1238620599967

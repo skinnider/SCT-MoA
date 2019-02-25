@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_neurons-expression.csv.gz	zi_kendall	HIPPIE	20000	606	131.17	130.5	10.3143079988407	4.64367816091954	46.0360501211879
+Enteric_neurons-expression.csv.gz	zi_kendall	HIPPIE	50000	834	287.5	288	15.9845253450032	2.89583333333333	34.1893167425729
+Enteric_neurons-expression.csv.gz	zi_kendall	HIPPIE	1e+05	1151	534.98	535.5	21.8862901600453	2.14939309056956	28.1463873271944
+Enteric_neurons-expression.csv.gz	zi_kendall	Reactome	20000	838	64.28	64	6.96612293078931	13.09375	111.068955814756
+Enteric_neurons-expression.csv.gz	zi_kendall	Reactome	50000	1154	205.76	205	11.9105419734372	5.62926829268293	79.6135055914966
+Enteric_neurons-expression.csv.gz	zi_kendall	Reactome	1e+05	1666	497.22	498.5	19.520297646348	3.3420260782347	59.8751115979352
+Enteric_neurons-expression.csv.gz	zi_kendall	STRING	20000	509	45.75	45	6.09251071962019	11.3111111111111	76.035976187643
+Enteric_neurons-expression.csv.gz	zi_kendall	STRING	50000	651	105.17	103	8.78480667304798	6.32038834951456	62.1334105933852
+Enteric_neurons-expression.csv.gz	zi_kendall	STRING	1e+05	831	181.22	183	11.8053061173886	4.54098360655738	55.0413511974
+Enteric_neurons-expression.csv.gz	zi_kendall	OmniPath	20000	507	30.82	31	4.79136428558419	16.3548387096774	99.3829672756642
+Enteric_neurons-expression.csv.gz	zi_kendall	OmniPath	50000	550	63.45	62	7.94854030179711	8.87096774193548	61.2124970782364
+Enteric_neurons-expression.csv.gz	zi_kendall	OmniPath	1e+05	602	112.09	111	10.1305568365308	5.42342342342342	48.3596319437626

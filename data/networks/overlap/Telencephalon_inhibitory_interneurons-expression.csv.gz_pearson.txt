@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	HIPPIE	20000	560	106.27	107	9.67434908937187	5.23364485981308	46.9003129624982
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	HIPPIE	50000	821	243.75	244	14.150257876795	3.36475409836066	40.7943095472934
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	HIPPIE	1e+05	1093	433.32	431.5	19.8376644112388	2.53302433371958	33.253914690999
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	Reactome	20000	882	80.97	81	8.37197706638044	10.8888888888889	95.6799085387747
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	Reactome	50000	1254	215.64	216	14.7870541250436	5.80555555555556	70.2208831603189
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	Reactome	1e+05	1722	437.41	436	20.0343618956446	3.94954128440367	64.1193369018289
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	STRING	20000	436	45.91	45	6.33109210742722	9.68888888888889	61.6149620603959
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	STRING	50000	647	97.18	97	9.52973019427925	6.67010309278351	57.695232581722
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	STRING	1e+05	831	164.2	163	12.3124311001508	5.09815950920245	54.1566482343065
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	OmniPath	20000	453	22.87	22.5	4.65291263184642	20.1333333333333	92.443171413969
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	OmniPath	50000	514	47.34	46	6.48108358567026	11.1739130434783	72.0033916908262
+Telencephalon_inhibitory_interneurons-expression.csv.gz	pearson	OmniPath	1e+05	573	80.54	80	8.57341439237801	7.1625	57.4403589353863

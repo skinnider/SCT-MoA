@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Ependymal_cells-expression.csv.gz	hamming	HIPPIE	20000	322	92.84	92	9.45987806101606	3.5	24.224413731543
+Ependymal_cells-expression.csv.gz	hamming	HIPPIE	50000	524	174.19	174.5	13.3414331457995	3.00286532951289	26.2198218270228
+Ependymal_cells-expression.csv.gz	hamming	HIPPIE	1e+05	695	285.6	285	17.654369648242	2.43859649122807	23.1897262919703
+Ependymal_cells-expression.csv.gz	hamming	Reactome	20000	479	78.64	80	9.09936172697755	5.9875	43.9986904590267
+Ependymal_cells-expression.csv.gz	hamming	Reactome	50000	692	143.07	145	11.7767576268691	4.77241379310345	46.6113014627723
+Ependymal_cells-expression.csv.gz	hamming	Reactome	1e+05	866	226.87	227.5	15.8863736795679	3.80659340659341	40.2313336505492
+Ependymal_cells-expression.csv.gz	hamming	STRING	20000	196	43.74	44	5.8337575603317	4.45454545454545	26.0998161862837
+Ependymal_cells-expression.csv.gz	hamming	STRING	50000	304	74.1	74	7.68771813355628	4.10810810810811	29.9048425041112
+Ependymal_cells-expression.csv.gz	hamming	STRING	1e+05	402	115.08	114	9.43417385697531	3.52631578947368	30.4128378753441
+Ependymal_cells-expression.csv.gz	hamming	OmniPath	20000	296	20.81	21	3.89948196507685	14.0952380952381	70.5709123582462
+Ependymal_cells-expression.csv.gz	hamming	OmniPath	50000	414	39.75	40	5.52016505389306	10.35	67.7968858442126
+Ependymal_cells-expression.csv.gz	hamming	OmniPath	1e+05	487	67.01	67	7.38069417227448	7.26865671641791	56.9038616418614

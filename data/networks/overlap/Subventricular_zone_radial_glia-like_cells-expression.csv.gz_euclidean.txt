@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	HIPPIE	20000	62	45.84	45.5	6.40189365924196	1.36263736263736	2.52425311324423
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	HIPPIE	50000	146	129.53	129	9.99439742045411	1.13178294573643	1.64792326211615
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	HIPPIE	1e+05	292	254.25	255	13.2034392519831	1.14509803921569	2.85910354715572
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	Reactome	20000	103	57.9	57	6.54973204787722	1.80701754385965	6.88577787157217
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	Reactome	50000	244	148.41	149	10.7460070103582	1.63758389261745	8.89539713754701
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	Reactome	1e+05	463	286.53	286.5	13.6636766869705	1.61605584642234	12.9152646130949
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	STRING	20000	18	13.15	13	3.63032958962309	1.38461538461538	1.33596685377086
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	STRING	50000	51	33.9	34	5.85946527708232	1.5	2.91835503606139
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	STRING	1e+05	100	66.36	66	7.65350649154762	1.51515151515152	4.395370937119
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	OmniPath	20000	6	3.45	3	2.00189304349053	2	1.27379432597148
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	OmniPath	50000	10	11.41	11	3.23832791371839	0.909090909090909	-0.435409889785058
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	euclidean	OmniPath	1e+05	19	24.68	24	4.75645228966279	0.791666666666667	-1.19416734450262

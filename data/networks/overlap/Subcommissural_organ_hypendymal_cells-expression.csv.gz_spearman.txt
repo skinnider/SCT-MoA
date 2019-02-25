@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	HIPPIE	20000	198	62.76	62	7.61327920163317	3.19354838709677	17.7636989815097
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	HIPPIE	50000	372	142.82	143	12.7583444668716	2.6013986013986	17.9631456569534
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	HIPPIE	1e+05	598	273.66	273	17.0051804346841	2.19047619047619	19.073011382959
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	Reactome	20000	302	67.9	68	8.15692059145812	4.44117647058824	28.6995560855586
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	Reactome	50000	531	153.98	154	11.3448960624003	3.44805194805195	33.232565369156
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	Reactome	1e+05	851	298.28	299	14.2680543080468	2.84615384615385	38.7382882113281
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	STRING	20000	99	19.86	20	4.55276583712327	4.95	17.3828399771172
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	STRING	50000	197	49.26	49	6.66305963025723	4.02040816326531	22.172996821026
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	STRING	1e+05	319	101.12	100	9.17867532970204	3.19	23.7376301234824
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	OmniPath	20000	165	14.92	15	4.24425934336456	11	35.3607043911286
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	OmniPath	50000	257	29.31	28	5.79218386615911	9.17857142857143	39.3098708986572
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	spearman	OmniPath	1e+05	337	52.26	52	7.73894780518083	6.48076923076923	36.7931154425646

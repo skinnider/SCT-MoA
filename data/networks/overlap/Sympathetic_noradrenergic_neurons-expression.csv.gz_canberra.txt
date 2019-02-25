@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	HIPPIE	20000	355	98.79	99	9.19188816733581	3.58585858585859	27.8734896830517
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	HIPPIE	50000	575	215.45	215.5	13.815066435094	2.66821345707657	26.0259334755457
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	835	376.42	377	17.9512133463468	2.21485411140584	25.545905513586
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	Reactome	20000	496	81.15	81	7.45271288142307	6.12345679012346	55.6642938753312
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	Reactome	50000	832	235.38	235	13.7904812728698	3.54042553191489	43.2631746633627
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	Reactome	1e+05	1294	484.54	482	22.5336650504542	2.68464730290456	35.9222522473629
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	STRING	20000	194	28.98	29	5.30100047732558	6.68965517241379	31.1299726732442
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	STRING	50000	316	62.76	63	7.35687680769743	5.01587301587302	34.4222156520328
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	STRING	1e+05	448	113.34	114	9.76203737635611	3.92982456140351	34.2817781880814
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	OmniPath	20000	234	19.11	19	4.03243165478413	12.3157894736842	53.2904258265734
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	OmniPath	50000	309	36.77	37	4.69440888158187	8.35135135135135	57.9902617916544
+Sympathetic_noradrenergic_neurons-expression.csv.gz	canberra	OmniPath	1e+05	391	61.16	61	6.6632112257067	6.40983606557377	49.501657508241

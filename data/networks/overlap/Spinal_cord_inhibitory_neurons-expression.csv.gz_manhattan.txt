@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	HIPPIE	20000	45	34.28	35	5.40123442680776	1.28571428571429	1.98473148041748
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	HIPPIE	50000	120	86.97	87	8.2332842594538	1.37931034482759	4.01176480237198
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	256	184.13	184	13.3814699257495	1.39130434782609	5.37085988301653
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	Reactome	20000	61	26.63	26	5.18867258866111	2.34615384615385	6.62404486170688
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	Reactome	50000	135	69.45	69	7.85908083144279	1.95652173913043	8.34067003583244
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	Reactome	1e+05	302	150.06	150.5	10.9588947315582	2.00664451827243	13.8645368645125
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	STRING	20000	18	9.51	9	2.73951628849866	2	3.09908724968844
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	STRING	50000	49	26.49	26.5	4.6547358310183	1.84905660377358	4.83593501697723
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	STRING	1e+05	102	55.75	56	7.77249098819781	1.82142857142857	5.95047328716477
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	OmniPath	20000	3	2.81	3	1.5871644240881	1	0.119710344508991
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	OmniPath	50000	8	8.28	8	2.54685387222444	1	-0.109939562317898
+Spinal_cord_inhibitory_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	20	19.73	20	4.21362628440711	1	0.0640778231802754

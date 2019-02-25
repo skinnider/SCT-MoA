@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	HIPPIE	20000	401	132.27	132.5	10.4251589625262	3.02641509433962	25.7770649796292
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	HIPPIE	50000	669	282.52	281	15.7258585222755	2.38078291814947	24.5760827272199
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	HIPPIE	1e+05	947	481.47	482.5	20.8401588818853	1.96269430051813	22.3381214432414
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	Reactome	20000	492	80.99	80	8.86201176512718	6.15	46.3788596645021
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	Reactome	50000	882	206.32	206	12.0737464581361	4.28155339805825	55.9627454777869
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	Reactome	1e+05	1346	411.01	412	18.1822951957628	3.26699029126214	51.4231008755094
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	STRING	20000	220	35.94	36	5.40635615444329	6.11111111111111	34.0451118538921
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	STRING	50000	400	81.54	82	8.05463665953789	4.8780487804878	39.5374755511654
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	STRING	1e+05	567	145.26	145	11.5133826392585	3.91034482758621	36.6304163784102
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	OmniPath	20000	348	29.49	29	4.80213546773777	12	66.3267419546676
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	OmniPath	50000	452	54.63	54.5	7.08769740786488	8.29357798165138	56.0647523635895
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	dice	OmniPath	1e+05	522	91.31	90.5	9.37296240483361	5.76795580110497	45.9502536549058

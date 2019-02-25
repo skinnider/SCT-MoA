@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	HIPPIE	20000	451	125.59	125	9.9667072057552	3.608	32.64969997434
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	HIPPIE	50000	688	258.64	256	14.902050567325	2.6875	28.8121421988352
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	HIPPIE	1e+05	989	452.08	450.5	19.5467220636695	2.1953385127636	27.4685442526421
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	Reactome	20000	668	113.34	113	9.07123325283132	5.91150442477876	61.144938570164
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	Reactome	50000	1056	278.98	279.5	13.1671307935075	3.77817531305903	59.0120970305191
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	Reactome	1e+05	1540	538.31	538.5	20.5272398475191	2.85979572887651	48.7980852487123
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	STRING	20000	285	47.93	48	6.23488880284471	5.9375	38.0231320070753
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	STRING	50000	439	95.7	96	9.30135213370355	4.57291666666667	36.9086123248736
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	STRING	1e+05	611	161.15	160	11.9817833110573	3.81875	37.5444946984527
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	OmniPath	20000	428	39.9	39	6.30455983772656	10.974358974359	61.5586194737347
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	OmniPath	50000	495	69.16	69	7.84794896965462	7.17391304347826	54.2613110312746
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	kendall	OmniPath	1e+05	571	106.3	106	9.6142781026109	5.38679245283019	48.3343621892739

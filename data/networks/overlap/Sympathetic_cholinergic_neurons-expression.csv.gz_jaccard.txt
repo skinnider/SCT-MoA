@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	HIPPIE	20000	294	107.61	108	9.59786908168115	2.72222222222222	19.4199356559
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	HIPPIE	50000	638	268.95	269.5	14.1002005860079	2.36734693877551	26.1733865237507
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	HIPPIE	1e+05	949	462.9	463.5	17.3219659695574	2.04746494066882	28.0626345100954
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	Reactome	20000	346	87.94	88	8.41093564259283	3.93181818181818	30.6814855047979
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	Reactome	50000	874	247.5	246.5	13.9555571639966	3.54563894523327	44.8925107495016
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	Reactome	1e+05	1393	489.53	487.5	17.3882899177184	2.8574358974359	51.9585309582042
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	STRING	20000	182	45.98	45.5	6.43064003915095	4	21.1518603392329
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	STRING	50000	369	85.95	84	8.66360668590633	4.39285714285714	32.6711507414639
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	STRING	1e+05	517	153.97	154	10.7001888022614	3.35714285714286	33.9274387311069
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	OmniPath	20000	194	19.59	19.5	4.24048548773807	9.94871794871795	41.1297245337426
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	OmniPath	50000	401	53.11	53	6.64374088366584	7.56603773584906	52.3635713811951
+Sympathetic_cholinergic_neurons-expression.csv.gz	jaccard	OmniPath	1e+05	491	86.76	86	8.48780467982318	5.7093023255814	47.6259781237592

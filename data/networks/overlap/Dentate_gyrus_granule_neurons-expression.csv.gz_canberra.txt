@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	HIPPIE	20000	426	92.04	92.5	8.56221438364604	4.60540540540541	39.0039287778018
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	HIPPIE	50000	597	204.09	203.5	13.0856502484302	2.93366093366093	30.0260203001478
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	913	388.68	388	16.8761860787814	2.35309278350515	31.0686311203472
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	Reactome	20000	609	48.39	49	7.10511979298923	12.4285714285714	78.9022586998696
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	Reactome	50000	894	132.52	132.5	11.3675774983863	6.74716981132075	66.9870075755453
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	Reactome	1e+05	1201	280.03	278	16.9159867007694	4.32014388489209	54.4437647233497
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	STRING	20000	254	27.14	27	4.33454528506542	9.40740740740741	52.3376698316295
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	STRING	50000	403	61.71	62	7.30199225616481	6.5	46.7392990881168
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	STRING	1e+05	568	120.9	121	10.5222227555385	4.69421487603306	42.4910221335758
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	OmniPath	20000	425	30.06	29.5	4.51891646975313	14.4067796610169	87.3970569368758
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	OmniPath	50000	492	53.88	54.5	6.29779502859709	9.02752293577982	69.5672053489484
+Dentate_gyrus_granule_neurons-expression.csv.gz	canberra	OmniPath	1e+05	552	84.96	84	8.24733810744933	6.57142857142857	56.6291807023348

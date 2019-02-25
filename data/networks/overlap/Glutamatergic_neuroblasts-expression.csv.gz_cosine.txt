@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	HIPPIE	20000	474	94.73	95	9.81017303361643	4.98947368421053	38.6608879069063
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	HIPPIE	50000	696	224.46	223	14.9945579353567	3.12107623318386	31.4474092556023
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	HIPPIE	1e+05	1001	432.52	435	18.6328047846108	2.30114942528736	30.5096310819249
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	Reactome	20000	776	79.14	79	8.46026959476834	9.82278481012658	82.3685335548792
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	Reactome	50000	1188	218.79	218	12.471620308978	5.44954128440367	77.713238215109
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	Reactome	1e+05	1611	447.4	447	18.4483992352571	3.60402684563758	63.0732230564602
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	STRING	20000	349	30.06	30	4.33640916478651	11.6333333333333	73.5493326113985
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	STRING	50000	528	79.75	80	7.68886772344842	6.6	58.2985708848899
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	STRING	1e+05	707	147.58	147	12.6564392522326	4.80952380952381	44.200425479174
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	OmniPath	20000	422	26.02	26	4.739645812109	16.2307692307692	83.5463272357477
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	OmniPath	50000	500	53.27	53	6.66796199537139	9.43396226415094	66.9964826299401
+Glutamatergic_neuroblasts-expression.csv.gz	cosine	OmniPath	1e+05	555	90.13	89	8.4083352103791	6.23595505617978	55.2868062902835

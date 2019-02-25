@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	HIPPIE	20000	43	34.53	34	5.24251269850054	1.26470588235294	1.61563747903226
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	HIPPIE	50000	107	82.89	82	9.33971102444835	1.30487804878049	2.58145031863275
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	HIPPIE	1e+05	211	167.39	167	12.5857824227149	1.26347305389222	3.46502096852496
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	Reactome	20000	44	25.75	25	5.5	1.76	3.31818181818182
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	Reactome	50000	115	73.11	74	8.43141671836874	1.55405405405405	4.96832280970506
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	Reactome	1e+05	252	155.19	154.5	13.5964158973064	1.63106796116505	7.12025880432058
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	STRING	20000	11	6.73	7	2.55388395044161	1.57142857142857	1.67196320696626
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	STRING	50000	33	19.28	19	4.02788261793196	1.73684210526316	3.4062561651919
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	STRING	1e+05	77	47.39	47	5.62083965114096	1.63829787234043	5.26789622863366
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	OmniPath	20000	5	3.94	4	2.15002936320095	1.25	0.493016522538037
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	OmniPath	50000	12	9.71	9	3.42980106617503	1.33333333333333	0.667677208041062
+Spinal_cord_excitatory_neurons-expression.csv.gz	manhattan	OmniPath	1e+05	21	19.53	19.5	4.94301874803589	1.07692307692308	0.297389120885714

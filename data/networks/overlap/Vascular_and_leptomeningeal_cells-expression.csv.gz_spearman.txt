@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	HIPPIE	20000	618	138.41	138	9.95961035301273	4.47826086956522	48.1534902472291
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	HIPPIE	50000	892	308.69	309.5	15.78625856864	2.88206785137318	36.9504906728671
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	HIPPIE	1e+05	1186	557.02	556	20.2743705453487	2.13309352517986	31.0234045783631
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	Reactome	20000	814	95.56	94.5	8.92088685177781	8.61375661375661	80.534593918409
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	Reactome	50000	1166	287.31	285.5	15.423119861514	4.08406304728546	56.972260339663
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	Reactome	1e+05	1718	601.87	601.5	20.7727750148646	2.85619285120532	53.7304235568585
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	STRING	20000	373	44.91	44.5	6.38352519689505	8.38202247191011	51.3963664088901
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	STRING	50000	537	121.42	122	9.77647144625268	4.4016393442623	42.508179181487
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	STRING	1e+05	727	212.24	212.5	12.4949444321948	3.42117647058824	41.197462125054
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	OmniPath	20000	496	34.74	35	5.661530649297	14.1714285714286	81.4726667702974
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	OmniPath	50000	534	70.01	69	7.73617372079918	7.73913043478261	59.9766779735742
+Vascular_and_leptomeningeal_cells-expression.csv.gz	spearman	OmniPath	1e+05	580	113.08	113.5	10.2135580321829	5.11013215859031	45.7157044125795

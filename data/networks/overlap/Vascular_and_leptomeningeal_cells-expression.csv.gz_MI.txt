@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	HIPPIE	20000	620	137.43	137	10.7461574057846	4.52554744525547	44.9062843375285
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	HIPPIE	50000	861	306.79	307	15.8829652728508	2.80456026058632	34.8933584176077
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	HIPPIE	1e+05	1203	545.14	543.5	20.0050599659792	2.21343146274149	32.8846802318395
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	Reactome	20000	860	119.31	120	10.4964592394605	7.16666666666667	70.5657005950577
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	Reactome	50000	1222	324.24	325.5	15.9684790519424	3.7542242703533	56.2207582249855
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	Reactome	1e+05	1782	640.01	639.5	19.74713634782	2.78655199374511	57.8306636408104
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	STRING	20000	397	57.35	57.5	7.08587298500304	6.90434782608696	47.9334022383488
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	STRING	50000	554	140.86	141	10.9470903841518	3.9290780141844	37.739708498078
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	STRING	1e+05	756	246.81	246	13.6867516861077	3.07317073170732	37.2031298351703
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	OmniPath	20000	493	35.99	36	5.05424114337192	13.6944444444444	90.4210913243263
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	OmniPath	50000	534	72.11	72	8.26565854067969	7.41666666666667	55.8806050028312
+Vascular_and_leptomeningeal_cells-expression.csv.gz	MI	OmniPath	1e+05	596	119.61	119	11.1779861217204	5.00840336134454	42.6185893248076

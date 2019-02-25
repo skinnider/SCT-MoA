@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	HIPPIE	20000	375	96.22	96	8.86552738180734	3.90625	31.4453938264378
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	HIPPIE	50000	558	201.53	201	11.956533229523	2.77611940298507	29.8138258939312
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	696	306.72	307.5	15.4410446079875	2.26341463414634	25.2107295771058
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	Reactome	20000	515	66.82	67	7.8603724177328	7.6865671641791	57.0176546583108
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	Reactome	50000	784	135.65	135	11.4938499145667	5.80740740740741	56.4084275346517
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	Reactome	1e+05	993	233.21	233	14.545848795162	4.2618025751073	52.234146710827
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	STRING	20000	221	31.5	32	5.50390127935897	6.90625	34.4301233582574
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	STRING	50000	335	56.78	58	7.01164975759859	5.77586206896552	39.679677339629
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	STRING	1e+05	388	83.64	84	8.6497737460922	4.61904761904762	35.1870475383826
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	OmniPath	20000	352	22.69	23	4.00931995039638	15.304347826087	82.1361238499917
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	OmniPath	50000	436	39.59	40	6.07378037805188	10.9	65.2657777078113
+Spinal_cord_excitatory_neurons-expression.csv.gz	hamming	OmniPath	1e+05	476	55.35	54	7.01855405408415	8.81481481481481	59.9339973388423

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	HIPPIE	20000	502	96.82	97.5	9.22379443821163	5.14871794871795	43.9276918749892
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	HIPPIE	50000	710	233.43	235	15.2356937366292	3.02127659574468	31.2798359062734
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	HIPPIE	1e+05	1022	451.39	451	19.9473524229876	2.26607538802661	28.6058013063639
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	Reactome	20000	706	68.68	68.5	7.90330451281122	10.3065693430657	80.6396867243198
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	Reactome	50000	1049	218.91	219.5	13.8615775917943	4.77904328018223	59.8842371658615
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	Reactome	1e+05	1519	477.41	477.5	21.1770291980855	3.18115183246073	49.184897005958
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	STRING	20000	306	30.19	30.5	5.27179458835587	10.0327868852459	52.318047559971
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	STRING	50000	443	75.09	75.5	8.21810639547047	5.86754966887417	44.7682205967519
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	STRING	1e+05	621	142.07	142	11.3966635202562	4.37323943661972	42.0237027397324
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	OmniPath	20000	469	23.45	24	4.61086770685313	19.5416666666667	96.6304019822082
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	OmniPath	50000	515	41.12	41	5.94805799731256	12.5609756097561	79.6697006340737
+Vascular_and_leptomeningeal_cells-expression.csv.gz	canberra	OmniPath	1e+05	548	70.2	70	8.54341260796287	7.82857142857143	55.9261295134765

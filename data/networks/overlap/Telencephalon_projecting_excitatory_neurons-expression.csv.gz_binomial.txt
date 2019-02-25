@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	HIPPIE	20000	136	57.08	56.5	6.79227130604701	2.4070796460177	11.6190882907959
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	HIPPIE	50000	280	134.57	135	10.0626873531715	2.07407407407407	14.452401718927
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	HIPPIE	1e+05	497	259.57	261	14.6116426526965	1.90421455938697	16.2493708369047
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	Reactome	20000	295	132.33	132.5	9.81861250458289	2.22641509433962	16.5675139867342
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	Reactome	50000	592	259.41	261	14.2091839699157	2.26819923371648	23.4066925098707
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	Reactome	1e+05	1067	449.41	449.5	17.5344365363266	2.37374860956618	35.2215481073784
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	STRING	20000	119	22.66	22	4.72949054424267	5.40909090909091	20.3700586984527
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	STRING	50000	213	56.51	57.5	7.43251796044404	3.70434782608696	21.0547758959806
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	STRING	1e+05	374	108.92	109	10.473323495935	3.43119266055046	25.3100174078347
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	OmniPath	20000	66	14.76	14	3.7338744196636	4.71428571428571	13.7230110713301
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	OmniPath	50000	108	32.53	32.5	4.90815647672321	3.32307692307692	15.3764453839062
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	binomial	OmniPath	1e+05	185	59.25	59	7.99542166972873	3.13559322033898	15.7277508547297

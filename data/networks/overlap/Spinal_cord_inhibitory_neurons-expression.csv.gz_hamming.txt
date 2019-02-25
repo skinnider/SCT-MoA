@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	HIPPIE	20000	358	97.08	97.5	9.53640552320581	3.67179487179487	27.3604136658282
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	HIPPIE	50000	633	256.94	256	13.6291576920197	2.47265625	27.5923141031815
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	890	438.43	439.5	18.2198997657711	2.02502844141069	24.7844393111505
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	Reactome	20000	477	63.07	63	7.6174374651423	7.57142857142857	54.3397962758684
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	Reactome	50000	901	172.74	173	13.1284408669103	5.20809248554913	55.4719335968943
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	Reactome	1e+05	1255	344.1	343	16.1310917551206	3.65889212827988	56.4685895925702
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	STRING	20000	208	34.25	34	5.74785862629543	6.11764705882353	30.2286488406525
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	STRING	50000	402	73.19	73	8.70584965306765	5.50684931506849	37.7688580785608
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	STRING	1e+05	570	122.32	121.5	11.6894841804093	4.69135802469136	38.297669348856
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	OmniPath	20000	316	22.56	23	4.31188163477654	13.7391304347826	68.0538161421973
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	OmniPath	50000	478	48.55	48	6.24641311215299	9.95833333333333	68.7514566022642
+Spinal_cord_inhibitory_neurons-expression.csv.gz	hamming	OmniPath	1e+05	524	75.59	74	8.29761435838061	7.08108108108108	54.0408339834575

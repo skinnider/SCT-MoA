@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	HIPPIE	20000	427	98.38	98.5	8.76722546899773	4.33502538071066	37.4827818860199
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	HIPPIE	50000	686	239.89	240	14.5414037920149	2.85833333333333	30.6786061635241
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	HIPPIE	1e+05	949	394.98	394	20.2584213689921	2.40862944162437	27.3476392809162
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	Reactome	20000	589	58.41	58	8.2389748798444	10.1551724137931	64.4000021529402
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	Reactome	50000	989	151.78	152	11.9566388304244	6.50657894736842	70.0213506382449
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	Reactome	1e+05	1381	314.09	313.5	17.0341872525089	4.40510366826156	62.6334549564648
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	STRING	20000	270	26.71	27	4.96512076816106	10	48.999815182765
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	STRING	50000	460	74.15	74	8.49286688220108	6.21621621621622	45.4322439468167
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	STRING	1e+05	659	147.07	149	11.7251822582806	4.42281879194631	43.6607285689279
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	OmniPath	20000	413	25.78	25	4.61131677769403	16.52	83.9716763491656
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	OmniPath	50000	509	50.99	50	6.67952547761146	10.18	68.5692421617621
+Olfactory_inhibitory_neurons-expression.csv.gz	zi_kendall	OmniPath	1e+05	569	87.89	88	9.3245575625535	6.46590909090909	51.5960137274598

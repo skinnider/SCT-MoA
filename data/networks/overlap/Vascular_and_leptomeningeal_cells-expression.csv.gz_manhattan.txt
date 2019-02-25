@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	HIPPIE	20000	59	37.41	37	6.38510735693582	1.59459459459459	3.38130571548619
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	HIPPIE	50000	138	99.96	100	11.289505272284	1.38	3.36950106160887
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	250	204.13	205	14.7577440722154	1.21951219512195	3.10819863629157
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	Reactome	20000	98	53.07	53	6.78866405089835	1.84905660377358	6.61838613063411
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	Reactome	50000	210	132.88	131.5	10.5966261068552	1.59695817490494	7.27778815845068
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	Reactome	1e+05	413	247.92	244.5	14.1447638168456	1.68916155419223	11.6707498363034
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	STRING	20000	29	17.84	18	4.29874306270937	1.61111111111111	2.59610770804389
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	STRING	50000	67	39.1	39	6.37625012500025	1.71794871794872	4.37561253919582
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	STRING	1e+05	112	67.51	66	7.95631380055672	1.6969696969697	5.59178548197621
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	OmniPath	20000	7	3.23	3	1.98405258157758	2.33333333333333	1.90015125355315
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	OmniPath	50000	20	10.14	10	2.74145135932695	2	3.59663503291947
+Vascular_and_leptomeningeal_cells-expression.csv.gz	manhattan	OmniPath	1e+05	31	21.09	21	4.35100127800626	1.47619047619048	2.2776366557495

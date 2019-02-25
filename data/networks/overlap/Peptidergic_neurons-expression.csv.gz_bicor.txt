@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peptidergic_neurons-expression.csv.gz	bicor	HIPPIE	20000	435	91.99	92.5	9.68753755287606	4.7027027027027	35.4073466170117
+Peptidergic_neurons-expression.csv.gz	bicor	HIPPIE	50000	698	222.28	219	13.3538327264066	3.18721461187215	35.6242293689425
+Peptidergic_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	1034	413.68	415	17.7268158449283	2.49156626506024	34.9933121338019
+Peptidergic_neurons-expression.csv.gz	bicor	Reactome	20000	687	59.95	60	6.63686520866439	11.45	94.4798455724835
+Peptidergic_neurons-expression.csv.gz	bicor	Reactome	50000	1035	174.95	175	12.3151996091879	5.91428571428571	69.8364644742218
+Peptidergic_neurons-expression.csv.gz	bicor	Reactome	1e+05	1494	386.39	387	15.8470562540553	3.86046511627907	69.893738133009
+Peptidergic_neurons-expression.csv.gz	bicor	STRING	20000	296	28.21	29	4.56002613850386	10.2068965517241	58.7255405706648
+Peptidergic_neurons-expression.csv.gz	bicor	STRING	50000	456	67.82	67	7.53360149697019	6.80597014925373	51.5264843987455
+Peptidergic_neurons-expression.csv.gz	bicor	STRING	1e+05	661	128.06	127	11.8992572554897	5.20472440944882	44.787669394586
+Peptidergic_neurons-expression.csv.gz	bicor	OmniPath	20000	407	20.58	21	4.09527937158299	19.3809523809524	94.3574210544356
+Peptidergic_neurons-expression.csv.gz	bicor	OmniPath	50000	482	41.63	42	5.84073988671319	11.4761904761905	75.3962697434576
+Peptidergic_neurons-expression.csv.gz	bicor	OmniPath	1e+05	565	72.93	72.5	8.47367283491234	7.79310344827586	58.070450628283

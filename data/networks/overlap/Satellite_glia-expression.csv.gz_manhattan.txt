@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Satellite_glia-expression.csv.gz	manhattan	HIPPIE	20000	50	45.14	44	7.28915064817	1.13636363636364	0.666744348495547
+Satellite_glia-expression.csv.gz	manhattan	HIPPIE	50000	112	109.71	109	10.9075962780833	1.02752293577982	0.209945430837161
+Satellite_glia-expression.csv.gz	manhattan	HIPPIE	1e+05	228	217.66	215.5	14.0376262058423	1.05800464037123	0.736591774733013
+Satellite_glia-expression.csv.gz	manhattan	Reactome	20000	93	50.65	51	6.06925519201974	1.82352941176471	6.9777919464788
+Satellite_glia-expression.csv.gz	manhattan	Reactome	50000	228	135.52	136	9.99947473367951	1.67647058823529	9.24848579181019
+Satellite_glia-expression.csv.gz	manhattan	Reactome	1e+05	477	302.11	302.5	16.7705218774015	1.57685950413223	10.4284172715976
+Satellite_glia-expression.csv.gz	manhattan	STRING	20000	34	26.36	26	5.09212106785542	1.30769230769231	1.50035710035026
+Satellite_glia-expression.csv.gz	manhattan	STRING	50000	83	74.21	74	8.16533075035092	1.12162162162162	1.07650262662321
+Satellite_glia-expression.csv.gz	manhattan	STRING	1e+05	183	141.25	141.5	10.3683424544391	1.29328621908127	4.02668027058896
+Satellite_glia-expression.csv.gz	manhattan	OmniPath	20000	12	8.73	9	2.68875323140558	1.33333333333333	1.21617705998649
+Satellite_glia-expression.csv.gz	manhattan	OmniPath	50000	22	19.57	19.5	4.1126928434108	1.12820512820513	0.590853752643661
+Satellite_glia-expression.csv.gz	manhattan	OmniPath	1e+05	43	36.04	36	5.63524263860569	1.19444444444444	1.23508435152707

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_neurons-expression.csv.gz	euclidean	HIPPIE	20000	67	41.94	42	6.30507251298028	1.5952380952381	3.97457760373237
+Enteric_neurons-expression.csv.gz	euclidean	HIPPIE	50000	169	103.48	103	8.95609943958402	1.64077669902913	7.31568473999025
+Enteric_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	334	209.06	210.5	12.6505639272235	1.58669833729216	9.87623956677018
+Enteric_neurons-expression.csv.gz	euclidean	Reactome	20000	67	32.13	32	5.76589590224759	2.09375	6.0476291267082
+Enteric_neurons-expression.csv.gz	euclidean	Reactome	50000	168	89.43	89	8.79423020215441	1.8876404494382	8.93426692204986
+Enteric_neurons-expression.csv.gz	euclidean	Reactome	1e+05	382	202.23	203	11.8814472131465	1.88177339901478	15.1303117183476
+Enteric_neurons-expression.csv.gz	euclidean	STRING	20000	26	12.89	13	3.20635417112755	2	4.08875604512202
+Enteric_neurons-expression.csv.gz	euclidean	STRING	50000	64	34.36	34	5.54598772068419	1.88235294117647	5.34440418781588
+Enteric_neurons-expression.csv.gz	euclidean	STRING	1e+05	132	67.59	67	7.86514494783822	1.97014925373134	8.18929599227583
+Enteric_neurons-expression.csv.gz	euclidean	OmniPath	20000	9	4.41	4	2.08939119256198	2.25	2.19681217013834
+Enteric_neurons-expression.csv.gz	euclidean	OmniPath	50000	19	12.37	12	3.74342521272061	1.58333333333333	1.77110523738272
+Enteric_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	47	26.31	25.5	5.15946712462644	1.84313725490196	4.01010404761481

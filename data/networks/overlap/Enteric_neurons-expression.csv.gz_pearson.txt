@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_neurons-expression.csv.gz	pearson	HIPPIE	20000	639	116.75	116	9.98825067342383	5.50862068965517	52.2864330377263
+Enteric_neurons-expression.csv.gz	pearson	HIPPIE	50000	895	268.11	267.5	17.4448018363956	3.34579439252336	35.9356331977415
+Enteric_neurons-expression.csv.gz	pearson	HIPPIE	1e+05	1240	502.15	500	21.1054949999264	2.48	34.9600897776893
+Enteric_neurons-expression.csv.gz	pearson	Reactome	20000	958	96.14	94.5	8.67950098644717	10.1375661375661	99.2983353934487
+Enteric_neurons-expression.csv.gz	pearson	Reactome	50000	1397	261.25	259.5	13.9141487469962	5.38342967244701	81.6255468193977
+Enteric_neurons-expression.csv.gz	pearson	Reactome	1e+05	2043	562.31	561	18.7582682106485	3.64171122994652	78.9353251255602
+Enteric_neurons-expression.csv.gz	pearson	STRING	20000	546	41.65	42	5.84371370782227	13	86.3064183525774
+Enteric_neurons-expression.csv.gz	pearson	STRING	50000	731	97.12	98	8.96376544255208	7.45918367346939	70.7158173718932
+Enteric_neurons-expression.csv.gz	pearson	STRING	1e+05	932	173.23	174.5	11.947574877545	5.34097421203438	63.5082858050194
+Enteric_neurons-expression.csv.gz	pearson	OmniPath	20000	525	30.3	30	4.9696045815507	17.5	99.5451432567771
+Enteric_neurons-expression.csv.gz	pearson	OmniPath	50000	591	57.37	57	6.79669408646958	10.3684210526316	78.5131702576281
+Enteric_neurons-expression.csv.gz	pearson	OmniPath	1e+05	674	107.45	107	10.7236875536112	6.29906542056075	52.8316399715709

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	HIPPIE	20000	546	121.82	123	10.0467392569415	4.4390243902439	42.2206637548521
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	HIPPIE	50000	799	281.28	281	15.8293168749404	2.84341637010676	32.7064019306866
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	HIPPIE	1e+05	1170	529.77	530	20.5911891523309	2.20754716981132	31.092424787304
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	Reactome	20000	832	106.18	106	9.1291297559521	7.84905660377358	79.5059353304484
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	Reactome	50000	1246	303.93	303	16.6904406197322	4.11221122112211	56.4436866265975
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	Reactome	1e+05	1845	648.82	650.5	21.633951991901	2.83627978478094	55.2917932168753
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	STRING	20000	381	54.74	55	6.89549699353707	6.92727272727273	47.3149361541007
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	STRING	50000	549	122.15	122	9.63303973548612	4.5	44.3110390614889
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	STRING	1e+05	748	221.84	223	13.4064058260116	3.3542600896861	39.2469097854047
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	OmniPath	20000	501	31.26	31	5.14363389997477	16.1612903225806	91.3245400304061
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	OmniPath	50000	561	59.85	60	7.81525961362019	9.35	64.1245492506239
+Vascular_and_leptomeningeal_cells-expression.csv.gz	bicor	OmniPath	1e+05	624	104.09	104.5	9.88018627395662	5.97129186602871	52.621477529269

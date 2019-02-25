@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Ependymal_cells-expression.csv.gz	weighted_rank	HIPPIE	20000	245	70.71	72	7.18485359712508	3.40277777777778	24.2579751478499
+Ependymal_cells-expression.csv.gz	weighted_rank	HIPPIE	50000	451	168.11	169	12.4185386020297	2.66863905325444	22.779652990229
+Ependymal_cells-expression.csv.gz	weighted_rank	HIPPIE	1e+05	725	332.39	331.5	16.9657379039717	2.18702865761689	23.141345352747
+Ependymal_cells-expression.csv.gz	weighted_rank	Reactome	20000	395	55.48	56	7.68374908491942	7.05357142857143	44.1867630303496
+Ependymal_cells-expression.csv.gz	weighted_rank	Reactome	50000	680	141.38	142	11.1253464365535	4.7887323943662	48.4137732763366
+Ependymal_cells-expression.csv.gz	weighted_rank	Reactome	1e+05	965	267.02	265	15.4834417910544	3.64150943396226	45.0791244878939
+Ependymal_cells-expression.csv.gz	weighted_rank	STRING	20000	189	42.56	43	5.85570601458893	4.3953488372093	25.008086067702
+Ependymal_cells-expression.csv.gz	weighted_rank	STRING	50000	354	100.95	102	10.5297797995145	3.47058823529412	24.03184157865
+Ependymal_cells-expression.csv.gz	weighted_rank	STRING	1e+05	511	171.64	172	13.6133624194626	2.97093023255814	24.9284482072429
+Ependymal_cells-expression.csv.gz	weighted_rank	OmniPath	20000	259	19.02	19	4.16328347496652	13.6315789473684	57.6420033473531
+Ependymal_cells-expression.csv.gz	weighted_rank	OmniPath	50000	383	39.57	39	5.91224546721856	9.82051282051282	58.0879129434333
+Ependymal_cells-expression.csv.gz	weighted_rank	OmniPath	1e+05	492	71.01	71	7.63894196492121	6.92957746478873	55.1110352628975

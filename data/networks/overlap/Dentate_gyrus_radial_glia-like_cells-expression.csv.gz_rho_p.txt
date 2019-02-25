@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	HIPPIE	20000	133	47.48	47	7.32848324461936	2.82978723404255	11.6695361298383
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	HIPPIE	50000	323	112.89	112.5	10.4985761420347	2.87111111111111	20.0131900895352
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	HIPPIE	1e+05	524	219.51	219	16.0255446337427	2.39269406392694	19.0002902839806
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	Reactome	20000	198	46.57	47	6.84497161160193	4.21276595744681	22.1228090622513
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	Reactome	50000	495	125.15	125	10.2920730504971	3.96	35.9354231344227
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	Reactome	1e+05	771	250.46	248	15.2212106129983	3.10887096774194	34.1983310812005
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	STRING	20000	58	8.01	8	2.90765273793905	7.25	17.1925620098062
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	STRING	50000	151	23.26	23	5.06447320941565	6.56521739130435	25.2227615228591
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	STRING	1e+05	254	49.8	50	6.43381219759634	5.08	31.7385701864734
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	OmniPath	20000	106	5.87	6	2.38960290010747	17.6666666666667	41.9023595910002
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	OmniPath	50000	277	16.9	16.5	3.5746017649212	16.7878787878788	72.7633501869917
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	rho_p	OmniPath	1e+05	387	29.42	29	4.93836761971755	13.3448275862069	72.4085421612359

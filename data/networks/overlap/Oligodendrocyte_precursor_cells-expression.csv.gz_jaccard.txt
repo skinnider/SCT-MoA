@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	HIPPIE	20000	419	106.56	108	9.32934979925009	3.87962962962963	33.4900080630608
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	HIPPIE	50000	685	247.49	248	12.6798137513008	2.76209677419355	34.5044500322504
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	HIPPIE	1e+05	988	434	434.5	18.0532321737464	2.27387802071346	30.6870257175136
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	Reactome	20000	537	76.52	76.5	8.27980383313225	7.01960784313725	55.61484417751
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	Reactome	50000	873	187.57	187.5	14.4559623852875	4.656	47.4150375970535
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	Reactome	1e+05	1218	389.52	390	20.549265758959	3.12307692307692	40.3167689647891
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	STRING	20000	221	33.05	33	5.82640280936443	6.6969696969697	32.2583257885842
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	STRING	50000	377	74.26	74.5	8.22243788960943	5.06040268456376	36.818763980275
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	STRING	1e+05	563	131.1	130.5	10.2715651438839	4.31417624521073	42.0481196341505
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	OmniPath	20000	408	25.19	25	4.19642705167146	16.32	91.2228415474361
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	OmniPath	50000	486	49.08	49	6.57156408668854	9.91836734693878	66.4864550107686
+Oligodendrocyte_precursor_cells-expression.csv.gz	jaccard	OmniPath	1e+05	526	80.78	81.5	8.49548899907082	6.45398773006135	52.4066360451641

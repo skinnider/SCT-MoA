@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	HIPPIE	20000	403	133.31	133.5	10.5406332587255	3.0187265917603	25.5857492980085
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	HIPPIE	50000	680	283.78	281.5	15.5131615674621	2.41563055062167	25.5408930202241
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	HIPPIE	1e+05	953	474.16	473.5	20.1728490398317	2.01267159450898	23.736855367059
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	Reactome	20000	496	80.97	80	8.60872824639052	6.2	48.2103730215917
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	Reactome	50000	901	208.42	208	12.2220036711406	4.33173076923077	56.6666496456196
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	Reactome	1e+05	1375	409.38	410.5	17.7586399515642	3.34957369062119	54.3746594690629
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	STRING	20000	225	37.17	37.5	5.47917084341355	6	34.2807343242068
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	STRING	50000	405	79.91	80.5	7.9201762555635	5.03105590062112	41.0458037182748
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	STRING	1e+05	573	144.18	145	11.2226142545786	3.95172413793103	38.2103483441971
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	OmniPath	20000	353	29.76	30	4.73994416708369	11.7666666666667	68.1948961012504
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	OmniPath	50000	458	54.01	53	7.17387938667395	8.64150943396226	56.3140217760621
+Di-_and_mesencephalon_excitatory_neurons-expression.csv.gz	hamming	OmniPath	1e+05	527	90.24	90	9.43999657592816	5.85555555555556	46.2669659344719

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peptidergic_neurons-expression.csv.gz	cosine	HIPPIE	20000	498	103.12	103.5	8.94458811604294	4.81159420289855	44.1473654099004
+Peptidergic_neurons-expression.csv.gz	cosine	HIPPIE	50000	741	261.73	261	13.8336838217739	2.83908045977011	34.6451463091589
+Peptidergic_neurons-expression.csv.gz	cosine	HIPPIE	1e+05	1060	479.09	479	20.4381772893057	2.21294363256785	28.4227889687581
+Peptidergic_neurons-expression.csv.gz	cosine	Reactome	20000	799	55.33	55.5	7.42239989504878	14.3963963963964	100.19266147275
+Peptidergic_neurons-expression.csv.gz	cosine	Reactome	50000	1089	169.58	168	10.6658901232486	6.48214285714286	86.2019005798612
+Peptidergic_neurons-expression.csv.gz	cosine	Reactome	1e+05	1436	379.23	377	17.7740333809257	3.80901856763926	59.4558352261269
+Peptidergic_neurons-expression.csv.gz	cosine	STRING	20000	317	34.58	34	5.64466316286652	9.32352941176471	50.0331006211147
+Peptidergic_neurons-expression.csv.gz	cosine	STRING	50000	487	79.09	79	8.02155555583539	6.16455696202532	50.8517328292092
+Peptidergic_neurons-expression.csv.gz	cosine	STRING	1e+05	675	147	146	11.5985021673168	4.62328767123288	45.5231194841556
+Peptidergic_neurons-expression.csv.gz	cosine	OmniPath	20000	457	23.86	24	4.06020350786171	19.0416666666667	106.679381750525
+Peptidergic_neurons-expression.csv.gz	cosine	OmniPath	50000	508	46.47	45	6.36507992284798	11.2888888888889	72.5096943941427
+Peptidergic_neurons-expression.csv.gz	cosine	OmniPath	1e+05	553	78.46	79	8.3960308082649	7	56.519563926906

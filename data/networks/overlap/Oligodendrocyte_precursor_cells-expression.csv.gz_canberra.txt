@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	HIPPIE	20000	426	100.42	101	9.23889450730831	4.21782178217822	35.2401469399238
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	HIPPIE	50000	681	243.84	243	13.1891599199471	2.80246913580247	33.1454014246082
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	HIPPIE	1e+05	985	423.17	423	18.2685107452273	2.32860520094563	30.754012072209
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	Reactome	20000	568	64.4	64	7.22369837284325	8.875	69.7149817181227
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	Reactome	50000	876	174.09	175	14.1336299282773	5.00571428571429	49.6624012063372
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	Reactome	1e+05	1233	362.88	362	18.6326963625068	3.4060773480663	46.6985552209652
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	STRING	20000	236	28.46	28	5.43728244659411	8.42857142857143	38.1698030290853
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	STRING	50000	385	69.27	69	7.58501313396518	5.57971014492754	41.6255047187964
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	STRING	1e+05	562	123.1	122	10.117990777508	4.60655737704918	43.3781775108612
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	OmniPath	20000	407	24.46	25	4.55365321206584	16.28	84.0072755181228
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	OmniPath	50000	469	47.05	47	6.5418234877941	9.97872340425532	64.5003645829462
+Oligodendrocyte_precursor_cells-expression.csv.gz	canberra	OmniPath	1e+05	524	74.91	75	8.3134247036363	6.98666666666667	54.0198553555874

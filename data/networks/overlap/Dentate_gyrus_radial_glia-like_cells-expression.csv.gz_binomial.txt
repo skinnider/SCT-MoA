@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	HIPPIE	20000	68	49.44	49	6.61696625533502	1.38775510204082	2.80491078294917
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	HIPPIE	50000	159	128.07	127.5	10.1923470993653	1.24705882352941	3.03462977648458
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	HIPPIE	1e+05	347	260.32	260	14.8152801273727	1.33461538461538	5.85071623720769
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	Reactome	20000	121	67.81	67.5	7.67219168507443	1.79259259259259	6.93282991136371
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	Reactome	50000	290	165.5	167	9.74264809583062	1.73652694610778	12.7788665643461
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	Reactome	1e+05	558	324.75	324.5	15.6045674484276	1.71956856702619	14.947546657149
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	STRING	20000	30	16.53	16	4.11318402557955	1.875	3.2748352410763
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	STRING	50000	82	42.39	42	5.58839887805103	1.95238095238095	7.08789777973295
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	STRING	1e+05	160	84.41	83.5	8.94550843787659	1.91616766467066	8.45005071818399
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	OmniPath	20000	16	5.35	6	2.47155535211855	2.66666666666667	4.30902750807143
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	OmniPath	50000	38	14.81	15	3.99670318683241	2.53333333333333	5.80228226013932
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	binomial	OmniPath	1e+05	66	30.24	30	5.44043967326023	2.2	6.57299816699751

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	20000	368	111.08	111.5	8.8940792926894	3.30044843049327	28.8866325051969
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	50000	637	236.17	238.5	13.0113043313897	2.67085953878407	30.8062888847354
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	HIPPIE	1e+05	887	421.88	422	19.7756507765576	2.10189573459716	23.5198328113359
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	Reactome	20000	597	101.17	102	9.57802092545662	5.85294117647059	51.7674793006742
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	Reactome	50000	1046	234.48	234	14.8463375070668	4.47008547008547	54.6612927002179
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	Reactome	1e+05	1581	455.45	455.5	19.8460616147426	3.47091108671789	56.7140232580899
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	STRING	20000	261	42.34	43.5	6.27198356006916	6	34.8629740345794
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	STRING	50000	454	98.76	98.5	9.54110723515501	4.60913705583756	37.2325759730578
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	STRING	1e+05	711	179.71	181	12.70273572698	3.92817679558011	41.8248487112555
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	20000	294	20.98	21	4.53711963093928	14	60.1747412914213
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	50000	423	44.4	44	6.50252476218494	9.61363636363636	58.2235383710842
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	bicor	OmniPath	1e+05	513	80.36	80.5	8.9493750134472	6.37267080745342	48.3430406424942

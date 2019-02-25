@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	HIPPIE	20000	106	58.16	57.5	8.27277389264253	1.84347826086957	5.78282455447585
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	HIPPIE	50000	220	144.23	142	12.4947302023006	1.54929577464789	6.06415655025899
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	HIPPIE	1e+05	407	274.86	273.5	16.5181381786474	1.48811700182815	7.99969091981651
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	Reactome	20000	182	68.67	67	8.14025413446886	2.71641791044776	13.9221697661893
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	Reactome	50000	352	166.73	165	12.511695538676	2.13333333333333	14.8077452354316
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	Reactome	1e+05	607	321.02	321.5	17.415295726818	1.88802488335925	16.4211968884121
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	STRING	20000	103	59.85	59.5	6.44538046145682	1.73109243697479	6.69471728752642
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	STRING	50000	180	112.27	112	9.74508941348245	1.60714285714286	6.95016711763514
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	STRING	1e+05	275	174.34	175	11.885157537743	1.57142857142857	8.46938710575268
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	OmniPath	20000	83	19.56	19	4.2075449306495	4.36842105263158	15.0776761854346
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	OmniPath	50000	124	42.54	43	5.88684546212566	2.88372093023256	13.8376318053686
+Vascular_smooth_muscle_cells-expression.csv.gz	hamming	OmniPath	1e+05	191	76.19	76	7.53402383534291	2.51315789473684	15.2388686987442

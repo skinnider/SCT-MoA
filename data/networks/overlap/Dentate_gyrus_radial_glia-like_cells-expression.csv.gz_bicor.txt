@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	HIPPIE	20000	406	91.98	92.5	10.1134773565982	4.38918918918919	31.0496567034017
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	HIPPIE	50000	580	194.45	194.5	14.4888497706605	2.98200514138817	26.6101178563345
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	HIPPIE	1e+05	835	350.21	349	18.8198771987964	2.39255014326648	25.7594666999742
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	Reactome	20000	594	94.06	93	8.78798537030455	6.38709677419355	56.8890341680979
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	Reactome	50000	854	210.94	210.5	11.8012326012621	4.05700712589074	54.4909181716517
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	Reactome	1e+05	1176	392.98	392.5	16.0365617615283	2.99617834394904	48.8271745305445
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	STRING	20000	231	26.29	26	5.20740537187866	8.88461538461539	39.3113240435414
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	STRING	50000	329	59.68	60	7.71837634048336	5.48333333333333	34.8933490826821
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	STRING	1e+05	445	106.29	106.5	9.24557770345948	4.17840375586854	36.6348118920965
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	OmniPath	20000	401	25.58	25.5	4.84336472074753	15.7254901960784	77.5122299569579
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	OmniPath	50000	450	41.21	41	6.92425833828819	10.9756097560976	59.0373697843661
+Dentate_gyrus_radial_glia-like_cells-expression.csv.gz	bicor	OmniPath	1e+05	491	62.46	63	7.84112442977615	7.79365079365079	54.6528758519184

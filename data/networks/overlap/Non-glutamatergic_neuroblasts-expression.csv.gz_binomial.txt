@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	HIPPIE	20000	103	50.02	51	6.60116304414256	2.01960784313725	8.02585842005689
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	HIPPIE	50000	336	161.18	162.5	11.9090662348422	2.06769230769231	14.6795723990964
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	HIPPIE	1e+05	663	367.77	368	17.6908667870392	1.80163043478261	16.6882721776127
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	Reactome	20000	90	43.01	43.5	6.21580747982614	2.06896551724138	7.55975794818444
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	Reactome	50000	334	157.53	158	11.9065850552023	2.11392405063291	14.8212102111424
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	Reactome	1e+05	809	391.39	392	17.5395051932557	2.06377551020408	23.8096796573589
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	STRING	20000	94	37.29	37	5.8969175306796	2.54054054054054	9.61688877366145
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	STRING	50000	211	85.62	85	8.00729465404937	2.48235294117647	15.6582223356292
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	STRING	1e+05	388	163.02	163	11.4811923500035	2.38036809815951	19.5955257208048
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	OmniPath	20000	18	7.54	7	2.39705206156616	2.57142857142857	4.36369329131957
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	OmniPath	50000	56	20.05	20	4.52462398683274	2.8	7.94541161975432
+Non-glutamatergic_neuroblasts-expression.csv.gz	binomial	OmniPath	1e+05	131	44.28	44	5.857016857125	2.97727272727273	14.8061721718465

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	HIPPIE	20000	460	134.34	133.5	10.5535862065073	3.44569288389513	30.8577571289652
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	HIPPIE	50000	711	288.03	288	16.7618223015484	2.46875	25.2341298213695
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	965	502.07	501	23.4616622590897	1.92614770459082	19.7313385082358
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	Reactome	20000	781	143.86	143.5	10.9350885509063	5.44250871080139	58.2656461384755
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	Reactome	50000	1241	350.57	351	16.777964745764	3.53561253561254	53.0713953386276
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	Reactome	1e+05	1776	619.63	618.5	21.5479990399634	2.8714632174616	53.6648436755251
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	STRING	20000	313	45.95	46.5	6.47040660361941	6.73118279569892	41.2725221704951
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	STRING	50000	483	97.83	97	9.57274645791242	4.97938144329897	40.2361016969832
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	STRING	1e+05	679	179.57	181	12.4375246814638	3.75138121546961	40.1550961940461
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	OmniPath	20000	412	34.95	34	5.29794128111872	12.1176470588235	71.1691542040613
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	OmniPath	50000	511	73.9	74.5	7.81929754782449	6.85906040268456	55.9001620448132
+Cholinergic_and_monoaminergic_neurons-expression.csv.gz	spearman	OmniPath	1e+05	579	123.22	123	10.0026057211169	4.70731707317073	45.5661267381342

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	HIPPIE	20000	471	103.88	104	10.0134051565031	4.52884615384615	36.6628528719402
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	HIPPIE	50000	711	232.12	233.5	13.8010978922078	3.04496788008565	34.6986887376821
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	HIPPIE	1e+05	977	415.27	415	18.8448503267705	2.35421686746988	29.8081433526707
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	Reactome	20000	766	68.93	68.5	8.18751821649604	11.1824817518248	85.1381311855353
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	Reactome	50000	1125	201.96	204	13.1478922534021	5.51470588235294	70.204408601018
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	Reactome	1e+05	1597	418.67	419	19.9408493988464	3.81145584725537	59.0912641899881
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	STRING	20000	335	28.99	30	4.86690534906604	11.1666666666667	62.8756834276062
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	STRING	50000	526	77.17	76.5	8.33036916979377	6.87581699346405	53.8787646563702
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	STRING	1e+05	733	144.65	145	10.6755408161447	5.0551724137931	55.111962019782
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	OmniPath	20000	403	25.28	25	4.966717510417	16.12	76.0502281854736
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	OmniPath	50000	486	48.45	48	6.4859989067361	10.125	67.4606959223472
+Glutamatergic_neuroblasts-expression.csv.gz	kendall	OmniPath	1e+05	545	85.91	85	8.82157021227519	6.41176470588235	52.0417554871555

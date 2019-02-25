@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peptidergic_neurons-expression.csv.gz	spearman	HIPPIE	20000	470	98.27	98	8.52193248819382	4.79591836734694	43.6203878069898
+Peptidergic_neurons-expression.csv.gz	spearman	HIPPIE	50000	691	229.9	228.5	13.8713424517651	3.02407002188184	33.2411950467941
+Peptidergic_neurons-expression.csv.gz	spearman	HIPPIE	1e+05	985	434.59	433	18.0000533108077	2.27482678983834	30.5782427693989
+Peptidergic_neurons-expression.csv.gz	spearman	Reactome	20000	749	55.66	55.5	6.91831123201539	13.4954954954955	100.218099005358
+Peptidergic_neurons-expression.csv.gz	spearman	Reactome	50000	1083	166.47	166.5	11.7837887272166	6.5045045045045	77.7788893892101
+Peptidergic_neurons-expression.csv.gz	spearman	Reactome	1e+05	1493	384.04	385	14.6300645206639	3.87792207792208	75.8000758256176
+Peptidergic_neurons-expression.csv.gz	spearman	STRING	20000	307	29.71	30	4.44789134014506	10.2333333333333	62.3419006434085
+Peptidergic_neurons-expression.csv.gz	spearman	STRING	50000	491	69.64	69	8.11722199581193	7.11594202898551	51.909384789205
+Peptidergic_neurons-expression.csv.gz	spearman	STRING	1e+05	676	133.15	131.5	11.7020027639233	5.14068441064639	46.3894951104934
+Peptidergic_neurons-expression.csv.gz	spearman	OmniPath	20000	431	22.68	22	4.23759031964768	19.5909090909091	96.356648283534
+Peptidergic_neurons-expression.csv.gz	spearman	OmniPath	50000	500	45.39	45	6.16915592674434	11.1111111111111	73.6907942347815
+Peptidergic_neurons-expression.csv.gz	spearman	OmniPath	1e+05	550	78.25	77	8.30038942739825	7.14285714285714	56.8346827731756

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Choroid_epithelial_cells-expression.csv.gz	pearson	HIPPIE	20000	407	71.97	71	7.36008207024949	5.73239436619718	45.5198728495487
+Choroid_epithelial_cells-expression.csv.gz	pearson	HIPPIE	50000	651	177.89	177	12.8534042183384	3.67796610169492	36.8081476287034
+Choroid_epithelial_cells-expression.csv.gz	pearson	HIPPIE	1e+05	908	335.95	335	16.6444548960871	2.71044776119403	34.3688035187311
+Choroid_epithelial_cells-expression.csv.gz	pearson	Reactome	20000	750	69.88	70	7.65318973574503	10.7142857142857	88.8675210577137
+Choroid_epithelial_cells-expression.csv.gz	pearson	Reactome	50000	1069	188.88	190	13.7026724518698	5.62631578947368	64.2298064914995
+Choroid_epithelial_cells-expression.csv.gz	pearson	Reactome	1e+05	1442	395.51	393	18.7866786029168	3.66921119592875	55.7038325996337
+Choroid_epithelial_cells-expression.csv.gz	pearson	STRING	20000	326	26.53	26	4.74704586500325	12.5384615384615	63.0855501539998
+Choroid_epithelial_cells-expression.csv.gz	pearson	STRING	50000	475	65.9	65.5	6.98844645385395	7.25190839694656	58.5394769354485
+Choroid_epithelial_cells-expression.csv.gz	pearson	STRING	1e+05	645	129.3	129	10.2518783694019	5	50.3029768221965
+Choroid_epithelial_cells-expression.csv.gz	pearson	OmniPath	20000	433	17.97	18	3.55747896208208	24.0555555555556	116.664077124182
+Choroid_epithelial_cells-expression.csv.gz	pearson	OmniPath	50000	509	34.1	34	5.43743106307166	14.9705882352941	87.339038323683
+Choroid_epithelial_cells-expression.csv.gz	pearson	OmniPath	1e+05	562	56.93	58	6.74088235689475	9.68965517241379	74.9263929051367

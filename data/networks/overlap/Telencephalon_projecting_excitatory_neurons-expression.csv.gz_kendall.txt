@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	HIPPIE	20000	431	109.17	108.5	10.0222530179374	3.97235023041475	32.1115421277034
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	HIPPIE	50000	700	238.79	240	14.7019513581488	2.91666666666667	31.3706656187763
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	HIPPIE	1e+05	991	438.66	439.5	19.8891981241125	2.25483503981798	27.770853131096
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	Reactome	20000	699	94.47	96	9.29152432286674	7.28125	65.0625213897608
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	Reactome	50000	1171	239.6	239.5	13.0399541425729	4.88935281837161	71.4266315522661
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	Reactome	1e+05	1724	484.63	482	20.4186758442442	3.57676348547718	60.6978635369914
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	STRING	20000	353	44.79	45	5.49066241334994	7.84444444444444	56.1334820459225
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	STRING	50000	578	98.05	98.5	9.5625268204549	5.86802030456853	50.1907089006385
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	STRING	1e+05	823	176.71	177	12.9936231446138	4.64971751412429	49.7390137305857
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	OmniPath	20000	357	25.04	25	3.92845100169612	14.28	84.501499409481
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	OmniPath	50000	464	56.13	55	6.62815390907787	8.43636363636364	61.5359880888379
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	kendall	OmniPath	1e+05	566	101.39	102	8.61159073281441	5.54901960784314	53.9517046751429

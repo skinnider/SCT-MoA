@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocytes-expression.csv.gz	weighted_rank	HIPPIE	20000	193	41.84	41	6.21779784980262	4.70731707317073	24.3108579036223
+Oligodendrocytes-expression.csv.gz	weighted_rank	HIPPIE	50000	430	118.1	118	10.1070032725588	3.64406779661017	30.8597901463858
+Oligodendrocytes-expression.csv.gz	weighted_rank	HIPPIE	1e+05	706	250.4	250	14.1927567242711	2.824	32.1008813757003
+Oligodendrocytes-expression.csv.gz	weighted_rank	Reactome	20000	347	62.09	61	6.68647813867584	5.68852459016393	42.609875347087
+Oligodendrocytes-expression.csv.gz	weighted_rank	Reactome	50000	786	163.4	163	11.2096639403938	4.82208588957055	55.5413617491664
+Oligodendrocytes-expression.csv.gz	weighted_rank	Reactome	1e+05	1262	340.81	340	16.8820596905099	3.71176470588235	54.5662091526568
+Oligodendrocytes-expression.csv.gz	weighted_rank	STRING	20000	176	17.63	18	4.02430745657567	9.77777777777778	39.353355008009
+Oligodendrocytes-expression.csv.gz	weighted_rank	STRING	50000	356	50.19	49.5	7.33842110010214	7.19191919191919	41.6724518569456
+Oligodendrocytes-expression.csv.gz	weighted_rank	STRING	1e+05	559	106.52	106.5	10.9595030485286	5.24882629107981	41.2865435591763
+Oligodendrocytes-expression.csv.gz	weighted_rank	OmniPath	20000	175	8.5	9	2.73215052012997	19.4444444444444	60.9410055460925
+Oligodendrocytes-expression.csv.gz	weighted_rank	OmniPath	50000	338	22.82	23	4.71914219221068	14.695652173913	66.7875616293634
+Oligodendrocytes-expression.csv.gz	weighted_rank	OmniPath	1e+05	466	44.98	45	5.74892172586312	10.3555555555556	73.2346029527458

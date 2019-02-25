@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	HIPPIE	20000	523	107.06	106	9.30495686299632	4.93396226415094	44.7009057778761
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	HIPPIE	50000	736	228.6	229	14.4039837362706	3.21397379912664	35.2263657950626
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	HIPPIE	1e+05	1009	405.66	404	19.4480504592791	2.49752475247525	31.0231609725247
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	Reactome	20000	763	95.77	96.5	9.11193578430916	7.90673575129534	73.2259330831739
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	Reactome	50000	1039	220.79	221.5	13.9445474663183	4.69074492099323	58.6759808431437
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	Reactome	1e+05	1402	415.81	417.5	19.4228309892344	3.35808383233533	50.7747815211192
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	STRING	20000	338	33.01	33	6.31415757315145	10.2424242424242	48.3025639551432
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	STRING	50000	446	70.49	70	8.66724357054255	6.37142857142857	43.3251929455692
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	STRING	1e+05	557	125.35	125.5	11.414482206408	4.43824701195219	37.8159948208318
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	OmniPath	20000	478	28.73	29	5.03092456912266	16.4827586206897	89.3016768244545
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	OmniPath	50000	521	49.92	51	7.18680047100941	10.2156862745098	65.547944721754
+Subventricular_zone_radial_glia-like_cells-expression.csv.gz	bicor	OmniPath	1e+05	564	78.88	78	8.30027381804633	7.23076923076923	58.4462646214465

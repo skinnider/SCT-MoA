@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	HIPPIE	20000	226	67.96	68	7.23476455607356	3.32352941176471	21.8445256614918
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	HIPPIE	50000	503	171.28	171.5	12.5360732014906	2.93294460641399	26.4612366782093
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	HIPPIE	1e+05	860	343.83	344	17.7894844662727	2.5	29.0154557867381
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	Reactome	20000	420	101.96	103	8.75239649721403	4.07766990291262	36.3374762673555
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	Reactome	50000	859	262.53	263	14.4896026811844	3.26615969581749	41.1653799710155
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	Reactome	1e+05	1463	543.96	544.5	19.597423042303	2.68686868686869	46.8959616790513
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	STRING	20000	193	24.39	24	4.28503385651912	8.04166666666667	39.3485805820371
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	STRING	50000	364	68.78	69	7.96149826009241	5.27536231884058	37.0809601855736
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	STRING	1e+05	549	127.78	128	11.0742033482314	4.2890625	38.036144610553
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	OmniPath	20000	120	8.36	8.5	2.70248669625483	14.1176470588235	41.3101016018741
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	OmniPath	50000	282	21.44	21	3.91660541538179	13.4285714285714	66.5269978376416
+Sympathetic_noradrenergic_neurons-expression.csv.gz	zi_kendall	OmniPath	1e+05	454	47.23	47	6.09164853042112	9.65957446808511	66.7750278054666

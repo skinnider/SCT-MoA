@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Schwann_cells-expression.csv.gz	binomial	HIPPIE	20000	52	39.62	39	5.89946068413345	1.33333333333333	2.09849690723355
+Schwann_cells-expression.csv.gz	binomial	HIPPIE	50000	125	101.56	101.5	10.0677703589226	1.23152709359606	2.32822155893
+Schwann_cells-expression.csv.gz	binomial	HIPPIE	1e+05	252	207.69	207	14.7974165094295	1.21739130434783	2.9944416291698
+Schwann_cells-expression.csv.gz	binomial	Reactome	20000	110	66.46	65	7.83468073518138	1.69230769230769	5.55734196091553
+Schwann_cells-expression.csv.gz	binomial	Reactome	50000	264	169.02	168	10.9184118429246	1.57142857142857	8.69906735213958
+Schwann_cells-expression.csv.gz	binomial	Reactome	1e+05	527	337.35	337	17.0153673857701	1.56379821958457	11.1458069461729
+Schwann_cells-expression.csv.gz	binomial	STRING	20000	33	14.1	13	4.01889476740996	2.53846153846154	4.70278549049454
+Schwann_cells-expression.csv.gz	binomial	STRING	50000	64	40.45	40	6.32675096536744	1.6	3.72228970745212
+Schwann_cells-expression.csv.gz	binomial	STRING	1e+05	139	83.73	82	8.12634448860462	1.69512195121951	6.8013360838325
+Schwann_cells-expression.csv.gz	binomial	OmniPath	20000	7	3.91	4	1.8968075252589	1.75	1.6290530055643
+Schwann_cells-expression.csv.gz	binomial	OmniPath	50000	18	9.95	10	3.29178653406605	1.8	2.44548056706962
+Schwann_cells-expression.csv.gz	binomial	OmniPath	1e+05	40	22.89	23	4.46059062085602	1.73913043478261	3.83581490755959

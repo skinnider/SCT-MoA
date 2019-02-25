@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	HIPPIE	20000	308	66.5	67	8.48587656109261	4.59701492537313	28.4590517268737
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	HIPPIE	50000	511	176.81	176	13.0714392953693	2.90340909090909	25.5664271124596
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	HIPPIE	1e+05	828	357.62	357.5	16.7770767128932	2.31608391608392	28.0370655776112
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	Reactome	20000	429	46.66	46.5	6.87290096515057	9.2258064516129	55.6300755588763
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	Reactome	50000	728	133.87	134	10.4113913915034	5.43283582089552	57.0653794155566
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	Reactome	1e+05	1095	282.55	284.5	14.8006108255058	3.84885764499121	54.8930047265284
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	STRING	20000	198	25.83	26	4.88050129897462	7.61538461538461	35.2771138563517
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	STRING	50000	342	63.9	64	7.69428490517606	5.34375	36.1437097049679
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	STRING	1e+05	531	122.67	122.5	10.6420691767925	4.33469387755102	38.3694179408699
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	OmniPath	20000	284	17.5	18	3.68589996959475	15.7777777777778	72.3025589946491
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	OmniPath	50000	377	44.5	43	5.9075367031437	8.76744186046512	56.2840345660587
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	cosine	OmniPath	1e+05	488	82.41	81	7.46316882355537	6.02469135802469	54.3455480626233

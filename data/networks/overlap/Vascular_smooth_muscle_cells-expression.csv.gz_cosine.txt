@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	HIPPIE	20000	525	114.34	113.5	10.2200239182151	4.62555066079295	40.1819020470277
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	HIPPIE	50000	744	269.38	270	16.6968091066357	2.75555555555556	28.4257906387259
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	HIPPIE	1e+05	1052	514.13	516	25.2689193047167	2.03875968992248	21.285833142045
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	Reactome	20000	715	65.55	66	7.84493016494916	10.8333333333333	82.7859504603007
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	Reactome	50000	923	193.75	193	13.5530197164449	4.78238341968912	53.8071968651494
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	Reactome	1e+05	1319	389.44	389	20.2046699272393	3.39074550128535	46.0071856331985
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	STRING	20000	334	34.24	34	5.46082466854651	9.82352941176471	54.8928079904434
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	STRING	50000	476	78.82	79	8.22214305176189	6.0253164556962	48.3061408077654
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	STRING	1e+05	644	152.21	152	11.6126846355373	4.23684210526316	42.3493804778799
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	OmniPath	20000	491	32.73	33	6.01488893404433	14.8787878787879	76.1892704961163
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	OmniPath	50000	522	67.21	66.5	8.11943049204509	7.84962406015038	56.0125492108806
+Vascular_smooth_muscle_cells-expression.csv.gz	cosine	OmniPath	1e+05	562	118.37	119	9.53743819234113	4.72268907563025	46.5145871515319

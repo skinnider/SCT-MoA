@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	HIPPIE	20000	109	43.17	43	5.58326322886789	2.53488372093023	11.7905958041939
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	HIPPIE	50000	224	107.46	107	10.7124208093203	2.09345794392523	10.8789602345162
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	HIPPIE	1e+05	405	200.79	200	14.6530894456777	2.025	13.9363102065986
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	Reactome	20000	161	35.51	35	5.30388651096647	4.6	23.6600085127261
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	Reactome	50000	379	116.59	118	9.89346789910934	3.21186440677966	26.5235610683715
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	Reactome	1e+05	641	235.74	235	13.5792622640688	2.72765957446809	29.8440365992732
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	STRING	20000	102	12.97	13	3.38879615703562	7.84615384615385	26.2718664311399
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	STRING	50000	158	32.67	32.5	5.16017187091416	4.86153846153846	24.2879506991687
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	STRING	1e+05	251	59.33	59.5	7.57595211871422	4.21848739495798	25.2997903097268
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	OmniPath	20000	74	9.14	9	2.91294567839027	8.22222222222222	22.2661206767998
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	OmniPath	50000	139	21.97	22	4.60885182572787	6.31818181818182	25.3924414203786
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	rho_p	OmniPath	1e+05	220	39.03	39	5.60565190975442	5.64102564102564	32.283488684892

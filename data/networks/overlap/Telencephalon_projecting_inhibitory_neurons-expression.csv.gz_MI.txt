@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	HIPPIE	20000	173	37.38	37	6.29057335473589	4.67567567567568	21.5592430692979
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	HIPPIE	50000	413	114.47	113.5	8.73799898504379	3.63876651982379	34.1645725195176
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	HIPPIE	1e+05	680	250.73	251.5	14.6438217399528	2.7037773359841	29.3140689379481
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	Reactome	20000	298	36.89	37	5.76806779264998	8.05405405405405	45.2681919468287
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	Reactome	50000	685	112.9	114	11.1631609150886	6.00877192982456	51.2489253135038
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	Reactome	1e+05	1058	245.18	245	15.9262060894628	4.31836734693878	51.0366370643531
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	STRING	20000	175	23.33	24	4.67975437497536	7.29166666666667	32.4098206544865
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	STRING	50000	338	60.9	60.5	7.55384710333788	5.58677685950413	36.6832947780417
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	STRING	1e+05	557	119.4	118.5	9.83602941981543	4.70042194092827	44.4894968612458
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	OmniPath	20000	152	12.55	12	3.21415744493142	12.6666666666667	43.3861758141022
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	OmniPath	50000	324	31.71	31.5	4.83107575280009	10.2857142857143	60.5020527427228
+Telencephalon_projecting_inhibitory_neurons-expression.csv.gz	MI	OmniPath	1e+05	447	63.87	64	7.3369894467291	6.984375	52.2189656645619

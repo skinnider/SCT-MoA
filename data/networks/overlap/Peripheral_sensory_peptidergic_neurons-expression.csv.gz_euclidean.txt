@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	HIPPIE	20000	33	39.83	40	6.12999744591045	0.825	-1.11419296015475
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	HIPPIE	50000	97	91.16	92	9.53644789131878	1.05434782608696	0.612387344486648
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	221	181.06	181	13.5025773820999	1.22099447513812	2.95795379428432
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	Reactome	20000	91	43.62	43.5	6.06992919267107	2.09195402298851	7.80569237236036
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	Reactome	50000	217	109.55	110	10.7123783776083	1.97272727272727	10.0304522686202
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	Reactome	1e+05	400	210.79	211	13.5044287535459	1.8957345971564	14.0109591788782
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	STRING	20000	24	16.4	16	3.87949804104926	1.5	1.95901632623186
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	STRING	50000	55	34.05	34	5.2596712268108	1.61764705882353	3.98313869756894
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	STRING	1e+05	99	65.6	65	8.09663853432741	1.52307692307692	4.12516871765902
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	OmniPath	20000	2	4.61	4.5	1.99946962664572	0.444444444444444	-1.30534616041079
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	OmniPath	50000	11	9.24	9	2.63281544581408	1.22222222222222	0.668485898925514
+Peripheral_sensory_peptidergic_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	19	19.25	19	3.90641792568345	1	-0.0639972488238725

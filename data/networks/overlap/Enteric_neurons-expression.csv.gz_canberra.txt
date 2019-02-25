@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Enteric_neurons-expression.csv.gz	canberra	HIPPIE	20000	515	131.63	132	10.1758825591978	3.90151515151515	37.6743734776576
+Enteric_neurons-expression.csv.gz	canberra	HIPPIE	50000	748	286.56	287.5	15.6471961537762	2.60173913043478	29.490267487229
+Enteric_neurons-expression.csv.gz	canberra	HIPPIE	1e+05	1051	509.31	508	21.233047902558	2.06889763779528	25.5116459250648
+Enteric_neurons-expression.csv.gz	canberra	Reactome	20000	717	85.1	85	8.45964872590207	8.43529411764706	74.6957728948277
+Enteric_neurons-expression.csv.gz	canberra	Reactome	50000	1043	232.81	232	14.7207645552434	4.49568965517241	55.0372228942022
+Enteric_neurons-expression.csv.gz	canberra	Reactome	1e+05	1529	494.57	497.5	19.9328443235852	3.07336683417085	51.8957547255827
+Enteric_neurons-expression.csv.gz	canberra	STRING	20000	378	45.57	45	5.95480452825254	8.4	55.825510043661
+Enteric_neurons-expression.csv.gz	canberra	STRING	50000	503	99.17	99	8.9736482902086	5.08080808080808	45.001763713052
+Enteric_neurons-expression.csv.gz	canberra	STRING	1e+05	673	163.29	165	11.0126602993412	4.07878787878788	46.284002788181
+Enteric_neurons-expression.csv.gz	canberra	OmniPath	20000	457	30.6	30	5.54868261733168	15.2333333333333	76.8470697293283
+Enteric_neurons-expression.csv.gz	canberra	OmniPath	50000	508	56.97	57	7.32844878648692	8.91228070175439	61.5450845247992
+Enteric_neurons-expression.csv.gz	canberra	OmniPath	1e+05	576	91.81	92.5	9.23070742662552	6.22702702702703	52.4542678715369

@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocytes-expression.csv.gz	euclidean	HIPPIE	20000	70	59.83	60	6.79282895799131	1.16666666666667	1.4971670953139
+Oligodendrocytes-expression.csv.gz	euclidean	HIPPIE	50000	152	133.05	133	10.2013813681374	1.14285714285714	1.85759156688207
+Oligodendrocytes-expression.csv.gz	euclidean	HIPPIE	1e+05	288	246.51	246.5	14.4442466963931	1.1683569979716	2.87242393958562
+Oligodendrocytes-expression.csv.gz	euclidean	Reactome	20000	97	54.64	55	6.78905833907127	1.76363636363636	6.23945146504585
+Oligodendrocytes-expression.csv.gz	euclidean	Reactome	50000	228	136.04	136	10.1672081326253	1.67647058823529	9.04476418702517
+Oligodendrocytes-expression.csv.gz	euclidean	Reactome	1e+05	447	266.69	266	13.0443648578785	1.68045112781955	13.8228270954179
+Oligodendrocytes-expression.csv.gz	euclidean	STRING	20000	52	36.52	36	5.6326608886803	1.44444444444444	2.74825705043054
+Oligodendrocytes-expression.csv.gz	euclidean	STRING	50000	104	66.87	67	7.23160152428635	1.55223880597015	5.13440900681598
+Oligodendrocytes-expression.csv.gz	euclidean	STRING	1e+05	151	105.67	106	8.61646884480733	1.42452830188679	5.26085578865847
+Oligodendrocytes-expression.csv.gz	euclidean	OmniPath	20000	33	19.68	20	4.07227630980934	1.65	3.27089789263923
+Oligodendrocytes-expression.csv.gz	euclidean	OmniPath	50000	48	32.36	33	5.21946628333092	1.45454545454545	2.99647495567669
+Oligodendrocytes-expression.csv.gz	euclidean	OmniPath	1e+05	76	52.92	53	7.34665456744315	1.43396226415094	3.14156597239232

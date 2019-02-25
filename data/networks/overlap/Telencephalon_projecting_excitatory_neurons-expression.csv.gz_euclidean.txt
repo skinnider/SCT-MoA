@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	HIPPIE	20000	34	30.45	31	6.01744098098153	1.09677419354839	0.589951777046087
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	HIPPIE	50000	98	79.1	79	9.13479307069648	1.24050632911392	2.06901238525362
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	209	160.89	161.5	13.0072978738783	1.29411764705882	3.69869287737435
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	Reactome	20000	67	30.14	30	4.83050073737054	2.23333333333333	7.63067888900986
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	Reactome	50000	186	90.05	90	8.34650474235421	2.06666666666667	11.4958300464508
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	Reactome	1e+05	407	194.92	195	12.8924690255884	2.08717948717949	16.4499134788745
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	STRING	20000	25	10.73	11	3.27480433527615	2.27272727272727	4.35751224776508
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	STRING	50000	60	25.46	25.5	5.00185824055279	2.35294117647059	6.90543360864676
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	STRING	1e+05	103	46.34	45	6.20234559735999	2.28888888888889	9.13525360858916
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	OmniPath	20000	9	3.12	3	1.66533279957291	3	3.53082579140217
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	OmniPath	50000	18	8.94	9	2.78821473601683	2	3.24939104688288
+Telencephalon_projecting_excitatory_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	43	18.28	18	3.87188780203083	2.38888888888889	6.38448252220382

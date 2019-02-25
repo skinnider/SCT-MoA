@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	HIPPIE	20000	507	104.72	106	10.3055148519439	4.78301886792453	39.0354102419365
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	HIPPIE	50000	759	255.56	256	13.844971373146	2.96484375	36.3626609569221
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	HIPPIE	1e+05	1068	459.74	460.5	20.3204728331212	2.31921824104235	29.9333585884169
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	Reactome	20000	712	67.96	69	8.33141796169927	10.3188405797101	77.3025675774213
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	Reactome	50000	985	180.39	179	13.9543954191915	5.50279329608939	57.6599684779909
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	Reactome	1e+05	1369	374.01	374	21.875910370667	3.66042780748663	45.4833642641984
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	STRING	20000	317	35.18	35	5.80904901899188	9.05714285714286	48.5139648638923
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	STRING	50000	459	74.62	75	8.78564025825522	6.12	43.7509377462646
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	STRING	1e+05	655	137.45	138	11.3407952262457	4.7463768115942	45.6361295372171
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	OmniPath	20000	482	28	28	5.11484273087806	17.2142857142857	88.7612823868901
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	OmniPath	50000	518	52.63	53	6.95389579061023	9.77358490566038	66.9221992984686
+Oligodendrocyte_precursor_cells-expression.csv.gz	cosine	OmniPath	1e+05	553	81.88	83	8.81261721750254	6.66265060240964	53.4597144494509

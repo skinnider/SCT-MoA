@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	HIPPIE	20000	381	81.86	81	8.88310165142193	4.7037037037037	33.6751747011829
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	HIPPIE	50000	546	171.64	170	11.4252246181752	3.21176470588235	32.7660954170186
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	HIPPIE	1e+05	793	310.61	307.5	16.9460790733313	2.57886178861789	28.4661719039867
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	Reactome	20000	672	140.77	140	10.6200258707288	4.8	50.021535396085
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	Reactome	50000	1112	324.81	324.5	15.1422180567038	3.42681047765794	51.9864393084401
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	Reactome	1e+05	1669	591.11	588.5	21.2702167645777	2.83602378929482	50.6760232831789
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	STRING	20000	283	37.75	37.5	5.3245666585188	7.54666666666667	46.060086337284
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	STRING	50000	437	72.91	73	7.20142382105824	5.98630136986301	50.5580575518047
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	STRING	1e+05	590	120.28	121	9.12326363720458	4.87603305785124	51.4859614584069
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	OmniPath	20000	384	23.89	24	5.10079217456277	16	70.5988379208702
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	OmniPath	50000	489	42.83	43	6.35968203258273	11.3720930232558	70.1560231650145
+Peripheral_sensory_non-peptidergic_neurons-expression.csv.gz	phi_s	OmniPath	1e+05	594	71.16	71	7.42194398559114	8.36619718309859	70.4451557455883

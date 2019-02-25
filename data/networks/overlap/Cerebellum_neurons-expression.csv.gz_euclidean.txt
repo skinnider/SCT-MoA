@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Cerebellum_neurons-expression.csv.gz	euclidean	HIPPIE	20000	45	26.44	26	5.33772546421349	1.73076923076923	3.47713649276917
+Cerebellum_neurons-expression.csv.gz	euclidean	HIPPIE	50000	114	77.48	77	8.85287147389667	1.48051948051948	4.1252152036412
+Cerebellum_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	216	168.93	166.5	12.6907705268694	1.2972972972973	3.70899465090332
+Cerebellum_neurons-expression.csv.gz	euclidean	Reactome	20000	91	34.33	33	6.50105663517381	2.75757575757576	8.7170445021796
+Cerebellum_neurons-expression.csv.gz	euclidean	Reactome	50000	212	86.05	87	9.41777279639111	2.4367816091954	13.3736503017214
+Cerebellum_neurons-expression.csv.gz	euclidean	Reactome	1e+05	421	192.47	192	13.5418953360646	2.19270833333333	16.8757765680983
+Cerebellum_neurons-expression.csv.gz	euclidean	STRING	20000	19	7.93	8	2.87888516582023	2.375	3.84523847336092
+Cerebellum_neurons-expression.csv.gz	euclidean	STRING	50000	49	20.78	21	4.44172138803065	2.33333333333333	6.35339264548335
+Cerebellum_neurons-expression.csv.gz	euclidean	STRING	1e+05	98	44.4	45	6.4007575309253	2.17777777777778	8.3740088170863
+Cerebellum_neurons-expression.csv.gz	euclidean	OmniPath	20000	6	1.51	1	1.25926866702764	6	3.5655615974295
+Cerebellum_neurons-expression.csv.gz	euclidean	OmniPath	50000	12	6.4	6	2.37835356004225	2	2.35457002444183
+Cerebellum_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	30	17.58	17	4.34887655294184	1.76470588235294	2.85590999165023

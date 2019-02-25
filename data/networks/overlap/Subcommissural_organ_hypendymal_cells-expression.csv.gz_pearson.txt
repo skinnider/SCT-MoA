@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	HIPPIE	20000	192	71.92	72.5	8.56900687290416	2.64827586206897	14.0132925298148
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	HIPPIE	50000	373	157.25	158	11.9454779914595	2.36075949367089	18.0612278683407
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	HIPPIE	1e+05	597	292.62	294	17.9284661638942	2.03061224489796	16.9774701983701
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	Reactome	20000	293	70.17	70	7.86380918826843	4.18571428571429	28.3361402426228
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	Reactome	50000	538	162.4	159.5	11.8985611556926	3.3730407523511	31.5668419975554
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	Reactome	1e+05	864	310.32	309.5	17.5377687672444	2.79159935379645	31.570720731255
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	STRING	20000	114	30.48	30	5.21938887246584	3.8	16.0018734071719
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	STRING	50000	205	61.18	62	8.04203602543183	3.30645161290323	17.8835309298776
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	STRING	1e+05	323	110.35	110	10.1168676032164	2.93636363636364	21.0193518725492
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	OmniPath	20000	155	15.34	15	4.10769172566921	10.3333333333333	33.9996302856069
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	OmniPath	50000	240	32.35	33	5.8953414239593	7.27272727272727	35.2227267374351
+Subcommissural_organ_hypendymal_cells-expression.csv.gz	pearson	OmniPath	1e+05	338	56.65	57	7.46490103583078	5.92982456140351	37.6897159988522

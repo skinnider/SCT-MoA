@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	HIPPIE	20000	409	110.08	110	9.58921953618392	3.71818181818182	31.1725056321901
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	HIPPIE	50000	686	268.56	269	15.0717610052037	2.55018587360595	27.6968298432992
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	HIPPIE	1e+05	1073	499.22	501	19.0335058103951	2.14171656686627	30.1457863683017
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	Reactome	20000	621	72.7	72	8.54991287096015	8.625	64.1293084824648
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	Reactome	50000	1050	214.83	215	12.425174022723	4.88372093023256	67.2159599915989
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	Reactome	1e+05	1581	465.19	465.5	19.3514518026087	3.39634801288937	57.6602733160094
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	STRING	20000	264	30.47	30	4.56702055695798	8.8	51.1339936152052
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	STRING	50000	445	80.75	80	8.63674906104342	5.5625	42.1744336237545
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	STRING	1e+05	667	152.4	150.5	12.5456741307089	4.43189368770764	41.0181226324361
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	OmniPath	20000	352	22.9	23	4.1182030012611	15.304347826087	79.9134962261989
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	OmniPath	50000	447	49.23	49	6.0800302365011	9.12244897959184	65.4223720158514
+Spinal_cord_excitatory_neurons-expression.csv.gz	weighted_rank	OmniPath	1e+05	529	86.85	87	7.71640650127566	6.08045977011494	57.2999880095618

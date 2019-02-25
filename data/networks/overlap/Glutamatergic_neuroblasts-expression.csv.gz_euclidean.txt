@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	HIPPIE	20000	72	49	48	6.48074069840786	1.5	3.54897704912811
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	HIPPIE	50000	137	104.9	105	9.36304793679209	1.3047619047619	3.42837078446037
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	HIPPIE	1e+05	251	196.08	195.5	12.9034331035808	1.28388746803069	4.25623162139378
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	Reactome	20000	114	51.75	52	6.22048586884051	2.19230769230769	10.0072568787305
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	Reactome	50000	244	111.59	111	8.44123477012957	2.1981981981982	15.6860937535525
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	Reactome	1e+05	463	222.56	222	13.6835224952783	2.08558558558559	17.5714988653665
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	STRING	20000	28	10.93	11	3.22945722055486	2.54545454545455	5.28571795017218
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	STRING	50000	56	31.82	31	5.13923313070318	1.80645161290323	4.70498212185435
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	STRING	1e+05	124	66.37	66	8.46699474429977	1.87878787878788	6.806429168838
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	OmniPath	20000	9	6.85	7	2.57169911996648	1.28571428571429	0.836023150339618
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	OmniPath	50000	19	13.57	13.5	3.70981499171148	1.40740740740741	1.46368485008869
+Glutamatergic_neuroblasts-expression.csv.gz	euclidean	OmniPath	1e+05	38	24.62	24	5.29871339443488	1.58333333333333	2.52514129449853

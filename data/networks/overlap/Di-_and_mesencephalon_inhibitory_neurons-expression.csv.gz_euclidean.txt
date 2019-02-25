@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	20000	66	39.88	40	5.93275448317017	1.65	4.40267671182017
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	50000	144	101.1	101.5	9.77886816693336	1.41871921182266	4.38701077340052
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	HIPPIE	1e+05	295	210.87	210	14.3728524965954	1.4047619047619	5.853396187008
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	20000	93	41.29	41	5.36222289199492	2.26829268292683	9.64338876647521
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	50000	229	104.35	104	9.44668719657315	2.20192307692308	13.1951018813471
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	Reactome	1e+05	446	207.16	206	12.0635689980079	2.16504854368932	19.7984526834008
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	STRING	20000	32	8.3	8	2.99325841844568	4	7.91779281533158
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	STRING	50000	60	27.66	27	4.37444368757418	2.22222222222222	7.39294006501063
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	STRING	1e+05	115	58.62	58	6.99607393507605	1.98275862068966	8.05880562772914
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	20000	11	5.02	5	2.36549266656136	2.2	2.5280146011583
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	50000	21	14.31	14	3.7408339155646	1.5	1.7883712966151
+Di-_and_mesencephalon_inhibitory_neurons-expression.csv.gz	euclidean	OmniPath	1e+05	37	29.42	29	4.6366567544499	1.27586206896552	1.63479860628573

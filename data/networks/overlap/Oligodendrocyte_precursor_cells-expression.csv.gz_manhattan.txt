@@ -1,0 +1,13 @@
+dataset	coefficient	network	cutoff	obs	rnd_mean	rnd_median	rnd_sd	enrichment	z_score
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	HIPPIE	20000	59	43.56	42	6.39336777568376	1.4047619047619	2.41500263112092
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	HIPPIE	50000	112	97.07	96	9.09351528299261	1.16666666666667	1.64182931851704
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	HIPPIE	1e+05	222	180.99	181.5	13.5240115679072	1.22314049586777	3.03238427400621
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	Reactome	20000	75	49.48	49	6.42985460978942	1.53061224489796	3.96898554457918
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	Reactome	50000	174	115.86	115	10.9415527123702	1.51304347826087	5.31368824227923
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	Reactome	1e+05	392	238.17	239	14.3090386070688	1.64016736401674	10.7505475541876
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	STRING	20000	19	10.89	10	3.3901074146446	1.9	2.39225458313397
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	STRING	50000	48	27.68	28	4.60100999013183	1.71428571428571	4.41642162124881
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	STRING	1e+05	92	58.26	58	6.10285576470954	1.58620689655172	5.52855930089408
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	OmniPath	20000	12	6.03	6	2.19022161140619	2	2.72575157185445
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	OmniPath	50000	21	15.8	16	3.21297873059134	1.3125	1.61843586155423
+Oligodendrocyte_precursor_cells-expression.csv.gz	manhattan	OmniPath	1e+05	41	30.85	31	5.27501256640755	1.32258064516129	1.92416603225506
